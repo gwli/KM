@@ -24,7 +24,7 @@ Q_dict = {
 ######
 #Q_1_0 #:   比特币的 交易单位
 ######
-"Q_1_0": ["   比特币的 交易单位",
+"Q_1_0": ["   比特币的 交易单位, 目前的理论是10^-8，但是一般交易网站的交易最小是mBTC",
     {
     "url" :"https://zh.wikipedia.org/zh-hk/%E6%AF%94%E7%89%B9%E5%B8%81",
     "abstract" :"货币单位. 1, 比特币（Bitcoins，BTC）. 10−2, 比特分（Bitcent，cBTC）. 10−3, 毫比特（Milli-Bitcoins，mBTC）. 10−6, 微比（Micro-Bitcoins，μBTC）. 10−8, 聰（satoshi）. 比特币（英语：Bitcoin）是一種全球通用的互联网加密货币。與傳統第一代互聯網中，由特定機構發行 ... 比特幣是經由一種稱為「挖礦」的過程產生，參與者透過處理交易驗證和記錄來 ...",
@@ -48,7 +48,7 @@ keyword_list = [
    "比特币  交易机制",
    "比特币  都用在哪",
 ]
-meta_data = {"status":"c","Major": 1,"Minor": 2,"Prefix": "Q"}
+meta_data = {"status":"mc","Major": 1,"Minor": 2,"Prefix": "Q"}
 km_0_title = "比特币"
 km_0_summary = ""
 km_1_tags = []
