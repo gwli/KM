@@ -16,21 +16,6 @@ Q_dict = {
     "title" :"比特币的工作原理－ 比特币 - Bitcoin",
     },
     {
-    "url" :"https://bitcoin.org/zh_TW/faq",
-    "abstract" :"這是因為有人用PayPal購買了比特幣，之後他們就自己取消了交易。這通常被認為 .... 有多種機制並存來保護用戶的隱私，而且更多的方式正在開發的進程中。不過，在 ...",
-    "title" :"常見問題- Bitcoin",
-    },
-    {
-    "url" :"http://pansci.asia/archives/53571",
-    "abstract" :"2013年12月16日 - 與傳統貨幣不同，比特幣執行機制不依賴中央銀行、政府、企業的支援或者 ... 有多種途徑使用比特幣，透過電子貨幣交易所、服務商和個人等渠道，就 ...",
-    "title" :"比特幣(Bit Coin) 的運作原理- PanSci 泛科學",
-    },
-    {
-    "url" :"http://www.wanbizu.com/p/9722.html",
-    "abstract" :"比特币交易平台监管机制的未来？ ...类：互联网上的虚拟货币 此类是我们重点讨论的虚拟货币，主要是比特币(BTC)、莱特货币(LTC)，比特币是一种由开源的P2P软体 ...",
-    "title" :"比特币交易机制-玩币族",
-    },
-    {
     "url" :"https://www.zhihu.com/question/20941124",
     "abstract" :"知识准备完了，下面开始讲比特币的交易，比特币其实没有钱包，只有交易账单， ..... 对他们自己赖以赚钱的平台的核心机制毁灭性打击，所以这种事情是不会发生的。",
     "title" :"比特币(Bitcoin) 系统是如何运行的？ - 知乎",
@@ -66,21 +51,6 @@ Q_dict = {
     "title" :"比特币- 维基百科，自由的百科全书",
     },
     {
-    "url" :"https://bitcoin.org/zh_TW/faq",
-    "abstract" :"跳至 真的有人在用Bitcoin 嗎？ - 是的。越來越多的企業和個人使用Bitcoin。這包括實體企業，如餐廳、公寓、法律公司和廣受歡迎的線上服務如Namecheap, WordPress, ...",
-    "title" :"常見問題- Bitcoin",
-    },
-    {
-    "url" :"https://bitcoin.org/zh_CN/faq",
-    "abstract" :"跳至 我能用比特币赚钱吗？ - 你永远不应期望通过比特币或任何新兴技术致富。对于任何听起来 ... 用比特币赚钱的方法有很多种，如挖矿，投机或经营新业务。",
-    "title" :"常见问题- 比特币 - Bitcoin",
-    },
-    {
-    "url" :"https://bitcoin.org/zh_CN/getting-started",
-    "abstract" :"告诉自己. 比特币与你日常所知道的、所用到的都不同。在开始使用它之前，先了解一些注意事项可以增加安全性和避免常见的陷阱。 了解更多 ...",
-    "title" :"入门指南- 比特币 - Bitcoin",
-    },
-    {
     "url" :"https://read01.com/M3PBMR.html",
     "abstract" :"2016年5月30日 - 本文就不去分析為何近期漲了，因那是見仁見智，沒標準答案的，而是介紹下我認為的比特幣三大核心用途，以解決大家常問的幣有什麼用，幣的價值 ...",
     "title" :"三大核心用途，幫你明白比特幣為何值數千- 壹讀",
@@ -94,23 +64,6 @@ Q_dict = {
     "url" :"http://www.bitcoin-tw.com/spend-bitcoin.html",
     "abstract" :"未來比特幣的應用多，主要與消費者直接相關的應用是以比特幣為支付媒介消費商品。如果你有比特幣（位元幣），人身在台灣，你可以用bitcoin在多少店家購買到什麼 ...",
     "title" :"用比特幣買東西 - Bitcoin-tw.com 比特台灣",
-    },
-    {
-    "url" :"https://technews.tw/2016/01/17/the-resolution-of-the-bitcoin-experiment/",
-    "abstract" :"2016年1月17日 - Hearn 將比特幣社群現在的狀況形容為一場「內戰」（civil war），一群比特幣玩家正在使用自己的權威和影響力去攻擊另一群比特幣玩家。而內戰對 ...",
-    "title" :"比特幣世界在下沉，少數人在狂歡| TechNews 科技新報",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=w8JODQAAQBAJ&pg=PA88&lpg=PA88&dq=%E6%AF%94%E7%89%B9%E5%B8%81+%E9%83%BD%E7%94%A8%E5%9C%A8%E5%93%AA&source=bl&ots=ZGDjL1b04q&sig=Fd8YkXTmKzbTnbn3aKSdagdczbQ&hl=zh-TW&sa=X&ved=0ahUKEwju-ti9pPfTAhUGLpQKHbHRARgQ6AEIWDAI",
-    "abstract" :"也有挖礦的功能,你的電腦變成比特幣的礦機(Rig)。 ... 最早由使用CPU的電腦,用更快的CPU無法與其它礦工競爭 ... 池分享利潤也許不會像昔日的金山礦場那麼血腥,但不論你是花了時間或花了錢投入礦池,與礦池主人分比特幣都是要特別留意的問題。",
-    "title" :"比特幣區塊鏈大未來: 繁體中文語系第一本比特幣區塊鏈的專書",
-    "metadata" :"張渝江",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=EgwsAwAAQBAJ&pg=PT85&lpg=PT85&dq=%E6%AF%94%E7%89%B9%E5%B8%81+%E9%83%BD%E7%94%A8%E5%9C%A8%E5%93%AA&source=bl&ots=Q7vvkf2P9q&sig=VxJgpDum8MKUbexf8ta1Kq7SmPA&hl=zh-TW&sa=X&ved=0ahUKEwju-ti9pPfTAhUGLpQKHbHRARgQ6AEIXTAJ",
-    "abstract" :"以比特幣兌換人民幣成交價 5510元和深圳新房成交均價約3萬/平方米來計算,一套 ... 進行結算(我們目前廣泛使用的諸如信用卡支付和淘寶支付過程均需經過這種結算)。 ... 像製造假鈔那樣復複製比特幣,因為每一“枚”比特幣都是獨一無二、無法複製的。",
-    "title" :"《政經》第4期: 中共太子黨買辦中國一條龍 - Google 圖書結果",
-    "metadata" :"《政經》編輯部 - 2014 - Political Science",
     },
     ],
 ######
@@ -136,11 +89,6 @@ Q_dict = {
     "url" :"http://www.blockex.com/why-blockchain/?lang=zh-hans",
     "abstract" :"安全性. 区块链资产的安全性提高，使得系统防范黑客和欺诈的安全性增强。 ... 性. 采用区块链技术并不意味着在不合需要的情况下，系统需为公共分类账或开放系统。",
     "title" :"为什么采用区块链- BlockEx",
-    },
-    {
-    "url" :"https://www.lightblue.asia/q-n-a-for-blockchain/",
-    "abstract" :"2016年11月27日 - 從比特幣(Bitcoin)開始，區塊鏈技術去中心化及資料無法被竄改的特性日漸被 ... 當然區塊鏈上面的共識演算法核機制還是會有安全性疑慮，例如51% ...",
-    "title" :"五個問答讓你秒懂區塊鏈原理及應用- LightBlue Essay",
     },
     {
     "url" :"https://zhuanlan.zhihu.com/p/26603833",
@@ -207,11 +155,6 @@ Q_dict = {
     "abstract" :"2014年5月22日 - 比特币发行流通机制及其价格波动研究. 唐晓瞳. 上海交通大学. 摘要：2013 年底的比特币价格过山车走势及央行颁布的《关于防范比特币风险的通知》.",
     "title" :"[PDF] 比特币发行流通机制及其价格波动研究 - 上海交通大学安泰经济与管理学院",
     "metadata" :"由 唐晓瞳 著作 - 被引用 1 次 - 相關文章",
-    },
-    {
-    "url" :"http://pansci.asia/archives/53571",
-    "abstract" :"2013年12月16日 - 與傳統貨幣不同，比特幣執行機制不依賴中央銀行、政府、企業的支援 ... 路和它的第一個區塊鏈開始執行， 他發行了有史以來的第一組50個比特幣。",
-    "title" :"比特幣(Bit Coin) 的運作原理- PanSci 泛科學",
     },
     {
     "url" :"http://jacklynn.pixnet.net/blog/post/40044844-%E4%BB%80%E9%BA%BC%E6%98%AF%E6%AF%94%E7%89%B9%E5%B9%A3%28bitcoin%29",
@@ -293,7 +236,7 @@ keyword_list = [
    "   局部化",
    "   是什么",
 ]
-meta_data = {"status":".","Major": 2,"Minor": 4,"Prefix": "Q"}
+meta_data = {"status":"hc","Major": 2,"Minor": 4,"Prefix": "Q"}
 km_0_title = "比特币"
 km_0_summary = ""
 km_1_tags = []
