@@ -29,12 +29,6 @@ Q_dict = {
     "metadata" :"王峰 - 2016",
     },
     {
-    "url" :"https://books.google.com.hk/books?id=I64ODgAAQBAJ&pg=PT124&lpg=PT124&dq=%E4%BF%A1%E4%BB%BB+%E4%B8%8E%E7%A4%BC%E4%BB%AA&source=bl&ots=m7JV1QBdlW&sig=uQ82gIXwn7AdbM68v-aiqi3OPno&hl=zh-TW&sa=X&ved=0ahUKEwjV8ZPmq4HUAhVGKZQKHXvDDHUQ6AEISzAJ",
-    "abstract" :"因此,对于刚刚步入社会的年轻人来讲,学习必要的礼仪知识是十分重要的。 ... 在言行举止之间表现出友善和真诚,别人才愿意和你交往,你才会赢得对方的好感和信任。",
-    "title" :"二十几岁要懂的100条人生经验:  - Google 圖書結果",
-    "metadata" :"马银文 - 2017",
-    },
-    {
     "url" :"https://books.google.com.hk/books?id=RGyYCwAAQBAJ&pg=PT118&lpg=PT118&dq=%E4%BF%A1%E4%BB%BB+%E4%B8%8E%E7%A4%BC%E4%BB%AA&source=bl&ots=mXset-98fP&sig=5h0IkbuxzP_ZjYjRuLKM04pqSLc&hl=zh-TW&sa=X&ved=0ahUKEwjV8ZPmq4HUAhVGKZQKHXvDDHUQ6AEIUDAK",
     "abstract" :"学习礼仪知识,有助于个人成长通晓礼仪知识,一个人才会在社会中立于不败之地;学习 ... 之间表现出友善和真诚,别人才愿意和你交往,你才会赢得对方的好感和信任。",
     "title" :"二十几岁要明白的108条人生经验:  - Google 圖書結果",
@@ -45,11 +39,6 @@ Q_dict = {
     "abstract" :"一句“像我这样的人”,往往能消除别人对我们的不信任感在有着众多的学者及评论家的座谈会中,主办单位安排了一位家庭主妇列席发言。当轮到她发言时,她居然用“像 ...",
     "title" :"经理人必备商务社交与礼仪知识:  - Google 圖書結果",
     "metadata" :"赵涛 许进 - 2014",
-    },
-    {
-    "url" :"https://www.ptt.cc/man/Kaohsiung/DF55/D110/M.1253671004.A.126.html",
-    "abstract" :"標題[問題] 能信任的禮儀公司. 時間Tue Sep 22 14:36:21 2009. 這問題有點嚴肅~不想認真回答的煩請左轉出去, 朋友的母親目前在榮總的安寧病房彌留, 因友人是 ...",
-    "title" :"[問題] 能信任的禮儀公司- 精華區Kaohsiung - 批踢踢實業坊",
     },
     {
     "url" :"http://xinli.9939.com/rjjw/jjqt/2010/0108/827693.shtml",
@@ -72,21 +61,6 @@ Q_dict = {
     "title" :"Faker坚守信任与义气，与SKT续约继续征战S6_LOL资讯_LOL大咖",
     },
     {
-    "url" :"http://www.allthatstar.com/view.php?action=304&postID=262162",
-    "abstract" :"2016年7月26日 - Will娱乐相关人员表示：“我方将和真理翰继续共事，延续过去三年互相累积的信任。很高兴真理翰对我公司展现如此的信任与义气，往后我方也会不吝 ...",
-    "title" :"真理翰续约老东家展信任与义气 - 全星网",
-    },
-    {
-    "url" :"http://m.allthatstar.com/tw/view.php?action=5205&postID=262153",
-    "abstract" :"2016年7月26日 - Will娛樂相關人員表示：「我方將和真理翰繼續共事，延續過去三年互相累積的信任。很高興真理翰對我公司展現如此的信任與義氣，往後我方也會...",
-    "title" :"真理翰續約老東家展信任與義氣 - 全星网",
-    },
-    {
-    "url" :"https://tw.news.yahoo.com/%E7%94%B3%E5%BD%97%E6%98%9F%E7%BA%8C%E7%B4%84%E8%80%81%E6%9D%B1%E5%AE%B6-%E5%B1%95%E9%95%B7%E5%B9%B4%E4%BF%A1%E4%BB%BB%E8%88%87%E7%BE%A9%E6%B0%A3-235611766.html",
-    "abstract" :"2016年7月6日 - 基於兩人長時間累積下來的信賴與義氣，申彗星再一次和LIVEWORKS續約，並不收任何合約金。 申彗星表示：「在進行演藝活動時，我認為最重要的 ...",
-    "title" :"申彗星續約老東家展長年信任與義氣 - 奇摩新聞",
-    },
-    {
     "url" :"https://books.google.com.hk/books?id=r0jhPktVrgcC&pg=PA317&lpg=PA317&dq=%E4%BF%A1%E4%BB%BB+%E4%B8%8E%E4%B9%89%E6%B0%94&source=bl&ots=bgwsmoe083&sig=aifsgtIPD9gdIeJYT8A2YDFZsFQ&hl=zh-TW&sa=X&ved=0ahUKEwi23P_eq4HUAhVDH5QKHSMwC74Q6AEIUzAL",
     "abstract" :"信任雖然抽象,但信任的表現要非常具體。鴻海在 2004 年接管 ... 關羽是山西人,也是個武財神,非常講義氣;郭台銘覺得信任從某些角度來講,也是義氣。當年曹操兵敗走 ...",
     "title" :"鴻海藍圖(精):  - 第 317 頁 - Google 圖書結果",
@@ -101,11 +75,6 @@ Q_dict = {
     "url" :"https://www.facebook.com/jamsclub/posts/10156290116820646",
     "abstract" :"我本人生性很講義氣，現在被信任過的人出賣，我相信講義氣的人很能感受其受，被自己相信的人出賣，死而無言。",
     "title" :"我本人生性很講義氣，現在被信任過的人出賣，我相信講義氣 ... - Facebook",
-    },
-    {
-    "url" :"http://ent.sina.com.cn/m/c/2017-03-28/doc-ifycstww1459085.shtml",
-    "abstract" :"2017年3月28日 - 苏有朋向每位主演和工作人员表达了感谢：林心如在最幸福的时候义气地来支持这部电影。 新浪娱乐讯苏有朋[微博]担任导演的第二部电影《嫌疑人x ...",
-    "title" :"苏有朋大赞林心如义气感谢王凯张鲁一信任 - 新浪娱乐",
     },
     ],
 ######
@@ -134,21 +103,6 @@ Q_dict = {
     "title" :"翟學偉：信任的本質及其文化- 壹讀",
     },
     {
-    "url" :"http://www.jianshu.com/p/837ba9f718fc",
-    "abstract" :"2015年10月22日 - 阅读时间:下午三点半到六点阅读地点:寝室阅读方式:精读《信任的本质及其文化》这篇文章由南京大学社会学院心理学系的翟学伟老师所写，为国家社 ...",
-    "title" :"对《信任的本质及其文化》的阅读小结- 简书",
-    },
-    {
-    "url" :"http://www.looooker.com/archives/13574",
-    "abstract" :"2015年5月17日 - 信任的本质及其文化【作者】 翟学伟； 【Author】 ZHAI Xuewei;Department of Psychology,School of Social and Behavioral Sciences,Nanjing ...",
-    "title" :"#研究分享#【信任的本质及其文化】 – 北大新媒体",
-    },
-    {
-    "url" :"http://www.360doc.com/relevant/390361490_more.shtml",
-    "abstract" :"非正式约束与经济绩效。制度由正式规则、非正式约束和实施机制的有效性三部分构成。与康芒斯等许多制度经济学家不同，诺思十分强调非正式约束的作用，他认为非 ...",
-    "title" :"翟学伟--信任的本质及其文化--相关文章 - 360doc",
-    },
-    {
     "url" :"http://www.wxrw123.com/zj/20160412/173229.html",
     "abstract" :"2016年4月12日 - 2015年5月9日,南京大学社会学系翟学伟教授在博学楼110教室为东北财经大学师生做了题为《信任的本质及其文化》的学术讲座。这是2015年社会与 ...",
     "title" :"翟学伟《信任的本质及其文化》学术报告结束_微信热文",
@@ -157,12 +111,6 @@ Q_dict = {
     "url" :"https://www.zhihu.com/question/25907782",
     "abstract" :"2014年10月12日 - 翟学伟老师在做一个关于社会信用的项目，在《社会》上发过了一篇《信任的本质及其文化》可供参考。 另外除去上面的老师已经说过的“知道做什么” ...",
     "title" :"信任信任机制（社会科学方向） 信息不对称。关于这几个关键词求推荐的 ...",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=jOuTAgAAQBAJ&pg=PA67&lpg=PA67&dq=%E4%BF%A1%E4%BB%BB%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E5%85%B6%E6%96%87%E5%8C%96&source=bl&ots=YEvgfy9_m8&sig=71UsXuT72y8C_xx2VtxGb8-5KgY&hl=zh-TW&sa=X&ved=0ahUKEwjL-ejtq4HUAhVGJJQKHVsUBasQ6AEIajAJ",
-    "abstract" :"此種「關係」的權力結構在本質上是垂直的、不對稱的。 ... 這些文獸常常引用這諸如信任、可靠和互惠之類的關係網絡及其文化成分'來解釋東南亞華人商業的快速發展。",
-    "title" :"華商：族裔資源與商業謀略:  - 第 67 頁 - Google 圖書結果",
-    "metadata" :"陳國賁 - 2010 - Social Science",
     },
     ],
 ######
@@ -249,7 +197,7 @@ keyword_list = [
    "   局部化",
    "   如何",
 ]
-meta_data = {"status":".","Major": 1,"Minor": 4,"Prefix": "Q"}
+meta_data = {"status":"hc","Major": 1,"Minor": 4,"Prefix": "Q"}
 km_0_title = "信任"
 km_0_summary = "ummary_tp"
 km_1_tags = ["期望","喜欢","礼仪"]

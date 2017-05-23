@@ -154,22 +154,6 @@ Q_dict = {
     "title" :"权力的悖论(豆瓣) - 豆瓣读书",
     },
     {
-    "url" :"https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01EEUM1XA",
-    "abstract" :"《权力的悖论》权力存在于人类社会生活的方方面面，你我之间的每一次交流、每一次互动无不流淌着权力塑造的痕迹。对于权力的追寻是人类成功统治世界的本能使然。",
-    "title" :"达契尔•克特纳(Dacher Keltner), 胡晓姣, 李想, 刘辛未权力的悖论 - 亚马逊",
-    "metadata" :"評分：3.5 - 2 則評論",
-    },
-    {
-    "url" :"http://www.books.com.tw/products/CN11405667",
-    "abstract" :"2016年11月1日 - 書名：權力的悖論--致決策者，語言：簡體中文，ISBN：9787513643290，頁數：226，出版社：中國經濟出版社，作者：湯安中，出版日期：2016/11/01， ...",
-    "title" :"博客來-權力的悖論--致決策者",
-    },
-    {
-    "url" :"http://m.sanmin.com.tw/Product/Index/005683179",
-    "abstract" :"美國心理學會獎項得主達契爾•克特納研究“權力的悖論”問題長達數十年。在他曾經經歷過的數千次社會實驗研究中，無不反映了權力對於人類生活的關鍵影響，它塑造 ...",
-    "title" :"三民網路書店>權力的悖論：影響力，怎樣獲取，又是如何失去的？（簡體 ...",
-    },
-    {
     "url" :"http://m.cn.nytimes.com/books/20150120/t20stalin/zh-hant/",
     "abstract" :"2015年1月20日 - 斯蒂芬·科特金。 Larry Levanti. 閱讀斯蒂芬·科特金(Stephen Kotkin)的《斯大林：權力的悖論》之時，讀者可能會期望本書詳盡剖析一位格魯吉亞鞋匠的 ...",
     "title" :"斯大林，權力的悖論- 紐約時報中文網國際縱覽 - 纽约时报",
@@ -185,21 +169,6 @@ Q_dict = {
     "title" :"权力的悖论：如何产生如何破解-2017-04-02-得到_罗辑思维-罗辑集",
     "metadata" :"2017年4月2日 - 1 篇文章 - 1 位作者",
     },
-    {
-    "url" :"https://item.jd.com/11918996.html",
-    "abstract" :"京东JD.COM图书频道为您提供《权力的悖论》在线选购，本书作者：，出版社：中信出版集团。买图书，到京东。网购图书，享受最低优惠折扣!",
-    "title" :"权力的悖论 - 京东",
-    },
-    {
-    "url" :"http://www.library.gxnu.edu.cn/node/576",
-    "abstract" :"[内容简介]：美国心理学会奖项得主达契尔·克特纳研究“权力的悖论”问题长达数十年。在他曾经经历过的数千次社会实验研究中，无不反映了权力对于人类生活的关键 ...",
-    "title" :"权力的悖论| 广西师范大学图书馆",
-    },
-    {
-    "url" :"http://product.dangdang.com/23948662.html",
-    "abstract" :"当当网图书频道在线销售正版《权力的悖论》，作者：（美）达契尔·克特纳(Dacher Keltner)，出版社：中信出版社。最新《权力的悖论》简介、书评、试读、价格、图片等相关 ...",
-    "title" :"权力的悖论 - 简介_书评_在线阅读 - 当当",
-    },
     ],
 ######
 #Q_3_1 #:   天赋 人权 是指什么
@@ -209,11 +178,6 @@ Q_dict = {
     "url" :"https://zh.wikipedia.org/zh-hk/%E4%BA%BA%E6%9D%83",
     "abstract" :"人權（基本人權、自然權利及人类基本权利）是指“個人或群體因作為人類，而應享有的權利”人權的許多價值以強化人的能動性並以普世（或曰普適）原則要求所有人應享有此天赋權利。",
     "title" :"人权- 维基百科，自由的百科全书",
-    },
-    {
-    "url" :"http://baike.baidu.com/item/%E4%BA%BA%E6%9D%83/117645",
-    "abstract" :"人权（基本人权或自然权利）是指“人，因其为人而应享有的权利”。 ... 民族自决权：追根溯源，民族自决权其实源于资产阶级革命时期的天赋人权说和人民主权说。1776 ...",
-    "title" :"人权（普遍的人类权利）_百度百科",
     },
     {
     "url" :"http://www.baike.com/wiki/%E5%A4%A9%E8%B5%8B%E4%BA%BA%E6%9D%83",
@@ -234,22 +198,6 @@ Q_dict = {
     "url" :"https://www.zhihu.com/question/24333567/answer/27448772",
     "abstract" :"其实翻译的不太对， 英文单词是：Natural rights 直译就是天生的权利，也有翻译成自然权利。 意思是：作为一个自然属性的人，从作为自然人起就拥有的权利，称之为 ...",
     "title" :"天赋人权的“天”指的是什么？ - 知乎",
-    },
-    {
-    "url" :"http://wenda.tianya.cn/question/510c85ec1125c5be",
-    "abstract" :"2009年4月22日 - 自然权利是指人生而有之的权利是天赋的、不可转让、不可剥夺的权利，是理论上存在的权利。自然权利是人人所共有的、任何个人都可对其社会所 ...",
-    "title" :"天赋人权的含义是什么？ _语文_作业_天涯问答_天涯社区",
-    },
-    {
-    "url" :"http://www.twword.com/wiki/%E5%A4%A9%E8%B3%A6%E4%BA%BA%E6%AC%8A",
-    "abstract" :"後來的啟蒙思想家洛克、孟德斯鳩、盧梭進一步的發展了天賦人權學說。笛卡爾在其《方法論》的開頭就斷言：良知也好，理性也好，對所有的人來說都是天賦的，平等的， ...",
-    "title" :"天賦人權- 台灣Word",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=0-LNDgAAQBAJ&pg=PA81&lpg=PA81&dq=%E5%A4%A9%E8%B5%8B+%E4%BA%BA%E6%9D%83+%E6%98%AF%E6%8C%87%E4%BB%80%E4%B9%88&source=bl&ots=fxlErCv7F7&sig=j457tlmHe2uyFBTI6DaKm-8Wv90&hl=zh-TW&sa=X&ved=0ahUKEwjJ2v-Y9ITUAhXIHZQKHWuOAQ0Q6AEIXzAI",
-    "abstract" :"首先是“权利”这一概念,即“权利”究竟是指什么?纳休在《自然的权利》中 ... 显然,这是在从“天赋人权”向“自然的权利”的进化中来看待权利概念的扩大的。不过,在纳休那里, ...",
-    "title" :"环境管理与环境社会科学 研究方法:  - 第 81 頁 - Google 圖書結果",
-    "metadata" :"曾思育 编著",
     },
     {
     "url" :"https://books.google.com.hk/books?id=e4Pj-g-lf2gC&pg=PA81&lpg=PA81&dq=%E5%A4%A9%E8%B5%8B+%E4%BA%BA%E6%9D%83+%E6%98%AF%E6%8C%87%E4%BB%80%E4%B9%88&source=bl&ots=LcuMPtOzml&sig=dMUhAhYFJE_vDpfQb6X87MXPbkw&hl=zh-TW&sa=X&ved=0ahUKEwjJ2v-Y9ITUAhXIHZQKHWuOAQ0Q6AEIZDAJ",
@@ -275,19 +223,9 @@ Q_dict = {
     "metadata" :"由 杜立平 著作 - 2011",
     },
     {
-    "url" :"http://wap.cnki.net/lunwen-1011050169.html",
-    "abstract" :"工程纠纷中权力差异影响机理及度量模型研究,权力,博弈,权力不对称,冲突分析。建设工程纠纷中当事人之间往往存在着权力差异,这种权力差异的存在有其必然性和 ...",
-    "title" :"工程纠纷中权力差异影响机理及度量模型研究-手机知网",
-    },
-    {
     "url" :"https://zh.wikipedia.org/zh-hk/%E6%AC%8A%E5%8A%9B",
     "abstract" :"權力是一种广泛存在的社会现象，是政治學、國際關係與國際政治學的核心概念。在政治學與國際關係研究中，對「權力」的可能有四種甚至以上的定義：. 「權力」作為個人或國家的追求目標（power as a goal）。 「權力」作為影響力（influences）的度量（measurement）尺度，即資源的內容與 .... 將權力視為「能力」、「資源」的觀點容易偏重「硬國力」（hard power）以利模型 ...",
     "title" :"權力- 维基百科，自由的百科全书",
-    },
-    {
-    "url" :"https://wenku.baidu.com/view/36bd364587c24028915fc3bd.html",
-    "abstract" :"2015年5月5日 - 第十一章博弈模型11.1 进攻与撤退的抉择11.2 让报童订购更多的 ...... 权力度量模型评述Banzhaf指标Shapley指标道理上更浅显, 容易口头解释, ...",
-    "title" :"姜启源数学模型第四版第十一章_图文_百度文库",
     },
     {
     "url" :"https://itimetraveler.github.io/2016/11/21/%E5%9F%BA%E4%BA%8E%E7%A4%BE%E5%8C%BA%E5%8F%91%E7%8E%B0%E7%AE%97%E6%B3%95%E5%92%8C%E5%9B%BE%E5%88%86%E6%9E%90Neo4j%E8%A7%A3%E8%AF%BB%E3%80%8A%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%E3%80%8B/",
@@ -295,20 +233,9 @@ Q_dict = {
     "title" :"基于社区发现算法和图分析neo4j解读《权力的游戏》 | iTimeTraveler",
     },
     {
-    "url" :"http://wiki.mbalib.com/zh-tw/%E7%AE%A1%E7%90%86%E5%B1%82%E6%9D%83%E5%8A%9B",
-    "abstract" :"跳至 管理層權力的度量[2] - 管理層權力的度量 ... 為管理層權力大小的度量提供一個新的研究視角，本文在參考Finkelstein(1992)的權力模型的基礎上， ...",
-    "title" :"管理層權力- MBA智库百科",
-    },
-    {
     "url" :"http://61.54.243.197:8089/Kcms/detail/detail.aspx?filename=1012279363.nh&dbcode=CMFD&dbname=CMFD2012",
     "abstract" :"本文从两个角度给出了博弈方权力的度量和计算.一、用Banzhaf权力指数的概念来度量博弈方的权力大小.基于Banzhaf权力指数计算的复杂性,由独立不同分布的中心 ...",
     "title" :"控制权度量模型及计算- 中国优秀硕士学位论文全文数据库",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=M1pUDQAAQBAJ&pg=PT215&lpg=PT215&dq=%E6%9D%83%E5%8A%9B+%E5%BA%A6%E9%87%8F%E6%A8%A1%E5%9E%8B&source=bl&ots=PN7WLSF1OP&sig=6LT03aZenNVoL8UsU3se8zeMJe0&hl=zh-TW&sa=X&ved=0ahUKEwiNheGS9ITUAhUHHZQKHV-AB6UQ6AEIXDAI",
-    "abstract" :"时,他潜在的继任者可能会为权力而争斗,或是不打算从事经营的继承者即将准备接管 ... 而现代金融理论的发展和新的信用工具的创新,也给开发新的信用风险度量模型 ...",
-    "title" :"金融风险分析与管理 - Google 圖書結果",
-    "metadata" :"刘海龙, 张若丹 - 2013 - Business & Economics",
     },
     {
     "url" :"https://books.google.com.hk/books?id=bU4KCwAAQBAJ&pg=PA47&lpg=PA47&dq=%E6%9D%83%E5%8A%9B+%E5%BA%A6%E9%87%8F%E6%A8%A1%E5%9E%8B&source=bl&ots=T7cw_ny4mf&sig=ErF_yfKa5dpAVUwa3djD6UswhvQ&hl=zh-TW&sa=X&ved=0ahUKEwiNheGS9ITUAhUHHZQKHV-AB6UQ6AEIYTAJ",
@@ -345,7 +272,7 @@ keyword_list = [
    "   局部化",
    "   为什么",
 ]
-meta_data = {"status":".","Major": 3,"Minor": 3,"Prefix": "Q"}
+meta_data = {"status":"hc","Major": 3,"Minor": 3,"Prefix": "Q"}
 km_0_title = "权力"
 km_0_summary = "ummary_tp"
 km_1_tags = ["权利,分配"]
