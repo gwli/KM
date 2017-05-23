@@ -137,7 +137,6 @@ Q_dict = {
     "title" :"編戶齊民- 维基百科，自由的百科全书",
     },
     {
-    {
     "url" :"http://thjcs.web.nthu.edu.tw/files/14-1662-41510,r2985-1.php?Lang=zh-tw",
     "abstract" :"篇名, 編戶齊民論的剖析. 作者, 杜正勝. 類型, 論文. 頁數, 163~191. 下載. 語言, 中文. 關鍵詞. 編戶齊民，國人，共同體. 中文摘要, 《編戶齊民》釋我解釋中國古代政治 ...",
     "title" :"編戶齊民論的剖析- 清華學報Tsing Hua Journal of Chinese Studies",
