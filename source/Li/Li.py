@@ -312,49 +312,9 @@ Q_dict = {
 ######
 "Q_3_3": [" 什么 是 儒家 军礼  ",
     {
-    "url" :"https://zh.wikipedia.org/zh-hk/%E5%91%A8%E7%A6%AE",
-    "abstract" :"中國. 董仲舒 何休 施讐 丁恭 · 王通 賀德基 韓愈 程颢 · 邵雍 周敦頤 張載 程颐 朱熹 · 陸九淵 俞樾 ... 《周禮》通過介紹周代的官制，描繪出古代儒家對理想社會的總構思，是中国第一部记载國家政權組織機構及其職能的书籍。 .... 五禮的功能具體化為“以吉禮事邦國之鬼神示，以凶禮哀邦國之憂，以賓禮親邦國，以軍禮同邦國，以嘉禮親萬民”。",
-    "title" :"周禮- 维基百科，自由的百科全书",
-    },
-    {
-    "url" :"https://zh.wikipedia.org/zh-hk/%E5%84%92%E6%95%99_(%E5%AE%97%E6%95%99)",
-    "abstract" :"何光滬對於儒教的定義如下：「所謂儒教，非指儒學或儒家之整體，而是指殷周以來 .... 禮、軍禮、嘉禮的禮儀制度的建設，被稱為經學，或者漢學，此後成為中國的正統。",
-    "title" :"儒教(宗教) - 維基百科，自由的百科全書 - Wikipedia",
-    },
-    {
     "url" :"http://www.yckmc.edu.hk/subj_chist/content.php?page=cu_27.html",
     "abstract" :"儒家學說. 孔子的學說：. 1．教育方面：孔子對教育主張有教無類，教學方法是「因材施教」和「不憤不啟，不悱不發」，很合於 ... 主性善：孟子相信人的本性是善良的，故說：「惻隱之心，人皆有之；羞惡之心，人皆有之；辭讓之心 ... 儒家重禮樂；墨家非禮非樂。",
     "title" :"四大學派( 儒、 道、 墨、 法) 之學說內容與影響 - 中國歷史研習室",
-    },
-    {
-    "url" :"http://www.fed.cuhk.edu.hk/youngwriter/chinesec/cca5-14.htm",
-    "abstract" :"儒家所謂禮樂是什麼呢？ ... 儒家所謂的禮，主要是倫理學的概念，即狹義的禮。 ... 事是也；賓禮者，貢獻朝聘之事是也；軍禮者，始黃帝與蚩尤戰于涿鹿之野；嘉禮者， ...",
-    "title" :"儒家與禮樂文化",
-    },
-    {
-    "url" :"http://www.sohu.com/a/128437161_558413",
-    "abstract" :"2017年3月9日 - 儒家. 儒家思想，又称儒学，也有人认为它是一种宗教而称之为儒教，最初指的是冠婚丧祭时的司仪，自汉代起指由孔子（公元前551年-公元前479年， ...",
-    "title" :"【国学常识】什么是儒家——儒家介绍 - 搜狐",
-    },
-    {
-    "url" :"http://www.chiculture.net/0301/",
-    "abstract" :"儒家是先秦時期由孔子創立的一個學術派別；儒學是儒家學派所持的理論觀點和思想體系。孔子本人是流落民間的「儒」，他以自己的禮制、六藝知識，即禮、樂、射、御、 ...",
-    "title" :"孔孟與儒家思想 - 中國文化研究院",
-    },
-    {
-    "url" :"https://kknews.cc/zh-hk/culture/qevl2mg.html",
-    "abstract" :"2016年12月16日 - 禮樂射御書數，儒家六藝究竟是什麼？ ... 即吉禮、凶禮、軍禮、賓禮、嘉禮。吉禮為祭祀之禮，凶禮為喪事之禮，軍禮既軍隊之禮，賓禮為接待賓客之 ...",
-    "title" :"禮樂射御書數，儒家六藝究竟是什麼？ - 每日頭條",
-    },
-    {
-    "url" :"http://baike.baidu.com/item/%E5%91%A8%E7%A4%BC",
-    "abstract" :"《周礼》是儒家经典，十三经之一。世传为周公旦所著，但实际上可能是战国时期归纳创作而成。《周礼》、《仪礼》和《礼记》合称“三礼”，是古代华夏民族礼乐文化的理论 ...",
-    "title" :"周礼（儒家经典）_百度百科",
-    },
-    {
-    "url" :"http://baike.baidu.com/item/%E8%AF%B4%E5%84%92/4568410",
-    "abstract" :"《说儒:儒学入门300讲》从12个方面对儒家思想作了系统、全面、深入的介绍，包括儒家释疑、儒家名词解释、儒家人物、儒家 ... 什么是“孝道”，儒家为什么推崇“孝道”？",
-    "title" :"说儒_百度百科",
     },
     {
     "url" :"https://books.google.com.hk/books?id=_xzDCwAAQBAJ&pg=PT375&lpg=PT375&dq=%E4%BB%80%E4%B9%88+%E6%98%AF+%E5%84%92%E5%AE%B6+%E5%86%9B%E7%A4%BC&source=bl&ots=abiTQBtEiS&sig=xxr0z1BPxJPxPjPeo1gE35bg1YQ&hl=zh-TW&sa=X&ved=0ahUKEwiI-d2x8YjUAhUHsJQKHd0TAEQQ6AEIXjAJ",
@@ -373,44 +333,9 @@ Q_dict = {
     "title" :"儒家與禮樂文化",
     },
     {
-    "url" :"https://zh.wikipedia.org/zh-hk/%E5%91%A8%E7%A6%AE",
-    "abstract" :"中國. 董仲舒 何休 施讐 丁恭 · 王通 賀德基 韓愈 程颢 · 邵雍 周敦頤 張載 程颐 朱熹 · 陸九淵 俞樾 ... 《周禮》通過介紹周代的官制，描繪出古代儒家對理想社會的總構思，是中国第一部记载國家政權組織機構及其職能的书籍。 .... 五禮的功能具體化為“以吉禮事邦國之鬼神示，以凶禮哀邦國之憂，以賓禮親邦國，以軍禮同邦國，以嘉禮親萬民”。",
-    "title" :"周禮- 维基百科，自由的百科全书",
-    },
-    {
-    "url" :"https://zh.wikipedia.org/wiki/%E5%84%92%E6%95%99_(%E5%AE%97%E6%95%99)",
-    "abstract" :"儒教，以夏商周的五教和祭礼为本源，祖述尧舜，宪章文武，以天子为宗教领袖，以孔子为先师，以诗 ... 何光沪对于儒教的定义如下：“所谓儒教，非指儒学或儒家之整体，而是指殷周以来绵延三千年的中国原生宗教，即 .... 汉朝孝武皇帝时定为中国官方统治思想，尊六经立学宫，重视吉礼、凶礼、宾礼、军礼、嘉礼的礼仪制度的建设，被称为 ...",
-    "title" :"儒教(宗教) - 维基百科，自由的百科全书",
-    },
-    {
     "url" :"http://baike.baidu.com/item/%E4%B8%89%E7%A4%BC",
     "abstract" :"《三礼》是古代中国礼乐文化的理论形态，对礼法、礼义作了最权威的记载和解释， ... 《礼记》是战国至秦汉年间儒家学者解释说明经书《仪礼》的文章选集，是一部儒家思想 ... 之礼，属于宾礼；《士官礼》、《士昏礼》、《乡饮酒礼》、《乡射礼》、《燕礼》、《大射礼》、《 ... 《周礼》面世之初，不知什么原因，连一些身份很高的儒者都没见到就被藏入秘府， ...",
     "title" :"三礼_百度百科",
-    },
-    {
-    "url" :"http://baike.baidu.com/item/%E5%91%A8%E7%A4%BC",
-    "abstract" :"《周礼》是儒家经典，十三经之一。世传为周公旦所著，但实际上可能是战国时期归纳创作而成。 ... 周礼是一个多义词，请在下列义项上选择浏览（共4个义项） ...... 它的名目繁多，有吉礼、嘉礼、凶礼、宾礼、军礼等，是维护等级制度、防止僭越行为的工具。 .... 《周礼》面世之初，不知什么原因，连一些身份很高的儒者都没见到就被藏入秘府， ...",
-    "title" :"周礼（儒家经典）_百度百科",
-    },
-    {
-    "url" :"http://baike.baidu.com/item/%E4%BB%AA%E7%A4%BC",
-    "abstract" :"仪礼是一个多义词，请在下列义项上选择浏览（共3个义项）. 添加义项 ..... 彻筮席。宗人告事毕。主人戒宾。宾礼辞许。主人再拜。宾荅拜。主人退。宾拜送。前期三日筮宾 ...",
-    "title" :"仪礼（儒家典籍）_百度百科",
-    },
-    {
-    "url" :"http://zidian.eduu.com/detail/11342.html",
-    "abstract" :"豊”是行礼之器,在字中也兼表字音。本义:举行仪 ... 设九宾礼于廷。——《史记·廉 ... 其中《中庸》、《大学》、《礼运》等篇是儒家重要的哲学著作,对后世影响很大礼教 lǐjiào",
-    "title" :"礼的意思_礼是什么意思-—在线字典 - 家长帮字典",
-    },
-    {
-    "url" :"https://kknews.cc/zh-hk/culture/qevl2mg.html",
-    "abstract" :"2016年12月16日 - 禮樂射御書數，儒家六藝究竟是什麼？ ... 即吉禮、凶禮、軍禮、賓禮、嘉禮。吉禮為祭祀之禮，凶禮為喪事之禮，軍禮既軍隊之禮，賓禮為接待賓客之 ...",
-    "title" :"禮樂射御書數，儒家六藝究竟是什麼？ - 每日頭條",
-    },
-    {
-    "url" :"http://www.tycg.gov.tw/confucius/hotkey_print.jsp?mtitle=%E5%84%92%E5%AE%B6%E7%9A%84%E6%95%99%E8%82%B2%E6%80%9D%E6%83%B3&contentlink=ap%2Fartwebsite.jsp&mserno=201310090012&id=139&contentid=139",
-    "abstract" :"就儒家教育而言，孔子當時是以什麼作為其教化之內容呢？當時孔子以禮、樂、射、御、 ... 這是六藝當中最重要的科目。禮有「五禮」，即吉禮、凶禮、軍禮、賓禮、嘉禮。",
-    "title" :"儒家的教育思想 - 桃園市政府",
     },
     {
     "url" :"http://www.dfg.cn/big5/ssht/ly/09-jiali.htm",
@@ -433,41 +358,6 @@ Q_dict = {
     "title" :"周禮- 维基百科，自由的百科全书",
     },
     {
-    "url" :"https://zh.wikipedia.org/wiki/%E5%84%92%E6%95%99_(%E5%AE%97%E6%95%99)",
-    "abstract" :"儒教，以夏商周的五教和祭礼为本源，祖述尧舜，宪章文武，以天子为宗教领袖，以孔子为先师，以诗 ... 何光沪对于儒教的定义如下：“所谓儒教，非指儒学或儒家之整体，而是指殷周以来绵延三千年的中国原生宗教，即 .... 汉朝孝武皇帝时定为中国官方统治思想，尊六经立学宫，重视吉礼、凶礼、宾礼、军礼、嘉礼的礼仪制度的建设，被称为 ...",
-    "title" :"儒教(宗教) - 维基百科，自由的百科全书",
-    },
-    {
-    "url" :"http://baike.baidu.com/item/%E5%91%A8%E7%A4%BC",
-    "abstract" :"《周礼》是儒家经典，十三经之一。世传为周公旦所著，但实际上可能是战国时期归纳创作而成。 ... 周礼是一个多义词，请在下列义项上选择浏览（共4个义项） ...... 它的名目繁多，有吉礼、嘉礼、凶礼、宾礼、军礼等，是维护等级制度、防止僭越行为的工具。 .... 《周礼》面世之初，不知什么原因，连一些身份很高的儒者都没见到就被藏入秘府， ...",
-    "title" :"周礼（儒家经典）_百度百科",
-    },
-    {
-    "url" :"https://kknews.cc/zh-hk/culture/qevl2mg.html",
-    "abstract" :"2016年12月16日 - 禮樂射御書數，儒家六藝究竟是什麼？ ... 即吉禮、凶禮、軍禮、賓禮、嘉禮。吉禮為祭祀之禮，凶禮為喪事之禮，軍禮既軍隊之禮，賓禮為接待賓客之 ...",
-    "title" :"禮樂射御書數，儒家六藝究竟是什麼？ - 每日頭條",
-    },
-    {
-    "url" :"https://kknews.cc/zh-hk/culture/2q94yby.html",
-    "abstract" :"2017年2月20日 - 「孔門六藝」是指孔子教授弟子的六種技藝，即禮、樂、射、御、書、數。六藝始見於《周禮· ... 一曰五禮：即吉禮、凶禮、軍禮、賓禮、嘉禮； ... 二曰六樂：指《 ...",
-    "title" :"「孔門六藝」是什麼？ - 每日頭條",
-    },
-    {
-    "url" :"http://www.ct.taipei.gov.tw/zh-tw/C/Ideology/Ideology/1/1%7C22/45.htm",
-    "abstract" :"就儒家教育而言，孔子當時是以什麼作為其教化之內容呢？當時孔子以禮、樂、射、御、書、數 ... 是六藝當中最重要的科目。禮有「五禮」，即吉禮、凶禮、軍禮、賓禮、嘉禮。",
-    "title" :"儒家教育的教材 - 臺北市孔廟儒學文化網 - 臺北市政府",
-    },
-    {
-    "url" :"https://read01.com/Pg4okD.html",
-    "abstract" :"2015年3月24日 - 六藝是儒家文化中君子必須掌握的六門課程。禮為六藝之首，那麼到底何謂禮呢？下面東 ... 凶禮是對各種不幸事件進行悼念、慰問方面的禮節儀式。",
-    "title" :"儒家文化：君子六藝中何謂禮- 壹讀",
-    },
-    {
-    "url" :"http://www.tycg.gov.tw/confucius/hotkey_print.jsp?mtitle=%E5%84%92%E5%AE%B6%E7%9A%84%E6%95%99%E8%82%B2%E6%80%9D%E6%83%B3&contentlink=ap%2Fartwebsite.jsp&mserno=201310090012&id=139&contentid=139",
-    "abstract" :"就儒家教育而言，孔子當時是以什麼作為其教化之內容呢？當時孔子以禮、樂、射、御、 ... 這是六藝當中最重要的科目。禮有「五禮」，即吉禮、凶禮、軍禮、賓禮、嘉禮。",
-    "title" :"儒家的教育思想 - 桃園市政府",
-    },
-    {
     "url" :"https://books.google.com.hk/books?id=CC8xCgAAQBAJ&pg=PA98&lpg=PA98&dq=%E4%BB%80%E4%B9%88+%E6%98%AF+%E5%84%92%E5%AE%B6+%E5%87%B6%E7%A4%BC&source=bl&ots=9M2J2jRyKI&sig=i4xwIoRrwpw5EJEe-4MHElD5PIw&hl=zh-TW&sa=X&ved=0ahUKEwi1tOui8YjUAhWKKJQKHdvcBwsQ6AEIVjAJ",
     "abstract" :"命,这是墨家的主张;尚法、好作,这是慎到、田驴辑的主张;不法先王,不是礼义,这是惠施、邓析的主张;并耕、尽地力,这是农家的主张;儒家的独特主张是什么呢? ... 非儒者之事,儒者所教的礼,当然说不上吉、凶、宾、军、嘉全部的礼,不过士民所需凶礼中的丧 ...",
     "title" :"陈独秀文选 - 第 98 頁 - Google 圖書結果",
@@ -484,21 +374,6 @@ Q_dict = {
     "title" :"儒教(宗教) - 维基百科，自由的百科全书",
     },
     {
-    "url" :"https://zh.wikipedia.org/zh-hk/%E5%84%92%E5%AE%B6",
-    "abstract" :"中國. 董仲舒 何休 施讐 丁恭 · 王通 賀德基 韓愈 程颢 · 邵雍 周敦頤 張載 程颐 朱熹 · 陸九淵 俞樾 ... 儒家，又稱儒學、儒教、孔孟思想、孔儒思想，是起源於中國並同時影響及流傳至其他周遭東亞地區 ... 現代儒家趨向學術轉型 :32，學者多著重探討儒家究竟屬於什麼形態的宗教或哲學，以及現代人怎樣才能在儒學中安身立命 :序5、序6。",
-    "title" :"儒家- 维基百科，自由的百科全书",
-    },
-    {
-    "url" :"http://www.sohu.com/a/128437161_558413",
-    "abstract" :"2017年3月9日 - 儒家. 儒家思想，又称儒学，也有人认为它是一种宗教而称之为儒教，最初指的是冠婚丧祭时的司仪，自汉代起指由孔子（公元前551年-公元前479年， ...",
-    "title" :"【国学常识】什么是儒家——儒家介绍 - 搜狐",
-    },
-    {
-    "url" :"http://www.chiculture.net/0301/",
-    "abstract" :"儒家是先秦時期由孔子創立的一個學術派別；儒學是儒家學派所持的理論觀點和思想體系。孔子本人是流落民間的「儒」，他以自己的禮制、六藝知識，即禮、樂、射、御、 ...",
-    "title" :"孔孟與儒家思想 - 中國文化研究院",
-    },
-    {
     "url" :"https://books.google.com.hk/books?id=_xzDCwAAQBAJ&pg=PT375&lpg=PT375&dq=%E4%BB%80%E4%B9%88+%E6%98%AF+%E5%84%92%E5%AE%B6+%E5%90%89%E7%A4%BC&source=bl&ots=abiTQBtDoR&sig=cg8RQBwtBLpbJNHazItn1Tzdp30&hl=zh-TW&sa=X&ved=0ahUKEwjh0u6d8YjUAhXBp5QKHVEdBioQ6AEIQTAE",
     "abstract" :"古代的吉礼是祭祀的吗我国古代把祭祀之事作为吉礼。 ... 古代的军礼包括什么内容民俗界认为,军礼属于政治类,政治类中还有祭天、祭地、宗庙之祭,祭先师先圣、尊师 ... 这部书搜集了周王朝及各诸侯国官制及制度,以儒家的政治理想加以增减取舍汇编而.",
     "title" :"中国传统文化基本知识（读酷国学百科版） - Google 圖書結果",
@@ -511,11 +386,6 @@ Q_dict = {
     "metadata" :"杨忠, Esphere Media（美国艾思传媒） - 2012",
     },
     {
-    "url" :"http://baike.baidu.com/item/%E8%AF%B4%E5%84%92",
-    "abstract" :"《说儒:儒学入门300讲》从12个方面对儒家思想作了系统、全面、深入的介绍，包括儒家释疑、儒家名词解释、 ... 学儒的目的是什么 ... 什么是“孝道”，儒家为什么推崇“孝道”？ ... 吉礼. 宾礼. 军礼. 嘉礼. 凶礼. 第七章儒家典故. 夷齐饿死首阳山. 周公制礼作乐.",
-    "title" :"说儒_百度百科",
-    },
-    {
     "url" :"https://books.google.com.hk/books?id=bh3DCwAAQBAJ&pg=PT186&lpg=PT186&dq=%E4%BB%80%E4%B9%88+%E6%98%AF+%E5%84%92%E5%AE%B6+%E5%90%89%E7%A4%BC&source=bl&ots=iGUgj9nqJc&sig=hYMFjUqA6c9j9uHhRoFjf50a3I4&hl=zh-TW&sa=X&ved=0ahUKEwjh0u6d8YjUAhXBp5QKHVEdBioQ6AEIUjAH",
     "abstract" :"冠笄之礼的内涵是什么《礼记∙冠义》篇说:“冠者礼之始也。 ... 礼文化是华夏文化的核心,华夏礼仪分为“吉礼、凶礼、军礼、宾礼、嘉礼”五种类型,冠笄之礼属于嘉礼的一种。 ... 换句话说,冠礼是华夏礼仪在华夏成员心中的“奠基工程”“基础工程”,所以,儒家将冠 ...",
     "title" :"国学修养基本知识（读酷国学百科版） - Google 圖書結果",
@@ -526,12 +396,6 @@ Q_dict = {
     "abstract" :"儒家的知识分子也有从事于礼学研究的,但他们仍偏重于研究宗教祭礼的经典依据 ... 儒学中的礼学,其吉礼与凶礼部分属于传统宗教,成为后者制定祭祀典制的理论基础, ... 但儒学的核心是“人”学,讨论修身济世的问题,讨论做什么样的人和如何做人的问题 ...",
     "title" :"宗法性传统宗教 - Google 圖書結果",
     "metadata" :"牟钟鉴, 刘成有, 张宏斌 - 2015 - Religion",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=uxf8AgAAQBAJ&pg=PT315&lpg=PT315&dq=%E4%BB%80%E4%B9%88+%E6%98%AF+%E5%84%92%E5%AE%B6+%E5%90%89%E7%A4%BC&source=bl&ots=MpD_uTtLAg&sig=p6BRxAcS8r1tO0UVoV2cSZUjvZ0&hl=zh-TW&sa=X&ved=0ahUKEwjh0u6d8YjUAhXBp5QKHVEdBioQ6AEIXjAJ",
-    "abstract" :"冠笄之礼的内涵是什么《礼记∙冠义》篇说:“冠者礼之始也。 ... 礼文化是华夏文化的核心,华夏礼仪分为“吉礼、凶礼、军礼、宾礼、嘉礼”五种类型,冠笄之礼属于嘉礼的一种。 ... 换句话说,冠礼是华夏礼仪在华夏成员心中的“奠基工程”“基础工程”,所以,儒家将冠 ...",
-    "title" :"青少年国学全知道:  - Google 圖書結果",
-    "metadata" :"李国伦 - 2014",
     },
     ],
 ######
@@ -547,28 +411,6 @@ Q_dict = {
     "url" :"https://kknews.cc/zh-hk/culture/y2gpzb.html",
     "abstract" :"2016年7月27日 - 如所周知，儒家經權觀表明在德行實踐過程中須注意原則性與靈活性的結合， ... 將導致一種嚴重的理論後果：孔子「與權」說竟與公羊學「反經」說一般無異。 ..... 所以，我覺得，程頤將「未可與權」轉換成「可與權」，然後從正面解釋道：「可 ...",
     "title" :"從儒家經權觀的演變看孔子「未可與權」說的意義- 每日頭條",
-    },
-    {
-    "url" :"https://zh.wikipedia.org/zh-hk/%E5%84%92%E5%AE%B6",
-    "abstract" :"中國. 董仲舒 何休 施讐 丁恭 · 王通 賀德基 韓愈 程颢 · 邵雍 周敦頤 張載 程颐 朱熹 · 陸九淵 俞樾 ..... 他提出天人相應的理論，一年4季、12個月、366天，與人的4肢、12節（每肢3節）、366骨是相應的。天人相應的形而上學，引申出天人感應的信念，把儒家 ...",
-    "title" :"儒家- 维基百科，自由的百科全书",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=fIJ8aWT0YoEC&pg=PA305&lpg=PA305&dq=%E5%84%92%E5%AE%B6%E7%9A%84%E7%BB%8F%E6%9D%83%E8%BD%AC%E6%8D%A2%E7%90%86%E8%AE%BA&source=bl&ots=2hSYAVtdOl&sig=rwMo_FnkLkCzDPpcKZyFqZYVnqo&hl=zh-TW&sa=X&ved=0ahUKEwjVrrrG8YjUAhWDHpQKHcLAD3wQ6AEIMDAD",
-    "abstract" :"儒家價值體系的歷史衍化及其現代轉換 楊國榮. 通,但這種變通本身必須 ... 理學對經權關係的如上閫釋,無疑使權威主義的價值原則顯得更為精緻。從外在行為上的 ... 從理論的內在邏輯看,正統理學強化權威原則,同時又有其本體論的根源。在理學家那裡, ...",
-    "title" :"善的歷程: 儒家價值體系的歷史衍化及其現代轉換",
-    "metadata" :"楊國榮 - 1996 - Jen",
-    },
-    {
-    "url" :"http://oia.ncu.edu.tw/attachments/article/281/010_thesis.pdf",
-    "abstract" :"實踐方式與理論原則的不同；而這樣的心態分析有助於更深刻的看到儒家學者對. 其自身要求的轉變。 .... 現在儒家的思想轉換上。理論形上性的模式為 ..... 與人的互動有「經權」之考量，若將所有可能的狀況僅用天的道德來規約之，如. 此則簡化了人與人 ...",
-    "title" :"[PDF] 先秦儒家「性」的典範轉向---儒家謙下心態之討論 - 國立中央大學國際事務處",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=SyJIDAAAQBAJ&pg=PA259&lpg=PA259&dq=%E5%84%92%E5%AE%B6%E7%9A%84%E7%BB%8F%E6%9D%83%E8%BD%AC%E6%8D%A2%E7%90%86%E8%AE%BA&source=bl&ots=1BuYfke_ZW&sig=6-AzeceMe4msQS_Iz3MGrbwBHJU&hl=zh-TW&sa=X&ved=0ahUKEwjVrrrG8YjUAhWDHpQKHcLAD3wQ6AEIOzAF",
-    "abstract" :"中之緒」,26牟宗三訴諸於道德主體之「良知的坎陷」,27而徐復觀則希望以儒家的性善 ... 儒家民主政治」的理論基礎及其所需的「主體性轉換」:從徐復觀出發思考(1)什麼 ...",
-    "title" :"東亞儒家人文精神:  - 第 259 頁 - Google 圖書結果",
-    "metadata" :"黃俊傑 著 - 2016 - Confucianism",
     },
     {
     "url" :"http://www.ncu.edu.tw/~phi/NRAE/newsletter/no55/07.pdf",
@@ -596,11 +438,6 @@ Q_dict = {
 ######
 "Q_3_5": [" 周礼 讲的是什么",
     {
-    "url" :"https://zh.wikipedia.org/zh-hk/%E5%91%A8%E7%A6%AE",
-    "abstract" :"中國. 董仲舒 何休 施讐 丁恭 · 王通 賀德基 韓愈 程颢 · 邵雍 周敦頤 張載 程颐 朱熹 · 陸九淵 俞樾 ... 漢時，列入古文經，與當時今文經講微言大義不同。《周禮》以及漢朝 ...",
-    "title" :"周禮- 维基百科，自由的百科全书",
-    },
-    {
     "url" :"http://baike.baidu.com/item/%E5%91%A8%E7%A4%BC",
     "abstract" :"周礼是一个多义词，请在下列义项上选择浏览（共4个义项） ... 《周礼》中记载先秦时期社会政治、经济、文化、风俗、礼法诸制，多有史料可采，所涉及之内容 ...... 礼所要解决的中心问题是尊卑贵贱的区分，即宗法制，进一步讲是继承制的确立。 .... 《周礼》面世之初，不知什么原因，连一些身份很高的儒者都没见到就被藏入秘府，从此无人知晓。",
     "title" :"周礼（儒家经典）_百度百科",
@@ -621,12 +458,6 @@ Q_dict = {
     "title" :"《周礼》_互动百科",
     },
     {
-    "url" :"https://books.google.com.hk/books?id=qb7rCgAAQBAJ&pg=PA542&lpg=PA542&dq=%E5%91%A8%E7%A4%BC+%E8%AE%B2%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&source=bl&ots=87ZhZN6Zs8&sig=j3REyomz8s-W__ilEi2zpFV9i7s&hl=zh-TW&sa=X&ved=0ahUKEwiP8aK98YjUAhXBipQKHfv1AOcQ6AEIUjAF",
-    "abstract" :"禮就是中國文化所講《禮記》這個禮。有關禮的 ... 譬如中國四書五經的這部《禮記》,包括《周禮》、《儀禮》、《禮記》這三部書。《周禮》等於 ... 那麼禮是講什麼呢?是中國各代 ...",
-    "title" :"莊子諵譁:  - 第 542 頁 - Google 圖書結果",
-    "metadata" :"南懷瑾, 黃秀蘭, 張幃超 - 2014",
-    },
-    {
     "url" :"https://books.google.com.hk/books?id=bh3DCwAAQBAJ&pg=PT78&lpg=PT78&dq=%E5%91%A8%E7%A4%BC+%E8%AE%B2%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&source=bl&ots=iGUgj9nrG8&sig=hnCSbcGLNeFR6eJKVD6UNNH_MZg&hl=zh-TW&sa=X&ved=0ahUKEwiP8aK98YjUAhXBipQKHfv1AOcQ6AEIVzAG",
     "abstract" :"为国以礼的内涵是什么孔子继承了西周以来把礼作为治国之经纬的思想,认为礼是治国之本,形成了以礼乐教化治国安邦的总体思路。孔子对周礼在继承中创新,目的是 ...",
     "title" :"国学修养基本知识（读酷国学百科版） - Google 圖書結果",
@@ -638,37 +469,15 @@ Q_dict = {
     "title" :"找尋中國文化精神:  - 第 51 頁 - Google 圖書結果",
     "metadata" :"鍾茂森 - 2012",
     },
-    {
-    "url" :"https://books.google.com.hk/books?id=6igmCgAAQBAJ&pg=PA51&lpg=PA51&dq=%E5%91%A8%E7%A4%BC+%E8%AE%B2%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&source=bl&ots=Rxm8bnxDyP&sig=ywAy5EOrmOtSS0ZsLGGs7F95ocw&hl=zh-TW&sa=X&ved=0ahUKEwiP8aK98YjUAhXBipQKHfv1AOcQ6AEIYTAI",
-    "abstract" :"所以真正要和諧社會,我們國家提的「以德治國」,這是講到了根本。 ... 其內容是什麼? ... 《周禮》其實就是一部最好的憲只是很可惜周朝末世的子孫沒有把這個憲法承傳 ...",
-    "title" :"鍾博士談：尋找中國文化精神:  - 第 51 頁 - Google 圖書結果",
-    "metadata" :"鍾茂森教授 - 2014 - Philosophy",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=q5B1BgAAQBAJ&pg=PT38&lpg=PT38&dq=%E5%91%A8%E7%A4%BC+%E8%AE%B2%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&source=bl&ots=XW5-UN8wiz&sig=gvmp095YhSuMIrEJ2eCXNS2buMA&hl=zh-TW&sa=X&ved=0ahUKEwiP8aK98YjUAhXBipQKHfv1AOcQ6AEIZjAJ",
-    "abstract" :"其实大家可能都知道文明是什么意思,可是真正具体的什么是文明,可能大家都说不出来 ... 孔子和蔼地对他说:“子路啊,你来得正好,我现在正讲周礼,你正好一起听听吧。",
-    "title" :"轻松读《论语》 - Google 圖書結果",
-    "metadata" :"崔伏阁, Esphere Media（美国艾思传媒） - 2009 - Chinese classics",
-    },
     ],
 ######
 #Q_3_4 #: 什么 是 儒家 嘉礼  
 ######
 "Q_3_4": [" 什么 是 儒家 嘉礼  ",
     {
-    "url" :"https://zh.wikipedia.org/wiki/%E5%84%92%E6%95%99_(%E5%AE%97%E6%95%99)",
-    "abstract" :"儒教，以夏商周的五教和祭礼为本源，祖述尧舜，宪章文武，以天子为宗教领袖，以孔子为先师，以诗 ... 何光沪对于儒教的定义如下：“所谓儒教，非指儒学或儒家之整体，而是指殷周以来绵延三千年的中国原生宗教，即以 .... 尊六经立学宫，重视吉礼、凶礼、宾礼、军礼、嘉礼的礼仪制度的建设，被称为经学，或者汉学，此后成为中国的正统。",
-    "title" :"儒教(宗教) - 维基百科，自由的百科全书",
-    },
-    {
     "url" :"http://baike.baidu.com/item/%E5%84%92%E6%95%99",
     "abstract" :"儒教，跟佛教、道教并称为三教，以“儒家思想”为最高信仰。 ... 不仅证明了胡适儒最早是殷商教士，是宗教神职人员的论点，也为儒教（非儒学）是宗教找到了证据 。 ...... 神祇、人鬼之礼，吉凶宾军嘉礼以及玉帛钟鼓等文物的太常寺官职，都是儒教的神职。",
     "title" :"儒教_百度百科",
-    },
-    {
-    "url" :"http://baike.baidu.com/item/%E5%91%A8%E7%A4%BC",
-    "abstract" :"《周礼》是儒家经典，十三经之一。世传为周公旦所著，但实际上可能是战国时期归纳创作而成。《周礼》、《仪礼》和《礼记》合称“三礼”，是古代华夏民族礼乐文化的理论 ...",
-    "title" :"周礼（儒家经典）_百度百科",
     },
     {
     "url" :"https://wxn.qq.com/cmsid/RUS2014071605595701",
@@ -676,39 +485,10 @@ Q_dict = {
     "title" :"儒学四大特点_腾讯网触屏版",
     },
     {
-    "url" :"https://books.google.com.hk/books?id=CC8xCgAAQBAJ&pg=PA98&lpg=PA98&dq=%E4%BB%80%E4%B9%88+%E6%98%AF+%E5%84%92%E5%AE%B6+%E5%98%89%E7%A4%BC&source=bl&ots=9M2J2jRzFA&sig=k-UtMAitEowVaw6OGI2tJJm44yI&hl=zh-TW&sa=X&ved=0ahUKEwja94m38YjUAhVBoJQKHZHXAYEQ6AEIRDAE",
-    "abstract" :"命,这是墨家的主张;尚法、好作,这是慎到、田驴辑的主张;不法先王,不是礼义,这是惠施、邓析的主张;并耕、尽地力,这是农家的主张;儒家的独特主张是什么呢? ... 当然说不上吉、凶、宾、军、嘉全部的礼,不过士民所需凶礼中的丧吊,嘉礼中的昏冠之礼节仪文 ...",
-    "title" :"陈独秀文选 - 第 98 頁 - Google 圖書結果",
-    "metadata" :"林文光, Esphere Media（美国艾思传媒） - 2015",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=bh3DCwAAQBAJ&pg=PT186&lpg=PT186&dq=%E4%BB%80%E4%B9%88+%E6%98%AF+%E5%84%92%E5%AE%B6+%E5%98%89%E7%A4%BC&source=bl&ots=iGUgj9nrF4&sig=hw1E8aSZ2rgBXVxesfAiZrt_Mt8&hl=zh-TW&sa=X&ved=0ahUKEwja94m38YjUAhVBoJQKHZHXAYEQ6AEISTAF",
-    "abstract" :"冠笄之礼的内涵是什么《礼记∙冠义》篇说:“冠者礼之始也。 ... 礼文化是华夏文化的核心,华夏礼仪分为“吉礼、凶礼、军礼、宾礼、嘉礼”五种类型,冠笄之礼属于嘉礼的一种。 ... 换句话说,冠礼是华夏礼仪在华夏成员心中的“奠基工程”“基础工程”,所以,儒家将冠 ...",
-    "title" :"国学修养基本知识（读酷国学百科版） - Google 圖書結果",
-    "metadata" :"林语涵 - 2015 - Literary Criticism",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=30AbBgAAQBAJ&pg=PT222&lpg=PT222&dq=%E4%BB%80%E4%B9%88+%E6%98%AF+%E5%84%92%E5%AE%B6+%E5%98%89%E7%A4%BC&source=bl&ots=vnBeZed8zS&sig=yhbf3jeayBtzoLFvn0anU4Gm2Xw&hl=zh-TW&sa=X&ved=0ahUKEwja94m38YjUAhVBoJQKHZHXAYEQ6AEITjAG",
-    "abstract" :"【国学小百科】古代六艺六艺是中国古代儒家要求学生掌握的六种基本才能,即礼、乐、射、御、书、数。 ... 五礼即:吉礼、凶礼、军礼、宾礼、嘉礼;六乐即:云门、大咸、大韶、大夏、大武等古乐;五射即:白 ... 但吕蒙和蒋钦原来都没念过什么书,被看作一介武夫。",
-    "title" :"弟子规 新读(第二版) - Google 圖書結果",
-    "metadata" :"杨忠, Esphere Media（美国艾思传媒） - 2012",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=uxf8AgAAQBAJ&pg=PT315&lpg=PT315&dq=%E4%BB%80%E4%B9%88+%E6%98%AF+%E5%84%92%E5%AE%B6+%E5%98%89%E7%A4%BC&source=bl&ots=MpD_uTtMw8&sig=Vbv-sCRrIYxaYYLoJzOjHUOFBow&hl=zh-TW&sa=X&ved=0ahUKEwja94m38YjUAhVBoJQKHZHXAYEQ6AEIUzAH",
-    "abstract" :"冠笄之礼的内涵是什么《礼记∙冠义》篇说:“冠者礼之始也。 ... 礼文化是华夏文化的核心,华夏礼仪分为“吉礼、凶礼、军礼、宾礼、嘉礼”五种类型,冠笄之礼属于嘉礼的一种。 ... 换句话说,冠礼是华夏礼仪在华夏成员心中的“奠基工程”“基础工程”,所以,儒家将冠 ...",
-    "title" :"青少年国学全知道:  - Google 圖書結果",
-    "metadata" :"李国伦 - 2014",
-    },
-    {
     "url" :"https://books.google.com.hk/books?id=BhByCQAAQBAJ&pg=PT29&lpg=PT29&dq=%E4%BB%80%E4%B9%88+%E6%98%AF+%E5%84%92%E5%AE%B6+%E5%98%89%E7%A4%BC&source=bl&ots=sE5D4IP1dj&sig=0Q6KX9OdUFirQ2m2L-nVz9C6UAY&hl=zh-TW&sa=X&ved=0ahUKEwja94m38YjUAhVBoJQKHZHXAYEQ6AEIWDAI",
     "abstract" :"... 活动;凶礼,用于丧葬和哀吊各种灾祸;宾礼,用于诸侯朝见天子;军礼,用于军事及其相关的领域;嘉礼,用于各种吉庆的活动,包括饮食、婚冠、宴享、贺庆等。 ... 对于下层人民而言,则以刑罚治之,礼乐是不适用的,所以说“刑不上大夫,礼不下庶人”。《周易》是一本什么样的书? ... 《周易》其外表神秘,而内涵的哲理至深至弘,被列为儒家经典之首。",
     "title" :"一本书读懂历史知识:  - Google 圖書結果",
     "metadata" :"2015",
-    },
-    {
-    "url" :"https://kknews.cc/zh-my/culture/qevl2mg.html",
-    "abstract" :"2016年12月16日 - 礼乐射御书数，儒家六艺究竟是什么？ ... 即吉礼、凶礼、军礼、宾礼、嘉礼。 ... 之礼，军礼既军队之礼，宾礼为接待宾客之礼，嘉礼为人际关系之礼。",
-    "title" :"礼乐射御书数，儒家六艺究竟是什么？ - 每日头条 - 每日頭條",
     },
     ],
 ######
@@ -796,33 +576,16 @@ Q_dict = {
     ],
 }
 keyword_list = [ 
-   "   网络",
-   "   联想",
-   "   本质",
-   "   计算复杂度:常，对，线，平，立，指，阶",
-   "   意义",
-   "   量化分析",
-   "   周期",
-   "   balance shift",
-   "   批判",
-   "   选择",
-   "   交换",
-   "   外延",
-   "   统一",
-   "   健康",
-   "   并行",
-   "   有用",
-   "   极限",
-   "   历史",
-   "   不确定",
-   "   高维",
-   "   随机",
-   "   分类",
-   "   抽象",
-   "   很感谢你能能来，不遗憾你离开",
-   "   哪些人",
+   "墨家 学派 主张",
+   "公羊学 的反经 是指什么",
+   "本质",
+   "平时大家所说的文化指什么",
+   "什么是政治",
+   "量化分析",
+   "儒 道 佛",
+   "三纲 八目 是指什么",
 ]
-meta_data = {"status":"hc","Major": 3,"Minor": 7,"Prefix": "Q"}
+meta_data = {"status":"mc","Major": 3,"Minor": 7,"Prefix": "Q"}
 km_0_title = "礼仪"
 km_0_summary = "礼仪"
 km_1_tags = []
