@@ -58,8 +58,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=vapTDQAAQBAJ&pg=PA10&lpg=PA10&dq=%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%A8%A1%E5%BC%8F&source=bl&ots=KIXkrLw2jm&sig=pLJIRWPNM4z8ekE4x8roJdImXYI&hl=zh-TW&sa=X&ved=0ahUKEwiBmKD2wpvUAhVGGpQKHWJ6CNIQ6AEIZTAI",
     "abstract" :"图11 经济发展模式的演化示意图 相伴随的经济绩效和经济增长的表现不同。 ... 经济发展模式的选择常常是在我们既缺乏环境和未来的系统知识,又受到作为历史遗产 ...",
-    "title" :"中国经济的第二次转型 - 第 10 頁 - Google 圖書結果",
     "metadata" :"刘刚, 周桂元 - 2010 - Business & Economics",
+    "title" :"中国经济的第二次转型 - 第 10 頁 - Google 圖書結果",
     },
     {
     "url" :"http://www.bangkokbank.com/download/51Web8_Column_No04.pdf",
@@ -84,8 +84,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=8shTDQAAQBAJ&pg=PA34&lpg=PA34&dq=%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E7%9A%843.0%E6%A8%A1%E5%9E%8B&source=bl&ots=1vGgVt_dpF&sig=2y-2eFHtHFo2yVqD6tiQMK45fwQ&hl=zh-TW&sa=X&ved=0ahUKEwiqhPz6wpvUAhUFppQKHS3JDdUQ6AEIQzAG",
     "abstract" :"索洛的经济增长模型认为,当外生的技术以固定比率增长时,经济将在平衡增长路径上 ... 则: λ=8.0%3.0%1.4%=3.6%也就是说,在8%的经济增长率中,有3.6%是由技术进步 ... 通过上面公式计算出来的数字并不是科学技术和生产要素在经济增长中的实际 ...",
-    "title" :"中国经济增长质量研究 - 第 34 頁 - Google 圖書結果",
     "metadata" :"李变花, 林治滨 - 2008 - Business & Economics",
+    "title" :"中国经济增长质量研究 - 第 34 頁 - Google 圖書結果",
     },
     {
     "url" :"http://class-qry.acad.ncku.edu.tw/crm/course_map/course.php?dept=U5&cono=U551500",
@@ -145,8 +145,8 @@ Q_dict = {
     {
     "url" :"http://www.creative-more.com.tw/soft-ware/ezcatfiles/creative-more/download/attach/2/(1)-7%20%B9B%B0%CA%B0%B7%B1d%A4%A4%A4%DF%B5o%AEi%C1%CD%B6%D5%A4%C0%AAR.pdf",
     "abstract" :"運動健康中心發展趨勢分析. 品度股份有限公司發行. 94. 壹、產業趨勢變化與分析. 一、健身風潮，健康取向. 台灣健康俱樂部產業從十多年來每年成立1~2家，在1997 ...",
-    "title" :"[PDF] 運動健康中心發展趨勢分析 - 品度股份有限公司",
     "metadata" :"由 謝登源 著作 - 被引用 5 次 - 相關文章",
+    "title" :"[PDF] 運動健康中心發展趨勢分析 - 品度股份有限公司",
     },
     {
     "url" :"http://ieknet.iek.org.tw/BookView.do?rptidno=432001165",
@@ -226,14 +226,14 @@ Q_dict = {
     {
     "url" :"https://www.amazon.cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3-%E6%9D%B0%E7%91%9E%C2%B7%E5%8D%A1%E6%99%AE%E5%85%B0/dp/B01EL28XHE",
     "abstract" :"人工智能时代(湛庐文化机器人与人工智能书系), 品牌: 湛庐文化, 版本: 第1版, 浙江人民出版社, 编辑推荐： 人工智能时代，人类和智能机器Ӥ...",
-    "title" :"《人工智能时代(湛庐文化机器人与人工智能书系)》 杰瑞·卡普兰, 李盼书评 ...",
     "metadata" :"評分：3.7 - 13 則評論",
+    "title" :"《人工智能时代(湛庐文化机器人与人工智能书系)》 杰瑞·卡普兰, 李盼书评 ...",
     },
     {
     "url" :"https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01EKXEEZ4",
     "abstract" :"在《人工智能时代》一书中，智能时代领军人、硅谷连续创业者杰瑞·卡普兰指出：智能时代的到来，给人类社会带来了两大灾难性冲击：持续性失业与不断加剧的贫富差距 ...",
-    "title" :"《人工智能时代》 杰瑞•卡普兰(Jerry Kaplan), 李盼【摘要书评试读】图书",
     "metadata" :"評分：3.7 - 13 則評論",
+    "title" :"《人工智能时代》 杰瑞•卡普兰(Jerry Kaplan), 李盼【摘要书评试读】图书",
     },
     {
     "url" :"https://book.douban.com/subject/26776547/",
@@ -298,8 +298,8 @@ Q_dict = {
     {
     "url" :"https://www.youtube.com/watch?v=o3Tn8YXTxb0",
     "abstract" :"0:09 而8年之後，中國最貴的將包括乾淨的空氣和水等。 ... 這是媒體調查的購買力貶值資料，隨著物價高漲，10年後，想必現金會越來越不值錢，也 ...",
-    "title" :"馬雲：不要買房了，未來房子如蔥！八年後最便宜的是房子車子，而最貴的 ...",
     "metadata" :"2017年5月20日 - 上傳者：Anson Fun Fair Origami Craft Toys 手工 摺紙 玩具遊樂園",
+    "title" :"馬雲：不要買房了，未來房子如蔥！八年後最便宜的是房子車子，而最貴的 ...",
     },
     {
     "url" :"http://www.ntdtv.com/xtr/b5/2017/05/08/a1323603.html",
@@ -314,8 +314,8 @@ Q_dict = {
     {
     "url" :"http://bbs.tiexue.net/post2_12562982_1.html",
     "abstract" :"八年后最便宜的东西1房子今天我国人均保有的住宅面积是多少？ ... 缴纳房产税，谁会愿意留这么多房子在手里，大家都抛售房子的后果是什么？2汽车汽车基本上已经成为非常普通的消费品了， ... 2017/5/9 13:25:42 ... 回复：马云：不要买房了，未来房子如葱！八年后 这帖子十年前我看就看过了，房价依然是一路高歌.",
-    "title" :"马云：不要买房了，未来房子如葱！八年后最便宜的是 ... - 铁血社区 - 铁血网",
     "metadata" :"2017年5月6日 - 21 篇文章 - 19 位作者",
+    "title" :"马云：不要买房了，未来房子如葱！八年后最便宜的是 ... - 铁血社区 - 铁血网",
     },
     {
     "url" :"https://kknews.cc/house/lpzra9g.html",
@@ -380,13 +380,70 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=gQam5_zNNpAC&pg=PA4&lpg=PA4&dq=%E6%B1%A1%E6%9F%93%E7%9A%84%E6%B2%BB%E7%90%86%E6%97%B6%E9%97%B4%E8%A1%A8&source=bl&ots=ccpCSqPkHd&sig=3XzoTQJQy6JdbnfcQev3FUBbm_c&hl=zh-TW&sa=X&ved=0ahUKEwjCubK4w5vUAhUBKpQKHUjWDUEQ6AEIXzAI",
     "abstract" :"起初,空气污染问题集中在吸烟及烟囱所产生的令人厌烦的烟雾方面,这些烟雾可能会 ... 意识到需要采取措施以治理水污染问题的时间表与考虑解决即将耗尽的臭氧层 ...",
-    "title" :"商务伦理与会计职业道德:  - 第 4 頁 - Google 圖書結果",
     "metadata" :"Brooks, Leonard J.·布鲁克斯, 布鲁克斯 - 2004 - Accountants",
+    "title" :"商务伦理与会计职业道德:  - 第 4 頁 - Google 圖書結果",
     },
     {
     "url" :"http://www.shuihua.net/%E6%96%B0%E8%81%9E-%E6%99%82%E9%96%93%E8%A1%A8%E7%9A%84%2013%20%E4%B8%96%E7%B4%80%E5%8D%B0%E5%BA%A6%E6%95%99%E5%AE%97%E6%97%8F%E7%9A%88%E4%BE%9D%E4%BC%8A%E6%96%AF%E8%98%AD%E6%95%99%E5%A6%82%E4%BD%95%E6%B2%BB%E7%90%86%E6%B0%B4%E6%B1%A1%E6%9F%93-17.html",
     "abstract" :"時間表的13 世紀印度教宗族皈依伊斯蘭教如何治理水污染. 費利佩是西班牙變體名稱菲力浦，其中，來自希臘的形容詞腓力馬的朋友。費利佩還廣泛應用於說葡語的 ...",
     "title" :"時間表的13 世紀印度教宗族皈依伊斯蘭教如何治理水污染- 湖泊富營養 ...",
+    },
+    ],
+######
+#Q_3_0 #: 什么是范式革命
+######
+"Q_3_0": [" 什么是范式革命",
+    {
+    "url" :"http://baike.baidu.com/item/%E8%8C%83%E5%BC%8F/22773",
+    "abstract" :"范式是一个多义词，请在下列义项上选择浏览（共4个义项） ... 什么问题应该被提出、如何对问题进行质疑以及在解释我们获得的答案时该遵循什么样的规则。 .... 美国科学史家库恩，以其代表作《科学革命的结构》（1962）（以下简称《结构》）而饮誉世界， ...",
+    "title" :"范式（科学学概念）_百度百科",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/wiki/%E8%8C%83%E5%BC%8F",
+    "abstract" :"范式（Paradigm），或典範，由湯瑪斯·孔恩提出。在1960年之后是指在科学领域和知识论行文中的 ... 科学哲学家托马斯·库恩给出这个词语的现代用法，他指出范式是在某一个指定时间内一系列限定某一个 ... 他在其书科学革命的结构中定义科学范式为：.",
+    "title" :"范式- 维基百科，自由的百科全书",
+    },
+    {
+    "url" :"http://wiki.mbalib.com/wiki/%E8%8C%83%E5%BC%8F",
+    "abstract" :"1 什么是范式; 2 范式理论的提出; 3 范式的本质及特点; 4 范式的特点; 5 研究范式 ... 由美国哲学家托马斯·库恩于1962年在其经典著作《科学革命的结构》一书中提出。",
+    "title" :"范式- MBA智库百科",
+    },
+    {
+    "url" :"http://wiki.mbalib.com/zh-tw/%E8%8C%83%E5%BC%8F",
+    "abstract" :"1 什麼是範式; 2 範式理論的提出; 3 範式的本質及特點; 4 範式的特點; 5 研究範式 ... 由美國哲學家托馬斯·庫恩於1962年在其經典著作《科學革命的結構》一書中提出。",
+    "title" :"範式- MBA智库百科",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/20858198",
+    "abstract" :"这也和Kuhn 本人的理论相符合：出现范式革命，并非是因为提出了一个革命性的看法。通常这个想法，已经有了相当的事实支持，已经有了相关的观念产生。",
+    "title" :"什么是「范式」？能否以社会科学或自然科学中的一些实例来对这一概念 ...",
+    },
+    {
+    "url" :"http://blog.sina.com.cn/s/blog_002e203101015t3p.html",
+    "abstract" :"2013年1月6日 - 范式（paradigm）的概念和理论是美国著名科学哲学家托马斯·库恩(Thomas,Kuhn) 提出并在《科学革命的结构》(The Structure of Scientific ...",
+    "title" :"什么是范式_谢先斌_新浪博客",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/news/jmx56.html",
+    "abstract" :"2016年5月23日 - 庫恩範式理論的本質規定性是範式之間的革命性和不可通約性，但是 .... 是什麼共同因素決定了科學共同體內部專業交流充分、專業見解一致這種 ...",
+    "title" :"庫恩的範式理論與馬克思哲學的範式革命- 每日頭條",
+    },
+    {
+    "url" :"http://www.nhu.edu.tw/~sts/class/class_01_2.htm",
+    "abstract" :"另外在1965年倫敦大學舉辦了場對孔恩的「科學革命」觀點探討的研討會，而在 .... 時即意謂著科學革命的到來，科學革命是一個新典範取代舊典範過程，由於典範是由 ...",
+    "title" :"孔恩的科學革命",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=fqGOmX6ewdQC&pg=RA2-PA176&lpg=RA2-PA176&dq=%E4%BB%80%E4%B9%88%E6%98%AF%E8%8C%83%E5%BC%8F%E9%9D%A9%E5%91%BD&source=bl&ots=XPANjkegKA&sig=8aucsYu6Ht1UPEoVlkIAzqA_V7U&hl=zh-TW&sa=X&ved=0ahUKEwjjg8SZ4J3UAhVFjpQKHSSzDBYQ6AEIWjAI",
+    "abstract" :"更人死於心臟病發作,往往很難說是什麼原因導致病人死於心臟病發作。在天文學 ... 革命科學在科學上現在還更一種可能性,那尌是革命科學這個浪漫範式。Thomas ...",
+    "title" :"演化，生態和行為的原則: 耶魯大學公開課程文字版本",
+    "metadata" :"Stephen C. Sterns",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=RD7ZCQAAQBAJ&pg=PT63&lpg=PT63&dq=%E4%BB%80%E4%B9%88%E6%98%AF%E8%8C%83%E5%BC%8F%E9%9D%A9%E5%91%BD&source=bl&ots=GtZ_b4keYn&sig=zI5zvZOSD3W9rst5rL2eUJ7U0nE&hl=zh-TW&sa=X&ved=0ahUKEwjjg8SZ4J3UAhVFjpQKHSSzDBYQ6AEIXTAJ",
+    "abstract" :"削,其内涵被扩展后,对马克思的现代社会发展理论的意义是什么。这是一个必须考察,而且 ... 他们认为,传统的发展范式已经不适应社会发展现实,需要转换为新的发展范式。三位新发展理论的研究 ... 范式革命”是一种形而上学的革命。一种新范式的出现 ...",
+    "title" :"马克思现代社会发展理论的价值维度:  - Google 圖書結果",
+    "metadata" :"刘新刚 - 2015",
     },
     ],
 ######
@@ -411,8 +468,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=TXbhDgAAQBAJ&pg=PA31&lpg=PA31&dq=%E6%9C%AA%E6%9D%A5%E7%BB%8F%E6%B5%8E+%E7%9A%84%E5%8F%91%E5%B1%95%E6%A8%A1%E5%9E%8B&source=bl&ots=6ZGydERq9P&sig=Tz6NbkQPZJ8MiNi8rl-j0Qq6DUg&hl=zh-TW&sa=X&ved=0ahUKEwiyiouLs4vUAhUCnZQKHclRDDoQ6AEIODAC",
     "abstract" :"它是制定国民经济和企业生产经营发展的十年计划、远景计划,规定经济长期发展 ... 全面的调查统计资料和经济信息,运用统计方法和数学模型,对经济现象未来发展的 ...",
-    "metadata" :"胡光宇  编著.  - 2010 - Psychology",
     "title" :"战略定量研究基础——预测与决策:  - 第 31 頁 - Google 圖書結果",
+    "metadata" :"胡光宇  编著.  - 2010 - Psychology",
     },
     {
     "url" :"http://finance.sina.com.cn/roll/2017-01-19/doc-ifxzutkf1947589.shtml",
@@ -422,8 +479,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=YQbODgAAQBAJ&pg=PT153&lpg=PT153&dq=%E6%9C%AA%E6%9D%A5%E7%BB%8F%E6%B5%8E+%E7%9A%84%E5%8F%91%E5%B1%95%E6%A8%A1%E5%9E%8B&source=bl&ots=sDNI1IO90W&sig=aIYXrlTkypX8uneM3CatxmXPhg8&hl=zh-TW&sa=X&ved=0ahUKEwiyiouLs4vUAhUCnZQKHclRDDoQ6AEIYTAJ",
     "abstract" :"CGE模型的优点在于它能根据不同的政策和对策来分析未来的经济活动。CGE模型在世界各地应用广泛,众多构模小组使用CGE模型对经济活动和政策实施进行模拟, ...",
-    "metadata" :"/刘德顺等主编.",
     "title" :"清洁发展机制在中国：采取积极和可持续的方式:  - Google 圖書結果",
+    "metadata" :"/刘德顺等主编.",
     },
     ],
 ######
@@ -438,8 +495,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=af7VCwAAQBAJ&pg=PT20&lpg=PT20&dq=%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80+%E7%AA%81%E7%A0%B4%E8%B7%AF%E7%BA%BF&source=bl&ots=PNfbYqIR98&sig=5vbpRdFdKQq-LcGmetTij2biSo8&hl=zh-TW&sa=X&ved=0ahUKEwjytbibs4vUAhXTq5QKHW6LDC8Q6AEIMTAC",
     "abstract" :"... 以及教育技术等国家重点优先领域的发展和突破,形成一个金字塔形的战略。经济危机之后,英国一直秉持利用科技进步推动经济发展的思路,紧紧围绕促进经济发展 ... 发展战略》出台,提出了涵盖通讯、传感、探测和太空利用等领域的技术路线图。俄罗斯进一步明确了未来科技发展的优先方向,政府采取一系列措施加大了对科技创新的 ...",
-    "metadata" :"雷良海, 吕小军 - 1900 - Business & Economics",
     "title" :"财政科技支出 - Google 圖書結果",
+    "metadata" :"雷良海, 吕小军 - 1900 - Business & Economics",
     },
     {
     "url" :"https://kknews.cc/zh-hk/tech/8yzkjg.html",
@@ -449,15 +506,39 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=G6UvDAAAQBAJ&pg=PA274&lpg=PA274&dq=%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80+%E7%AA%81%E7%A0%B4%E8%B7%AF%E7%BA%BF&source=bl&ots=eNlAFyfI28&sig=uMOX04KG2hs6lss2FI_i5oriCpk&hl=zh-TW&sa=X&ved=0ahUKEwjytbibs4vUAhXTq5QKHW6LDC8Q6AEIWDAJ",
     "abstract" :"這些把意識上傳到電腦的方法,所需要的科技要在很久的未來才有可能實現。不過至少有 ... 不過最近十年,一個新的理論慢慢為人接受,統一了許多不同路線的老化研究。",
-    "metadata" :"加來道雄 - 2015 - Science",
     "title" :"2050科幻大成真: 超能力、心智控制、人造記憶、遺忘藥丸、奈米機器人，即將改變我們的世界",
+    "metadata" :"加來道雄 - 2015 - Science",
     },
     ],
 }
 keyword_list = [ 
-   " 什么是范式革命",
+   "   关系",
+   "   联接",
+   "   4因5路",
+   "   计算复杂度:常，对，线，平，立，指，阶",
+   "   边际效应",
+   "   度量",
+   "   增长",
+   "   启始",
+   "   批判",
+   "   策略",
+   "   优化",
+   "   外延",
+   "   合并",
+   "   生老病死",
+   "   展示",
+   "   有料",
+   "   极限",
+   "   未来",
+   "   不确定",
+   "   分层模块化",
+   "   随机",
+   "   分类",
+   "   建模",
+   "   很感谢你能能来，不遗憾你离开",
+   "   哪些人",
 ]
-meta_data = {"status":"mc","Major": 2,"Minor": 10,"Prefix": "Q"}
+meta_data = {"status":"hc","Major": 3,"Minor": 1,"Prefix": "Q"}
 km_0_title = "未来经济"
 km_0_summary = "ummary_tp"
 km_1_tags = []
