@@ -74,9 +74,12 @@ keyword_list = [
    "人工智能时代的 程序员",
    "后人工智能时代",
    "6万亿交易规模的平台经济是怎么样的",
+   "运动健康的发展趋势",
+   "未来5-10年什么最贵",
+   "污染的治理时间表",
    
 ]
-meta_data = {"status":"hc","Major": 1,"Minor": 3,"Prefix": "Q"}
-km_0_title = "title_tp"
+meta_data = {"status":"mc","Major": 1,"Minor": 3,"Prefix": "Q"}
+km_0_title = "未来经济"
 km_0_summary = "ummary_tp"
 km_1_tags = []
