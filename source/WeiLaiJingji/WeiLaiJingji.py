@@ -394,11 +394,6 @@ Q_dict = {
 ######
 "Q_3_0": [" 什么是范式革命",
     {
-    "url" :"http://baike.baidu.com/item/%E8%8C%83%E5%BC%8F/22773",
-    "abstract" :"范式是一个多义词，请在下列义项上选择浏览（共4个义项） ... 什么问题应该被提出、如何对问题进行质疑以及在解释我们获得的答案时该遵循什么样的规则。 .... 美国科学史家库恩，以其代表作《科学革命的结构》（1962）（以下简称《结构》）而饮誉世界， ...",
-    "title" :"范式（科学学概念）_百度百科",
-    },
-    {
     "url" :"https://zh.wikipedia.org/wiki/%E8%8C%83%E5%BC%8F",
     "abstract" :"范式（Paradigm），或典範，由湯瑪斯·孔恩提出。在1960年之后是指在科学领域和知识论行文中的 ... 科学哲学家托马斯·库恩给出这个词语的现代用法，他指出范式是在某一个指定时间内一系列限定某一个 ... 他在其书科学革命的结构中定义科学范式为：.",
     "title" :"范式- 维基百科，自由的百科全书",
@@ -409,35 +404,9 @@ Q_dict = {
     "title" :"范式- MBA智库百科",
     },
     {
-    "url" :"http://wiki.mbalib.com/zh-tw/%E8%8C%83%E5%BC%8F",
-    "abstract" :"1 什麼是範式; 2 範式理論的提出; 3 範式的本質及特點; 4 範式的特點; 5 研究範式 ... 由美國哲學家托馬斯·庫恩於1962年在其經典著作《科學革命的結構》一書中提出。",
-    "title" :"範式- MBA智库百科",
-    },
-    {
-    "url" :"https://www.zhihu.com/question/20858198",
-    "abstract" :"这也和Kuhn 本人的理论相符合：出现范式革命，并非是因为提出了一个革命性的看法。通常这个想法，已经有了相当的事实支持，已经有了相关的观念产生。",
-    "title" :"什么是「范式」？能否以社会科学或自然科学中的一些实例来对这一概念 ...",
-    },
-    {
     "url" :"http://blog.sina.com.cn/s/blog_002e203101015t3p.html",
     "abstract" :"2013年1月6日 - 范式（paradigm）的概念和理论是美国著名科学哲学家托马斯·库恩(Thomas,Kuhn) 提出并在《科学革命的结构》(The Structure of Scientific ...",
     "title" :"什么是范式_谢先斌_新浪博客",
-    },
-    {
-    "url" :"https://kknews.cc/zh-hk/news/jmx56.html",
-    "abstract" :"2016年5月23日 - 庫恩範式理論的本質規定性是範式之間的革命性和不可通約性，但是 .... 是什麼共同因素決定了科學共同體內部專業交流充分、專業見解一致這種 ...",
-    "title" :"庫恩的範式理論與馬克思哲學的範式革命- 每日頭條",
-    },
-    {
-    "url" :"http://www.nhu.edu.tw/~sts/class/class_01_2.htm",
-    "abstract" :"另外在1965年倫敦大學舉辦了場對孔恩的「科學革命」觀點探討的研討會，而在 .... 時即意謂著科學革命的到來，科學革命是一個新典範取代舊典範過程，由於典範是由 ...",
-    "title" :"孔恩的科學革命",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=fqGOmX6ewdQC&pg=RA2-PA176&lpg=RA2-PA176&dq=%E4%BB%80%E4%B9%88%E6%98%AF%E8%8C%83%E5%BC%8F%E9%9D%A9%E5%91%BD&source=bl&ots=XPANjkegKA&sig=8aucsYu6Ht1UPEoVlkIAzqA_V7U&hl=zh-TW&sa=X&ved=0ahUKEwjjg8SZ4J3UAhVFjpQKHSSzDBYQ6AEIWjAI",
-    "abstract" :"更人死於心臟病發作,往往很難說是什麼原因導致病人死於心臟病發作。在天文學 ... 革命科學在科學上現在還更一種可能性,那尌是革命科學這個浪漫範式。Thomas ...",
-    "title" :"演化，生態和行為的原則: 耶魯大學公開課程文字版本",
-    "metadata" :"Stephen C. Sterns",
     },
     {
     "url" :"https://books.google.com.hk/books?id=RD7ZCQAAQBAJ&pg=PT63&lpg=PT63&dq=%E4%BB%80%E4%B9%88%E6%98%AF%E8%8C%83%E5%BC%8F%E9%9D%A9%E5%91%BD&source=bl&ots=GtZ_b4keYn&sig=zI5zvZOSD3W9rst5rL2eUJ7U0nE&hl=zh-TW&sa=X&ved=0ahUKEwjjg8SZ4J3UAhVFjpQKHSSzDBYQ6AEIXTAJ",
@@ -512,33 +481,10 @@ Q_dict = {
     ],
 }
 keyword_list = [ 
-   "   关系",
-   "   联接",
-   "   4因5路",
-   "   计算复杂度:常，对，线，平，立，指，阶",
-   "   边际效应",
-   "   度量",
-   "   增长",
-   "   启始",
-   "   批判",
-   "   策略",
-   "   优化",
-   "   外延",
-   "   合并",
-   "   生老病死",
-   "   展示",
-   "   有料",
-   "   极限",
-   "   未来",
-   "   不确定",
-   "   分层模块化",
-   "   随机",
-   "   分类",
-   "   建模",
-   "   很感谢你能能来，不遗憾你离开",
-   "   哪些人",
+   "经济预测 与元胞机",
+   "经济预测 模型",
 ]
-meta_data = {"status":"hc","Major": 3,"Minor": 1,"Prefix": "Q"}
+meta_data = {"status":"mc","Major": 3,"Minor": 1,"Prefix": "Q"}
 km_0_title = "未来经济"
 km_0_summary = "ummary_tp"
 km_1_tags = []
