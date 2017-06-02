@@ -58,8 +58,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=vapTDQAAQBAJ&pg=PA10&lpg=PA10&dq=%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%A8%A1%E5%BC%8F&source=bl&ots=KIXkrLw2jm&sig=pLJIRWPNM4z8ekE4x8roJdImXYI&hl=zh-TW&sa=X&ved=0ahUKEwiBmKD2wpvUAhVGGpQKHWJ6CNIQ6AEIZTAI",
     "abstract" :"图11 经济发展模式的演化示意图 相伴随的经济绩效和经济增长的表现不同。 ... 经济发展模式的选择常常是在我们既缺乏环境和未来的系统知识,又受到作为历史遗产 ...",
-    "metadata" :"刘刚, 周桂元 - 2010 - Business & Economics",
     "title" :"中国经济的第二次转型 - 第 10 頁 - Google 圖書結果",
+    "metadata" :"刘刚, 周桂元 - 2010 - Business & Economics",
     },
     {
     "url" :"http://www.bangkokbank.com/download/51Web8_Column_No04.pdf",
@@ -84,8 +84,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=8shTDQAAQBAJ&pg=PA34&lpg=PA34&dq=%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E7%9A%843.0%E6%A8%A1%E5%9E%8B&source=bl&ots=1vGgVt_dpF&sig=2y-2eFHtHFo2yVqD6tiQMK45fwQ&hl=zh-TW&sa=X&ved=0ahUKEwiqhPz6wpvUAhUFppQKHS3JDdUQ6AEIQzAG",
     "abstract" :"索洛的经济增长模型认为,当外生的技术以固定比率增长时,经济将在平衡增长路径上 ... 则: λ=8.0%3.0%1.4%=3.6%也就是说,在8%的经济增长率中,有3.6%是由技术进步 ... 通过上面公式计算出来的数字并不是科学技术和生产要素在经济增长中的实际 ...",
-    "metadata" :"李变花, 林治滨 - 2008 - Business & Economics",
     "title" :"中国经济增长质量研究 - 第 34 頁 - Google 圖書結果",
+    "metadata" :"李变花, 林治滨 - 2008 - Business & Economics",
     },
     {
     "url" :"http://class-qry.acad.ncku.edu.tw/crm/course_map/course.php?dept=U5&cono=U551500",
@@ -145,8 +145,8 @@ Q_dict = {
     {
     "url" :"http://www.creative-more.com.tw/soft-ware/ezcatfiles/creative-more/download/attach/2/(1)-7%20%B9B%B0%CA%B0%B7%B1d%A4%A4%A4%DF%B5o%AEi%C1%CD%B6%D5%A4%C0%AAR.pdf",
     "abstract" :"運動健康中心發展趨勢分析. 品度股份有限公司發行. 94. 壹、產業趨勢變化與分析. 一、健身風潮，健康取向. 台灣健康俱樂部產業從十多年來每年成立1~2家，在1997 ...",
-    "metadata" :"由 謝登源 著作 - 被引用 5 次 - 相關文章",
     "title" :"[PDF] 運動健康中心發展趨勢分析 - 品度股份有限公司",
+    "metadata" :"由 謝登源 著作 - 被引用 5 次 - 相關文章",
     },
     {
     "url" :"http://ieknet.iek.org.tw/BookView.do?rptidno=432001165",
@@ -226,14 +226,14 @@ Q_dict = {
     {
     "url" :"https://www.amazon.cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3-%E6%9D%B0%E7%91%9E%C2%B7%E5%8D%A1%E6%99%AE%E5%85%B0/dp/B01EL28XHE",
     "abstract" :"人工智能时代(湛庐文化机器人与人工智能书系), 品牌: 湛庐文化, 版本: 第1版, 浙江人民出版社, 编辑推荐： 人工智能时代，人类和智能机器Ӥ...",
-    "metadata" :"評分：3.7 - 13 則評論",
     "title" :"《人工智能时代(湛庐文化机器人与人工智能书系)》 杰瑞·卡普兰, 李盼书评 ...",
+    "metadata" :"評分：3.7 - 13 則評論",
     },
     {
     "url" :"https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01EKXEEZ4",
     "abstract" :"在《人工智能时代》一书中，智能时代领军人、硅谷连续创业者杰瑞·卡普兰指出：智能时代的到来，给人类社会带来了两大灾难性冲击：持续性失业与不断加剧的贫富差距 ...",
-    "metadata" :"評分：3.7 - 13 則評論",
     "title" :"《人工智能时代》 杰瑞•卡普兰(Jerry Kaplan), 李盼【摘要书评试读】图书",
+    "metadata" :"評分：3.7 - 13 則評論",
     },
     {
     "url" :"https://book.douban.com/subject/26776547/",
@@ -298,8 +298,8 @@ Q_dict = {
     {
     "url" :"https://www.youtube.com/watch?v=o3Tn8YXTxb0",
     "abstract" :"0:09 而8年之後，中國最貴的將包括乾淨的空氣和水等。 ... 這是媒體調查的購買力貶值資料，隨著物價高漲，10年後，想必現金會越來越不值錢，也 ...",
-    "metadata" :"2017年5月20日 - 上傳者：Anson Fun Fair Origami Craft Toys 手工 摺紙 玩具遊樂園",
     "title" :"馬雲：不要買房了，未來房子如蔥！八年後最便宜的是房子車子，而最貴的 ...",
+    "metadata" :"2017年5月20日 - 上傳者：Anson Fun Fair Origami Craft Toys 手工 摺紙 玩具遊樂園",
     },
     {
     "url" :"http://www.ntdtv.com/xtr/b5/2017/05/08/a1323603.html",
@@ -314,8 +314,8 @@ Q_dict = {
     {
     "url" :"http://bbs.tiexue.net/post2_12562982_1.html",
     "abstract" :"八年后最便宜的东西1房子今天我国人均保有的住宅面积是多少？ ... 缴纳房产税，谁会愿意留这么多房子在手里，大家都抛售房子的后果是什么？2汽车汽车基本上已经成为非常普通的消费品了， ... 2017/5/9 13:25:42 ... 回复：马云：不要买房了，未来房子如葱！八年后 这帖子十年前我看就看过了，房价依然是一路高歌.",
-    "metadata" :"2017年5月6日 - 21 篇文章 - 19 位作者",
     "title" :"马云：不要买房了，未来房子如葱！八年后最便宜的是 ... - 铁血社区 - 铁血网",
+    "metadata" :"2017年5月6日 - 21 篇文章 - 19 位作者",
     },
     {
     "url" :"https://kknews.cc/house/lpzra9g.html",
@@ -380,13 +380,132 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=gQam5_zNNpAC&pg=PA4&lpg=PA4&dq=%E6%B1%A1%E6%9F%93%E7%9A%84%E6%B2%BB%E7%90%86%E6%97%B6%E9%97%B4%E8%A1%A8&source=bl&ots=ccpCSqPkHd&sig=3XzoTQJQy6JdbnfcQev3FUBbm_c&hl=zh-TW&sa=X&ved=0ahUKEwjCubK4w5vUAhUBKpQKHUjWDUEQ6AEIXzAI",
     "abstract" :"起初,空气污染问题集中在吸烟及烟囱所产生的令人厌烦的烟雾方面,这些烟雾可能会 ... 意识到需要采取措施以治理水污染问题的时间表与考虑解决即将耗尽的臭氧层 ...",
-    "metadata" :"Brooks, Leonard J.·布鲁克斯, 布鲁克斯 - 2004 - Accountants",
     "title" :"商务伦理与会计职业道德:  - 第 4 頁 - Google 圖書結果",
+    "metadata" :"Brooks, Leonard J.·布鲁克斯, 布鲁克斯 - 2004 - Accountants",
     },
     {
     "url" :"http://www.shuihua.net/%E6%96%B0%E8%81%9E-%E6%99%82%E9%96%93%E8%A1%A8%E7%9A%84%2013%20%E4%B8%96%E7%B4%80%E5%8D%B0%E5%BA%A6%E6%95%99%E5%AE%97%E6%97%8F%E7%9A%88%E4%BE%9D%E4%BC%8A%E6%96%AF%E8%98%AD%E6%95%99%E5%A6%82%E4%BD%95%E6%B2%BB%E7%90%86%E6%B0%B4%E6%B1%A1%E6%9F%93-17.html",
     "abstract" :"時間表的13 世紀印度教宗族皈依伊斯蘭教如何治理水污染. 費利佩是西班牙變體名稱菲力浦，其中，來自希臘的形容詞腓力馬的朋友。費利佩還廣泛應用於說葡語的 ...",
     "title" :"時間表的13 世紀印度教宗族皈依伊斯蘭教如何治理水污染- 湖泊富營養 ...",
+    },
+    ],
+######
+#Q_4_0 #:经济预测 与元胞机
+######
+"Q_4_0": ["经济预测 与元胞机",
+    {
+    "url" :"http://www.cnki.com.cn/Article/CJFDTotal-JSYJ201701009.htm",
+    "abstract" :"城市交通网元胞自动机流量预测阻塞—转移. ... 5, 宋伟;李美彦;胡晓琴;;基于元胞自动机的人员疏散微观仿真[J];交通科技与经济;2011年03期. 6, 李才伟,胡瑞安;自组织 ...",
+    "title" :"城市交通网元胞自动机全局流量预测方法--《计算机应用研究》2017年01期",
+    "metadata" :"由 张凤琴 著作 - 2017",
+    },
+    {
+    "url" :"http://www.xzbu.com/7/view-7924789.htm",
+    "abstract" :"2017年2月6日 - 通过复杂的科学理论，对于元胞自动机在地质灾害预测当中的使用价值进行 ... 0 引言随着经济的发展，人们对于矿区的利用程度越来越高，在我国， ...",
+    "title" :"元胞自动机在矿山地质灾害预测中的应用_免费论文全文下载 - 中国论文网",
+    },
+    {
+    "url" :"http://www.tseit.org.cn/fileup/PDF/1009-6744%20(2012)%2006-0085-08.pdf",
+    "abstract" :"MatLAB 软件的数学计算能力,开发出基于逻辑回归的元胞自动机土地预测模型. 基于实 ... 素和非经济因素,例如就业、交通、土地利用和增长. 管理政策的影响,预测土地 ...",
+    "title" :"[PDF] 基于元胞自动机的城市土地利用预测模型研究 - 交通运输系统工程与信息",
+    "metadata" :"由 孙健 著作 - 2012 - 被引用 2 次 - 相關文章",
+    },
+    {
+    "url" :"http://wap.sciencenet.cn/blogview.aspx?id=440762",
+    "abstract" :"2011年5月5日 - 另外，在表现上，元胞自动机模型还与一些理论方法存在着较大的相似性， ..... 演化模拟，而SD模型缺乏空间概念，更适于社会经济系统的模拟预测。",
+    "title" :"[转载]网上找到的一个不错的元胞自动机学习资料2-博客-科学网手机版",
+    },
+    {
+    "url" :"http://www.paper.edu.cn/download/downPaper/200512-172",
+    "abstract" :"摘要本文阐述了元胞自动机(Cellular Automata)的基本原理和方法，总结了CA 的基本 .... (2)作为一个时空动仿模型进行自然、社会、经济等复杂系统的预测和模拟[2]。",
+    "title" :"[PDF] 元胞自动机在矿山地质灾害预测中的应用 - 中国科技论文在线",
+    "metadata" :"由 张禄华 著作 - 相關文章",
+    },
+    {
+    "url" :"http://wenku.baidu.com/view/15353e731711cc7931b71628.html",
+    "abstract" :"轨迹分析与元胞自动机在土地利用动态模拟中的应用_经济/市场_经管营销_专业 ... L C预测模型的研究UC 取地理元胞自动机转换规则的新方法； 何春阳等【 将l 元胞 ...",
+    "title" :"轨迹分析与元胞自动机在土地利用动态模拟中的应用_论文_百度文库",
+    },
+    {
+    "url" :"http://www.geog.com.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=36468",
+    "abstract" :"2015年3月3日 - 摘要：元胞自动机模型已经成为模拟土地利用变化的重要方法。传统土地 ... 用于模拟大连市经济技术开发区1998-2009年土地利用变化模拟。 ... 积矩阵数据为基础，计算土地利用转移概率矩阵，进而预测未来土地利用面积总量的变.",
+    "title" :"[PDF] 基于元胞自动机模型的土地利用变化模拟 - 地理学报",
+    "metadata" :"由 杨俊 著作 - 2015 - 被引用 10 次 - 相關文章",
+    },
+    {
+    "url" :"http://www.tcsae.org/nygcxb/ch/reader/create_pdf.aspx?file_no=20120341",
+    "abstract" :"耕地保护和经济发展的矛盾将会进一步增大，可为政府和土地管理部门制定政策提供一定的参考，从而采取更 ... 选择灰色模型作为数量预测模型，元胞自动机模型作为.",
+    "title" :"[PDF] 元胞自动机模型的佛山市土地利用情景模拟分析 - 农业工程学报",
+    "metadata" :"由 王丽萍 著作 - 2012 - 被引用 38 次 - 相關文章",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=TXbhDgAAQBAJ&pg=PA167&lpg=PA167&dq=%E7%BB%8F%E6%B5%8E%E9%A2%84%E6%B5%8B+%E4%B8%8E%E5%85%83%E8%83%9E%E6%9C%BA&source=bl&ots=6ZGzaDSs6S&sig=B-7RHiqonLh8QVQkGfclOM5Aznc&hl=zh-TW&sa=X&ved=0ahUKEwjii4f0wZ_UAhVBupQKHXREA5cQ6AEIazAI",
+    "abstract" :"刘洪对经济系统的混沌理论及其在管理中应用研究的基础上,根据混沌现代系统理论, ... 用于这方面研究的主要工具是计算机,方法上有元胞自动机模型、耦合映像格子 ...",
+    "title" :"战略定量研究基础——预测与决策:  - 第 167 頁 - Google 圖書結果",
+    "metadata" :"胡光宇  编著.  - 2010 - Psychology",
+    },
+    {
+    "url" :"http://soils.issas.ac.cn/tr/ch/reader/create_pdf.aspx?file_no=20030603",
+    "abstract" :"摘要对土地利用变化过程的模拟和预测，需要地理信息系统(GIS)等相关技术的支撑。但目前GIS 不能 ... 关键词元胞自动机（CA）；模型；土地利用/覆被变化(LUCC)；时空模拟. 中图分类号 ... 自然因素和社会经济因素在不同时间、空间尺度上. 错综复杂， ...",
+    "title" :"[PDF] 试论元胞自动机模型与LUCC 时空模拟 - 中国科学院南京土壤研究所",
+    "metadata" :"由 汤君友 著作 - 2003 - 被引用 10 次 - 相關文章",
+    },
+    ],
+######
+#Q_4_1 #:经济预测 模型
+######
+"Q_4_1": ["经济预测 模型",
+    {
+    "url" :"http://wiki.mbalib.com/zh-tw/%E7%BB%8F%E6%B5%8E%E9%A2%84%E6%B5%8B",
+    "abstract" :"經濟預測（Economic forecast）經濟預測是預測的一個分支，是指以準確的調查統計 ... 定量預測，是依據統計數據，建立數據模型，並用數學模型計算出預測目標未來值 ...",
+    "title" :"經濟預測- MBA智库百科",
+    },
+    {
+    "url" :"http://wiki.mbalib.com/wiki/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E9%A2%84%E6%B5%8B",
+    "abstract" :"宏观经济计量模型是以整个国民经济活动作为考察对象，研究宏观经济中主要指标间的相互依存关系。宏观经济预测是指依据经济学相关理论，应用计量经济联立方程 ...",
+    "title" :"宏观经济预测- MBA智库百科",
+    },
+    {
+    "url" :"http://wiki.mbalib.com/wiki/%E7%BB%8F%E6%B5%8E%E9%A2%84%E6%B5%8B",
+    "abstract" :"经济预测（Economic forecast）经济预测是预测的一个分支，是指以准确的调查统计 ... 定量预测，是依据统计数据，建立数据模型，并用数学模型计算出预测目标未来值 ...",
+    "title" :"经济预测- MBA智库百科",
+    },
+    {
+    "url" :"http://zhidao.baidu.com/question/519901438.html",
+    "abstract" :"个人浅薄认识： 1、经济预测是在建立了基本的经济变量关系后进行的，例如现有OLS然后再预测解释变量变化后被解释变量的变化。因此需要先建立模型。",
+    "title" :"经济预测的常用模型有哪些，都有哪些软件？_百度知道",
+    },
+    {
+    "url" :"https://www.cb.cityu.edu.hk/EF/doc/CityU_UN_HK_Model.pdf",
+    "abstract" :"城大‐聯合國聯結計劃香港經濟預測模型（以下簡稱城大‐聯合國聯結模型），是聯合國計量. 經濟預測模型聯結計劃（United Nations Project LINK）的79 個成員模型之 ...",
+    "title" :"[PDF] 城大-聯合國聯結計劃香港經濟預測模型（城大-聯合國聯結模型）",
+    },
+    {
+    "url" :"https://book.douban.com/reading/17524252/",
+    "abstract" :"当然，金砖四国之间也存在着极大的差异。我们预测，巴西、中国和印度的劳动力持续增加，将会对经济增长产生重要作用；俄罗斯的劳动力逐渐下降，将会对经济增长 ...",
+    "title" :"《高盛眼中的世界》试读：经济预测模型最主要的影响因素 - 豆瓣读书",
+    },
+    {
+    "url" :"https://book.douban.com/subject/1088245/",
+    "abstract" :"计量经济模型与经济预测（4版），ISBN：9787111074588，作者：（美）罗伯特·S.平狄克（Robert S. Pindyck），（美）丹尼尔·L.鲁宾费尔德（Daniel L. Rubinfeld）著；钱小军 ...",
+    "title" :"计量经济模型与经济预测(豆瓣) - 豆瓣读书",
+    },
+    {
+    "url" :"http://www.econ.ntu.edu.tw/ter/new/data/new/TER391/TER391-1.pdf",
+    "abstract" :"樣本內、 外表現, 皆優於主計處原有的一季前預測,亦明顯優於未納. 入主計處預測的擴散指標模型。 關鍵詞: 經濟成長率, 條件動差檢定, 擴散指標, 預測誤差, 預測更新.",
+    "title" :"[PDF] 經濟成長率預測之評估與更新 - 台大經濟系 - National Taiwan University",
+    "metadata" :"由 陳宜廷 著作 - 被引用 7 次 - 相關文章",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=wtMkDwAAQBAJ&pg=PA26&lpg=PA26&dq=%E7%BB%8F%E6%B5%8E%E9%A2%84%E6%B5%8B+%E6%A8%A1%E5%9E%8B&source=bl&ots=aXnY4MYR25&sig=j1YXFs57CbyjNDh5RdJBnf6Gf9s&hl=zh-TW&sa=X&ved=0ahUKEwjqy9v6wZ_UAhVDLpQKHeBCBAYQ6AEIaDAI",
+    "abstract" :"经济预测不应该成为计量经济学模型的主要应用领域。诚然,计量经济学模型作为一类经济数学模型,是从用于经济预测,特别是短期预测而发展起来的。在20世纪50 ...",
+    "title" :"计量经济学模型方法论:  - 第 26 頁 - Google 圖書結果",
+    "metadata" :"李子奈等著 - 2011 - Business & Economics",
+    },
+    {
+    "url" :"http://www.ftchinese.com/story/001044742?full=y",
+    "abstract" :"2012年5月28日 - 如何使用计量经济学模型作预测？ 美国普林斯顿大学经济学荣誉教授邹至庄：50年代我开发了一个统计检验，并发表在1960年的《计量经济学》上，这 ...",
+    "title" :"如何使用计量经济学模型作预测？ - FT中文网",
     },
     ],
 ######
@@ -411,8 +530,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=RD7ZCQAAQBAJ&pg=PT63&lpg=PT63&dq=%E4%BB%80%E4%B9%88%E6%98%AF%E8%8C%83%E5%BC%8F%E9%9D%A9%E5%91%BD&source=bl&ots=GtZ_b4keYn&sig=zI5zvZOSD3W9rst5rL2eUJ7U0nE&hl=zh-TW&sa=X&ved=0ahUKEwjjg8SZ4J3UAhVFjpQKHSSzDBYQ6AEIXTAJ",
     "abstract" :"削,其内涵被扩展后,对马克思的现代社会发展理论的意义是什么。这是一个必须考察,而且 ... 他们认为,传统的发展范式已经不适应社会发展现实,需要转换为新的发展范式。三位新发展理论的研究 ... 范式革命”是一种形而上学的革命。一种新范式的出现 ...",
-    "title" :"马克思现代社会发展理论的价值维度:  - Google 圖書結果",
     "metadata" :"刘新刚 - 2015",
+    "title" :"马克思现代社会发展理论的价值维度:  - Google 圖書結果",
     },
     ],
 ######
@@ -437,8 +556,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=TXbhDgAAQBAJ&pg=PA31&lpg=PA31&dq=%E6%9C%AA%E6%9D%A5%E7%BB%8F%E6%B5%8E+%E7%9A%84%E5%8F%91%E5%B1%95%E6%A8%A1%E5%9E%8B&source=bl&ots=6ZGydERq9P&sig=Tz6NbkQPZJ8MiNi8rl-j0Qq6DUg&hl=zh-TW&sa=X&ved=0ahUKEwiyiouLs4vUAhUCnZQKHclRDDoQ6AEIODAC",
     "abstract" :"它是制定国民经济和企业生产经营发展的十年计划、远景计划,规定经济长期发展 ... 全面的调查统计资料和经济信息,运用统计方法和数学模型,对经济现象未来发展的 ...",
-    "title" :"战略定量研究基础——预测与决策:  - 第 31 頁 - Google 圖書結果",
     "metadata" :"胡光宇  编著.  - 2010 - Psychology",
+    "title" :"战略定量研究基础——预测与决策:  - 第 31 頁 - Google 圖書結果",
     },
     {
     "url" :"http://finance.sina.com.cn/roll/2017-01-19/doc-ifxzutkf1947589.shtml",
@@ -448,8 +567,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=YQbODgAAQBAJ&pg=PT153&lpg=PT153&dq=%E6%9C%AA%E6%9D%A5%E7%BB%8F%E6%B5%8E+%E7%9A%84%E5%8F%91%E5%B1%95%E6%A8%A1%E5%9E%8B&source=bl&ots=sDNI1IO90W&sig=aIYXrlTkypX8uneM3CatxmXPhg8&hl=zh-TW&sa=X&ved=0ahUKEwiyiouLs4vUAhUCnZQKHclRDDoQ6AEIYTAJ",
     "abstract" :"CGE模型的优点在于它能根据不同的政策和对策来分析未来的经济活动。CGE模型在世界各地应用广泛,众多构模小组使用CGE模型对经济活动和政策实施进行模拟, ...",
-    "title" :"清洁发展机制在中国：采取积极和可持续的方式:  - Google 圖書結果",
     "metadata" :"/刘德顺等主编.",
+    "title" :"清洁发展机制在中国：采取积极和可持续的方式:  - Google 圖書結果",
     },
     ],
 ######
@@ -464,8 +583,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=af7VCwAAQBAJ&pg=PT20&lpg=PT20&dq=%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80+%E7%AA%81%E7%A0%B4%E8%B7%AF%E7%BA%BF&source=bl&ots=PNfbYqIR98&sig=5vbpRdFdKQq-LcGmetTij2biSo8&hl=zh-TW&sa=X&ved=0ahUKEwjytbibs4vUAhXTq5QKHW6LDC8Q6AEIMTAC",
     "abstract" :"... 以及教育技术等国家重点优先领域的发展和突破,形成一个金字塔形的战略。经济危机之后,英国一直秉持利用科技进步推动经济发展的思路,紧紧围绕促进经济发展 ... 发展战略》出台,提出了涵盖通讯、传感、探测和太空利用等领域的技术路线图。俄罗斯进一步明确了未来科技发展的优先方向,政府采取一系列措施加大了对科技创新的 ...",
-    "title" :"财政科技支出 - Google 圖書結果",
     "metadata" :"雷良海, 吕小军 - 1900 - Business & Economics",
+    "title" :"财政科技支出 - Google 圖書結果",
     },
     {
     "url" :"https://kknews.cc/zh-hk/tech/8yzkjg.html",
@@ -475,16 +594,39 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=G6UvDAAAQBAJ&pg=PA274&lpg=PA274&dq=%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80+%E7%AA%81%E7%A0%B4%E8%B7%AF%E7%BA%BF&source=bl&ots=eNlAFyfI28&sig=uMOX04KG2hs6lss2FI_i5oriCpk&hl=zh-TW&sa=X&ved=0ahUKEwjytbibs4vUAhXTq5QKHW6LDC8Q6AEIWDAJ",
     "abstract" :"這些把意識上傳到電腦的方法,所需要的科技要在很久的未來才有可能實現。不過至少有 ... 不過最近十年,一個新的理論慢慢為人接受,統一了許多不同路線的老化研究。",
-    "title" :"2050科幻大成真: 超能力、心智控制、人造記憶、遺忘藥丸、奈米機器人，即將改變我們的世界",
     "metadata" :"加來道雄 - 2015 - Science",
+    "title" :"2050科幻大成真: 超能力、心智控制、人造記憶、遺忘藥丸、奈米機器人，即將改變我們的世界",
     },
     ],
 }
 keyword_list = [ 
-   "经济预测 与元胞机",
-   "经济预测 模型",
+   "   网络",
+   "   联想",
+   "   本质",
+   "   排列组合",
+   "   意义",
+   "   费米计算",
+   "   周期",
+   "   balance shift",
+   "   批判",
+   "   策略",
+   "   20/80原则",
+   "   外延",
+   "   统一",
+   "   生老病死",
+   "   展示",
+   "   故事",
+   "   极限",
+   "   历史",
+   "   混沌",
+   "   分层模块化",
+   "   随机",
+   "   分解",
+   "   建模",
+   "   局部化",
+   "   哪些人",
 ]
-meta_data = {"status":"mc","Major": 3,"Minor": 1,"Prefix": "Q"}
+meta_data = {"status":"hc","Major": 4,"Minor": 2,"Prefix": "Q"}
 km_0_title = "未来经济"
 km_0_summary = "ummary_tp"
 km_1_tags = []
