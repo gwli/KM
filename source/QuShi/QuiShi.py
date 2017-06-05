@@ -7,16 +7,9 @@ Q_dict = {
 ######
 }
 keyword_list = [ 
-   "为什么马其顿帝国与秦帝国都短命呢",
-   "   可视化",
-   "   本质",
-   "   计算复杂度:常，对，线，平，立，指，阶",
-   "   复利",
-   "   概率",
-   "   周期",
-   "   balance shift",
-   "   证伪",
-   "   歧视",
+   "趋势的 悖论",
+   "模型预测 的悖论",
+   "你能预测未来吗",
    "   优化",
    "   外延",
    "   统一",
@@ -33,7 +26,7 @@ keyword_list = [
    "   局部化",
    "   如何",
 ]
-meta_data = {"status":".","Major": 0,"Minor": 0,"Prefix": "Q"}
+meta_data = {"status":"mc","Major": 0,"Minor": 0,"Prefix": "Q"}
 km_0_title = "title_tp"
 km_0_summary = "ummary_tp"
 km_1_tags = []
