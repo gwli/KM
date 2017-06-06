@@ -279,92 +279,11 @@ Q_dict = {
     "title" :"1个月花光3个亿的共享充电宝如何盈利?-UC头条",
     },
     ],
-######
-#Q_1_2 #: anytime,anywhere,anyway  本质
-######
-"Q_1_2": [" anytime,anywhere,anyway  本质",
-    {
-    "url" :"http://tw.ichacha.net/anytime%20anywhere%20anyway.html",
-    "abstract" :"anytime anywhere anyway中文服務…，點擊查查權威綫上辭典詳細解釋anytime anywhere anyway的中文翻譯，anytime anywhere anyway的發音，音標，用法和 ...",
-    "title" :"anytime anywhere anyway 中文 - 英語翻譯",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=Ph0MDgAAQBAJ&pg=PT109&lpg=PT109&dq=anytime,anywhere,anyway+%E6%9C%AC%E8%B4%A8&source=bl&ots=xrDwo5pmMs&sig=NjGrTHNV5Ig5YJkez4nIDcXvVxY&hl=zh-TW&sa=X&ved=0ahUKEwjmuNesiKfUAhVGGJQKHTlSAWcQ6AEIKjAB",
-    "abstract" :"教育回歸服務本質教育的本質是對學習者提供的壹種服務,未來的教育將逐漸回歸 ... 4A (Anytime、Anywhere、Anybody、Anyway)學習模式的到來在線教育突破了 ...",
-    "title" :"互聯網+教育：移動互聯網時代的教育大變革:  - Google 圖書結果",
-    "metadata" :"王晨，劉男 - 2017 - Business & Economics",
-    },
-    {
-    "url" :"http://dict.site/anytime%20anywhere%20anyway.html",
-    "abstract" :"anytime anywhere anyway中文意思是什麼. anytime anywhere anyway解釋. 服務. anytime: adv. 1. 在任何時候。2. 總是，無例外地，一定。 anywhere: adv. 1. 無論何 ...",
-    "title" :"anytime anywhere anyway的中文意思- anytime anywhere anyway中文 ...",
-    },
-    {
-    "url" :"http://baike.baidu.com/item/5A%E6%94%BF%E5%8A%A1%E6%9C%8D%E5%8A%A1%E6%A8%A1%E5%BC%8F",
-    "abstract" :"5A”是Anyone、Anytime、Anywhere、Anyway、Anything五个英文单词首字母的组合，代表着全体服务对象可以在任何时间、任何 ... 1 定义; 2 背景; 3 本质; 4 代表 ...",
-    "title" :"5A政务服务模式_百度百科",
-    },
-    {
-    "url" :"http://www.sohu.com/a/129603319_386633",
-    "abstract" :"2017年3月21日 - 第七：4A(Anytime、Anywhere、Anybody、Anyway)学习模式的到来 ... 教育本质是服务，酒店本质也是服务，所以自然会有类似之处，也自然会O2O， ...",
-    "title" :"互联网如何改变未来教育模式 - 搜狐",
-    },
-    {
-    "url" :"http://www.jianshu.com/p/c924ff3fa71b",
-    "abstract" :"2015年6月21日 - ... 任何时间（Anytime）、任何地方(Anywhere)、任何可用的方式(Anyway)获得想要的 ... 曾经看到一篇文章，上面说，O2O的本质是连接，我比较同意。",
-    "title" :"关于Uber--O2O产品的一些思考- 简书",
-    },
-    {
-    "url" :"http://cccp.eecs.umich.edu/papers/mwoh-micro10.pdf",
-    "abstract" :"M. Woh et al, ''AnySP: Anytime Anywhere. Anyway Signal Processing,'' Proc. 36th. Ann. Int'l Symp. Computer Architecture,. ACM Press, 2009, pp. 128-139. 3.",
-    "title" :"[PDF] anytime anywhere anyway signal processing - Compilers Creating ...",
-    "metadata" :"由 M Woh 著作 - 被引用 44 次 - 相關文章",
-    },
-    {
-    "url" :"https://kknews.cc/zh-hk/education/j8xnk8y.html",
-    "abstract" :"2016年11月27日 - 7、4A（Anytime、Anywhere、Anybody、Anyway）學習模式的到來。 ... 教育本質是服務，酒店本質也是服務，所以自然會有類似之處，也自然會O2O， ...",
-    "title" :"人人都在喊的在線教育，互聯網教育的玩法和困境到底在哪兒呢？ - 每日 ...",
-    },
-    {
-    "url" :"https://kknews.cc/zh-mo/education/39byqmg.html",
-    "abstract" :"2017年3月20日 - 第七：4A(Anytime、Anywhere、Anybody、Anyway)學習模式的到來 ... 教育本質是服務，酒店本質也是服務，所以自然會有類似之處，也自然會O2O， ...",
-    "title" :"在互聯網如何顛覆未來教育模式？ - 每日頭條",
-    },
-    {
-    "url" :"http://bs.uibe.edu.cn/marketing/news/View_News.aspx?systemName=YXNewsInfo&NewsId=3428",
-    "abstract" :"2014年7月3日 - 金融的本质其实并没有改变。 ... 为银行业带来了三个方面的变化，即渠道上的多元化、交易方式要求做到“anytime、anywhere和anyway”，以及电商、 ...",
-    "title" :"攻坚金融业务华为企业布道全渠道_对外经济贸易大学·营销学系系友联谊会",
-    },
-    ],
 }
 keyword_list = [ 
-   "   秩",
-   "   联想",
-   "   本质",
-   "   排列组合",
-   "   边际效应",
-   "   费米计算",
-   "   迭代",
-   "   balance shift",
-   "   验证",
-   "   策略",
-   "   20/80原则",
-   "   外延",
-   "   统一",
-   "   生老病死",
-   "   展示",
-   "   有趣",
-   "   奇点",
-   "   未来",
-   "   不确定",
-   "   高维",
-   "   随机",
-   "   分块",
-   "   建模",
-   "   很感谢你能能来，不遗憾你离开",
-   "   如何",
+   "充电宝的价格与充电效率",
 ]
-meta_data = {"status":"hc","Major": 1,"Minor": 6,"Prefix": "Q"}
+meta_data = {"status":"mc","Major": 1,"Minor": 6,"Prefix": "Q"}
 km_0_title = "共享充电宝"
 km_0_summary = "ummary_tp"
 km_1_tags = []
