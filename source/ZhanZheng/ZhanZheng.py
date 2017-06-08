@@ -2,6 +2,83 @@
 
 Q_dict = { 
 ######
+#Q_1_11 #:政治 经济 战争
+######
+"Q_1_11": ["政治 经济 战争",
+    {
+    "url" :"http://baike.baidu.com/item/%E6%88%98%E4%BA%89%E7%BB%8F%E6%B5%8E%E5%AD%A6/10587060",
+    "abstract" :"所谓战争经济学，实际上从战争对经济的影响角度来看，一个就是尽量减少战争对经济的影响， ... 除了1914年出版的《战争的政治经济学》之外；以后又有大量的著述。",
+    "title" :"战争经济学_百度百科",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E6%88%98%E4%BA%89/14004",
+    "abstract" :"战争是一种集体、集团、组织、民族、派别、国家、政府互相使用暴力、攻击、杀戮等行为，是敌对双方为了达到一定的政治、经济、领土的完整性等目的而进行的武装战斗 ...",
+    "title" :"战争（矛盾斗争表现的最高形式与暴力手段）_百度百科",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/23032851",
+    "abstract" :"2016年1月4日 - 战争与政治的关系：战争是政治的继续，政治是不流血的战争，战争是流血的政治。战争一刻也离不开政治。战争不等于一般的政治。政治目的达到了 ...",
+    "title" :"战争与政治经济的关系？ - 知乎",
+    },
+    {
+    "url" :"http://www.books.com.tw/products/0010726170",
+    "abstract" :"2016年8月31日 - 書名：下一個100年：21世紀全球政治、經濟、資源、太空戰爭策略大布局，原文名稱：The Next 100 Years: a forecast for the 21st century，語言：繁體 ...",
+    "title" :"博客來-下一個100年：21世紀全球政治、經濟、資源、太空戰爭策略大布局",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=sQHJCQAAQBAJ&pg=PT236&lpg=PT236&dq=%E6%94%BF%E6%B2%BB+%E7%BB%8F%E6%B5%8E+%E6%88%98%E4%BA%89&source=bl&ots=Eu2IHf7eLK&sig=vZNKQTa_107klqERtP2tskz87EA&hl=zh-TW&sa=X&ved=0ahUKEwjE0-iDiKfUAhWIq5QKHUwqD1gQ6AEIWjAI",
+    "abstract" :"从宗教战争到(民族)国家间战争战争是人类的一项重大事务,古代如此,即便今天也是 ... (东方中华帝国除外)的战争,有着诸多政治、经济、民族、领土、权力等方面的原因, ...",
+    "title" :"政治宪法学纲要:  - Google 圖書結果",
+    "metadata" :"高全喜 - 2015 - Constitutional law",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=QdVvAgAAQBAJ&pg=PT76&lpg=PT76&dq=%E6%94%BF%E6%B2%BB+%E7%BB%8F%E6%B5%8E+%E6%88%98%E4%BA%89&source=bl&ots=hkj8ujLOFW&sig=7w9cLi7rPVwiv3TdJQTF2UfEbZM&hl=zh-TW&sa=X&ved=0ahUKEwjE0-iDiKfUAhWIq5QKHUwqD1gQ6AEIXzAJ",
+    "abstract" :"战争的胜负,主要地决定于作战双方的军事、政治、经济、自然诸条件,这是没有问题的。然而不仅仅如此,还决定于作战双方主观指导的能力。军事家不能超过物质条件 ...",
+    "title" :"中国革命战争的战略问题:  - Google 圖書結果",
+    "metadata" :"毛泽东 - 2013",
+    },
+    ],
+######
+#Q_1_10 #:斯巴达 与雅典  都是希腊的城帮，有点类似于中国春秋时间
+######
+"Q_1_10": ["斯巴达 与雅典  都是希腊的城帮，有点类似于中国春秋时间",
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E6%96%AF%E5%B7%B4%E8%BE%BE",
+    "abstract" :"斯巴达（希腊语：Σπάρτη），又称拉刻代蒙（古希腊语：Λακεδαίμων, Lakedaímōn）是古代希腊城邦之 .... 波斯戰爭後，斯巴達為了與雅典爭奪霸權，因此統率其主導的伯罗奔尼撒联盟與以雅典为首的提洛同盟進行了伯罗奔尼撒战争。这场战争从前431年 ...",
+    "title" :"斯巴达- 维基百科，自由的百科全书",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E4%BC%AF%E7%BD%97%E5%A5%94%E5%B0%BC%E6%92%92%E6%88%98%E4%BA%89",
+    "abstract" :"伯羅奔尼撒戰爭（Peloponnesian War）是以雅典為首的提洛同盟與以斯巴達為首的伯羅奔尼撒聯盟之間的一場戰爭。這場戰爭從前431年一直持續到前404年，期間 ...",
+    "title" :"伯羅奔尼撒戰爭- 維基百科，自由的百科全書 - Wikipedia",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E6%96%AF%E5%B7%B4%E8%BE%BE%E5%92%8C%E9%9B%85%E5%85%B8",
+    "abstract" :"希腊文明希腊罗马文明是西方文明的源头。希腊文明发源于地中海东部·公元前8-6世纪·古希腊面积最多人口最多的国家斯巴达又称“ 平等者公社” ，斯巴达人以尚武 ...",
+    "title" :"斯巴达和雅典_百度百科",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/history/3eob9y.html",
+    "abstract" :"2016年8月6日 - 他們互相貿易，互相移民，也互相進行掠奪和侵略。而在諸城邦中，勢力最大的就是斯巴達和雅典。 斯巴達城位於中拉哥尼亞平原的南部，歐羅塔斯河 ...",
+    "title" :"斯巴達與雅典的戰爭之伯羅奔尼撒戰爭、雅典出師不利- 每日頭條",
+    },
+    {
+    "url" :"http://wenda.tianya.cn/question/15lds9b0ogda3pjagbp56p682dbmtveq2aieb",
+    "abstract" :"2011年1月6日 - 这是一道大学大一的世界古代史的思考题，麻烦大大了！ ... 雅典和斯巴达都是古希腊城邦制小国。 不同点如下： 1雅典境内多山，多水，自然条件较差，以 ...",
+    "title" :"比较雅典和斯巴达的不同特点_历史_天涯问答_天涯社区",
+    },
+    {
+    "url" :"https://hk.answers.yahoo.com/question/index?qid=20060108000014KK04877",
+    "abstract" :"2015年8月18日 - 最佳解答: 政治制度：希臘城邦的兩種政治形式，一是寡頭政治；一是民主政治。（1）斯巴達城邦：以多利安人為主，B.C.8-7世紀間，斯巴達征服鄰近美西尼亞（Messenia） ...",
+    "title" :"我想要請問雅典與斯巴達的比較(急..) | Yahoo奇摩知識+",
+    },
+    {
+    "url" :"http://military.china.com/history4/62/20140909/18770252_all.html",
+    "abstract" :"2014年9月9日 - 伯罗奔尼撒战争（Peloponnesian War）是以雅典为首的提洛同盟与以斯巴达为首的伯罗奔尼撒联盟之间的一场战争。这场战争从前431年一直持续到 ...",
+    "title" :"雅典和斯巴达的伯罗奔尼撒战争：摧毁希腊的战争_军事_中华网",
+    },
+    ],
+######
 #Q_2_2 #:宗教战争的发展史
 ######
 "Q_2_2": ["宗教战争的发展史",
@@ -23,8 +100,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=g6LRDgAAQBAJ&pg=PT127&lpg=PT127&dq=%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2&source=bl&ots=Y0WXUk4i7B&sig=SrSkHPxCegTpua8jvXuUkIN87UA&hl=zh-TW&sa=X&ved=0ahUKEwjlo7SxyanUAhWEppQKHUw_AI4Q6AEINjAD",
     "abstract" :"文化發展:臺灣的文學、美術與音樂因日本教育的推行開始發展,出現優秀本土作家、 ... 基本題馬丁路德在1517年發動宗教改革,它陸續引發了那些歐洲重要的宗教戰爭?",
-    "title" :"106年文化行政類專業科目(一)歷屆試題精闢新解【世界文化史(含概要)】: ",
     "metadata" :"千華數位文化, 陳書翊, [高普考╱地方特考] - 2017 - Education",
+    "title" :"106年文化行政類專業科目(一)歷屆試題精闢新解【世界文化史(含概要)】: ",
     },
     {
     "url" :"https://kknews.cc/zh-hk/history/9a4q9j.html",
@@ -39,8 +116,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=FIbODAAAQBAJ&pg=PA18&lpg=PA18&dq=%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2&source=bl&ots=HtmBr9_NAO&sig=xskrjxiK4XRXFKPL9cirT6bIdpk&hl=zh-TW&sa=X&ved=0ahUKEwjlo7SxyanUAhWEppQKHUw_AI4Q6AEIRDAG",
     "abstract" :"拜占庭帝國阻擋了波斯人與回教徒的進逼,使中古西歐地區得以保全,並發展出其獨特 ... 民族國家的君主集君權及教權於一身,各君主立國教下所產生的宗教戰爭:30年 ...",
-    "title" :"106年觀光資源概要(包括世界史地ˋ觀光資源維護)[華語ˋ外語領隊人員]",
     "metadata" :"千華數位文化, 邱燁, [導遊領隊人員] - 2016 - Education",
+    "title" :"106年觀光資源概要(包括世界史地ˋ觀光資源維護)[華語ˋ外語領隊人員]",
     },
     {
     "url" :"http://rthk9.rthk.hk/elearning/travel/articles/13/f13_01_01_00_02.htm",
@@ -50,14 +127,14 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=KgnbBQAAQBAJ&pg=PA519&lpg=PA519&dq=%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2&source=bl&ots=H7Eo01eIbS&sig=xc2PNL-R_yVSKMazDKXqPnCFw90&hl=zh-TW&sa=X&ved=0ahUKEwjlo7SxyanUAhWEppQKHUw_AI4Q6AEIUDAI",
     "abstract" :"啟蒙運動 519 第八章啟蒙運動歐洲在 1618-1648 年之間的三十年戰爭之後,許多地方成為廢墟,人民厭倦宗教戰爭,開始嚮往宗教寬容。17 世紀是一個科學發展 ...",
-    "title" :"基督宗教思想史（下）:  - 第 519 頁 - Google 圖書結果",
     "metadata" :"林鴻信 - 2013 - Christianity",
+    "title" :"基督宗教思想史（下）:  - 第 519 頁 - Google 圖書結果",
     },
     {
     "url" :"https://books.google.com.hk/books?id=FRtKIQlFpTQC&pg=PA189&lpg=PA189&dq=%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2&source=bl&ots=RZzMyFnXf4&sig=8zG0fipNx8NXGWidGlaliyPoBVY&hl=zh-TW&sa=X&ved=0ahUKEwjlo7SxyanUAhWEppQKHUw_AI4Q6AEIVTAJ",
     "abstract" :"其次,隨著宗教改革運動的開始,歐洲各國的人文主義史學比義大利的人文主義歷史學家更 ... 最後,在宗教改革中產生的民族主義以及地理大發現帶來的資本主義因素的進一步發展,使後期的 ... 從 1337 年到 1453 年,英法之間進行了長期的「百年戰爭」。",
-    "title" :"西洋史學史 - 第 189 頁 - Google 圖書結果",
     "metadata" :"杨豫 - 2000 - Europe",
+    "title" :"西洋史學史 - 第 189 頁 - Google 圖書結果",
     },
     ],
 ######
@@ -82,8 +159,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=el7tCgAAQBAJ&pg=PT49&lpg=PT49&dq=%E6%B0%91%E6%97%8F%E5%BD%A2%E6%88%90%E5%8E%9F%E5%9B%A0&source=bl&ots=269GcR7p8y&sig=egkfDKSFduFgr7e4FKKPZNyqmbo&hl=zh-TW&sa=X&ved=0ahUKEwiBz9i1yanUAhWBPJQKHRjmAX8Q6AEIRzAF",
     "abstract" :"如果再不留心提倡民族主义,结合四万万人成一个坚固的民族,中国便有亡国灭种之 ... [5]分析民族形成的原因时,孙 中山提出:“造成这种民族的原因,概括的说是自然力, ...",
-    "title" :"《三民主义》导读 - Google 圖書結果",
     "metadata" :"刘仁坤 - 2012 - History",
+    "title" :"《三民主义》导读 - Google 圖書結果",
     },
     {
     "url" :"http://xing.glyx.cn/traffic/1215.shtml",
@@ -93,20 +170,20 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=DpUkCwAAQBAJ&pg=PA77&lpg=PA77&dq=%E6%B0%91%E6%97%8F%E5%BD%A2%E6%88%90%E5%8E%9F%E5%9B%A0&source=bl&ots=Z2uvglKSOF&sig=OEP3ao9MIhVlirmslYbFPOxtvuM&hl=zh-TW&sa=X&ved=0ahUKEwiBz9i1yanUAhWBPJQKHRjmAX8Q6AEIUTAH",
     "abstract" :"經過長期的分化、融合和發展變化,最終形成今天漢族和 55 個少數民族並存的局面。 ... 由於歷史的、現實的和民族自身形成發展中的原因,各種特徵具體 二、民俗 1 ...",
-    "title" :"導遊基礎知識 - 第 77 頁 - Google 圖書結果",
     "metadata" :"李興榮, 吳勇, 馬建剛 - 2015",
+    "title" :"導遊基礎知識 - 第 77 頁 - Google 圖書結果",
     },
     {
     "url" :"https://books.google.com.hk/books?id=FtVTDQAAQBAJ&pg=PT276&lpg=PT276&dq=%E6%B0%91%E6%97%8F%E5%BD%A2%E6%88%90%E5%8E%9F%E5%9B%A0&source=bl&ots=ipQIdAlVzl&sig=RugpmK6qQ3I_-0X9FflsJHSTwds&hl=zh-TW&sa=X&ved=0ahUKEwiBz9i1yanUAhWBPJQKHRjmAX8Q6AEIWDAI",
     "abstract" :"金冲及谈到中华民族形成的原因时认为,水资源是中华民族形成的客观条件。马克思把东方文明概括为以“农耕文明”为特征的“亚细亚生产方式”。美国学者卡尔∙魏特夫 ...",
-    "title" :"第十八次全国财政理论讨论会文选 - Google 圖書結果",
     "metadata" :"中国财政学会编, 胡博 - 2011 - Business & Economics",
+    "title" :"第十八次全国财政理论讨论会文选 - Google 圖書結果",
     },
     {
     "url" :"https://books.google.com.hk/books?id=vR5smxTLY84C&pg=PR6&lpg=PR6&dq=%E6%B0%91%E6%97%8F%E5%BD%A2%E6%88%90%E5%8E%9F%E5%9B%A0&source=bl&ots=qXEVqB1NlT&sig=uq_ATn6FStWM69AObm0JZSXKS4I&hl=zh-TW&sa=X&ved=0ahUKEwiBz9i1yanUAhWBPJQKHRjmAX8Q6AEIXTAJ",
     "abstract" :"少数民族聚居地区现代化追赶的有利条件与不利因素是什么?少数民族聚居地区传统现代化追赶战略的基本特征、形成原因及其影响后果是什么?解决少数民族聚居 ...",
-    "title" :"民族与发展: 新的现代化追赶战略 - 第 vi 頁 - Google 圖書結果",
     "metadata" :"温军 - 2004 - China",
+    "title" :"民族与发展: 新的现代化追赶战略 - 第 vi 頁 - Google 圖書結果",
     },
     ],
 ######
@@ -171,20 +248,20 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=kZCn3rKf21wC&pg=PA70&lpg=PA70&dq=%E6%88%98%E4%BA%89%E8%A7%82&source=bl&ots=ePzFSnOY4W&sig=OMD8lRQRSw-zfMNcNuYu73p3A9k&hl=zh-TW&sa=X&ved=0ahUKEwjw8qjCyanUAhXCKpQKHUlSDe4Q6AEIOjAE",
     "abstract" :"术发展日新月异,但它对我军打赢高技术条件下的局部战争,仍具有普遍的指导意义。 ... 主要包括无产阶级的战争观和方法论、人民军队建设理论、人民战争思想、人民 ...",
-    "title" :"军事理论教程 - 第 70 頁 - Google 圖書結果",
     "metadata" :"2002 - China",
+    "title" :"军事理论教程 - 第 70 頁 - Google 圖書結果",
     },
     {
     "url" :"https://books.google.com.hk/books?id=f6NsAgAAQBAJ&pg=PT74&lpg=PT74&dq=%E6%88%98%E4%BA%89%E8%A7%82&source=bl&ots=gw5lcOZtqo&sig=bBMUA3c4n2OSRK5NyO67u1mQCYM&hl=zh-TW&sa=X&ved=0ahUKEwjw8qjCyanUAhXCKpQKHUlSDe4Q6AEIPjAF",
     "abstract" :"十分明显,这一战争观的基础在于政治上的清明和经济上的稳定,这两个条件自东汉中期以后则逐渐被破坏殆尽。政治上因外戚与宦官轮流专政和惨烈的“党锢”之祸而 ...",
-    "title" :"中国古代军事思想史:  - Google 圖書結果",
     "metadata" :"2013",
+    "title" :"中国古代军事思想史:  - Google 圖書結果",
     },
     {
     "url" :"http://www.hprc.org.cn/pdf/JLSY199301009.pdf",
     "abstract" :"在现实政治层面上, 儒家战争观分化为孔子所代表的, 以”礼. 制”. 为核心丫以及孟子为代表的以“ 民本”. 为核心两条不伺的支脉。 ,. 儒家战争思想在传统文. 化中占有无可 ...",
-    "title" :"[PDF] 儒家战争观及其历史命运 - 中华人民共和国国史网",
     "metadata" :"由 倪乐雄 著作 - 被引用 9 次 - 相關文章",
+    "title" :"[PDF] 儒家战争观及其历史命运 - 中华人民共和国国史网",
     },
     {
     "url" :"http://www.wujhss.whu.edu.cn/e/public/DownFile/?id=1739&classid=13",
@@ -274,8 +351,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=jkdUDQAAQBAJ&pg=PT147&lpg=PT147&dq=%E6%B0%91%E6%97%8F+%E6%88%98%E4%BA%89&source=bl&ots=up0WHeSMu1&sig=1GR8h4E0AC-0AmQzxI-IIw5PIW8&hl=zh-TW&sa=X&ved=0ahUKEwjAtrS5yanUAhWMJZQKHbl7AO0Q6AEIUjAH",
     "abstract" :"隋朝时,包头一带发生多次汉族与突厥的民族战争,严重削弱了双方实力。直至唐朝初年,依然国力不足。尽管如此,唐与突厥依然发生三次战争,但这一时代的主流是和平 ...",
-    "title" :"民族经济全面转型发展战略研究 - Google 圖書結果",
     "metadata" :"李建中, 卢关平 - 2012 - Business & Economics",
+    "title" :"民族经济全面转型发展战略研究 - Google 圖書結果",
     },
     {
     "url" :"https://www.zhihu.com/question/21553432",
@@ -295,8 +372,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=UnnxJeFq0hcC&pg=PA311&lpg=PA311&dq=%E6%88%98%E4%BA%89+%E6%9C%89%E5%A4%9A%E5%B0%91%E7%A7%8D&source=bl&ots=4Jd_8fF4tw&sig=3DYiE5E7-ae-PtjtyfdKQITlRjE&hl=zh-TW&sa=X&ved=0ahUKEwiDr8e-yanUAhUBoZQKHfXuABkQ6AEIYTAN",
     "abstract" :"三、国际犯罪的种类在现有的国际刑法规范中究竟有多少种国际犯罪? ... 侵略战争或违反国际条约、协定或保护之战争,或者参与为实现任何上述行为的共同计划或 ...",
-    "title" :"国际法 - 第 311 頁 - Google 圖書結果",
     "metadata" :"2006 - International law",
+    "title" :"国际法 - 第 311 頁 - Google 圖書結果",
     },
     ],
 ######
@@ -365,41 +442,175 @@ Q_dict = {
     },
     ],
 ######
-#Q_2_10 #:决斗
+#Q_3_2 #:战争性质
 ######
-"Q_2_10": ["决斗",
+"Q_3_2": ["战争性质",
     {
-    "url" :"https://zh.wikipedia.org/zh-hk/%E6%B1%BA%E9%AC%A5",
-    "abstract" :"決鬥通常是指兩個人之間使用相似的武器或徒手，在並非比賽的場合下，以武力較量分勝負來贏取對方的降伏，甚至想證明自己的信念正確或無辜等。如果在戰爭中常 ...",
-    "title" :"決鬥- 維基百科，自由的百科全書 - Wikipedia",
+    "url" :"http://web.etiantian.com/staticpages/study/question/question_2737337.htm",
+    "abstract" :"判断战争性质或革命性质的根本出发点和依据是什么？ 谢谢~ 答：判断一场战争对于其中的一方是什么性质要看其为什么而进行战争。如英国为打开中国市场而发动 ...",
+    "title" :"知识讲解判断战争性质或革命性质的根本出发点和依据是什么（北京四中 ...",
     },
     {
-    "url" :"http://baike.baidu.com/item/%E5%86%B3%E6%96%97",
-    "abstract" :"两人争执各不退让时，约定时间、地点，请证人到场，然后用武器决最后胜负，传统欧洲贵族决斗前，一方脱去白手套则代表生死决斗，著名诗人普希金死于决斗，然而这 ...",
-    "title" :"决斗（汉语词汇，指两个人之间的格斗）_百度百科",
+    "url" :"http://baike.baidu.com/item/%E6%9C%89%E9%99%90%E6%88%98%E4%BA%89",
+    "abstract" :"跳至 战争性质上区分 - 局部战争战争性质上区分. ，有正义战争和非正义战争。",
+    "title" :"局部战争_百度百科",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E8%83%A1%E6%96%AF%E6%88%98%E4%BA%89",
+    "abstract" :"跳至 战争性质 - 胡斯战争战争性质. 截至1419年，胡斯党人的民族解放运动已带有反对欧洲反动势力的武装斗争性质。欧洲反动势力曾组织过5次对捷克的十字 ...",
+    "title" :"胡斯战争_百度百科",
+    },
+    {
+    "url" :"http://dict.cn/%E6%88%98%E4%BA%89%E6%80%A7%E8%B4%A8",
+    "abstract" :"海词词典，最权威的学习词典，专业出版战争性质的英文，战争性质翻译，战争性质英语怎么说等详细讲解。海词词典：学习变容易，记忆很深刻。",
+    "title" :"战争性质的英文_战争性质翻译_战争性质英语怎么说_海词词典",
+    },
+    {
+    "url" :"http://www.cctb.net/llyj/llgc/basictheory/201206/t20120601_284276.htm",
+    "abstract" :"2012年6月1日 - 战争性质问题，是马克思主义确定对待战争正确态度的客观依据。马克思主义战争观认为，弄清战争性质是解决对待战争态度问题的必要前提。",
+    "title" :"中央编译局-理论研究-基本理论研究：《马克思主义战争性质学说的当代 ...",
+    },
+    {
+    "url" :"http://www.cctv.com/special/956/2/86064.html",
+    "abstract" :"性质：毫无疑问，这是一场非正义的战争。不管伊拉克是一个什么样的国家，只要它没有对国际社会造成现实的危害，国际社会又凭什么要去伤害它呢？何况这场战争并 ...",
+    "title" :"美伊战争：性质、样式、进程和前途（杂学旁搜1） - 央视网",
+    },
+    {
+    "url" :"http://m.kdnet.net/topic-9441452.html",
+    "abstract" :"日本副首相麻生太郎说，二战时期日本进行的是自卫战争。 自卫战争的对手必然是侵略者，自卫战争对手进行的必然是侵略战争。 二战中日本的战争对手是中国，美国 ...",
+    "title" :"要求麻生回答中、美、苏二战的战争性质 - 凯迪",
+    },
+    {
+    "url" :"http://www.hprc.org.cn/pdf/JSLS200901003.pdf",
+    "abstract" :"摘要: 马克思主义认为任何战争性质都有正义与非正义之分。冷战结束后 ... 政治目的区分战争性质; 三要依据具体情况区分战争性质; 四要依据时代特点多视角判定.",
+    "title" :"[PDF] 马克思主义战争性质学说的当代价值",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=f6NsAgAAQBAJ&pg=PT20&lpg=PT20&dq=%E6%88%98%E4%BA%89%E6%80%A7%E8%B4%A8&source=bl&ots=gw5leL0uon&sig=CMvjy9sF8Jvfbq3m0esnvfFpvv4&hl=zh-TW&sa=X&ved=0ahUKEwjmivakzq7UAhWMn5QKHS55BZcQ6AEIYTAI",
+    "abstract" :"(一)“安国全军”——兵家的抉择兵家是先秦军事思想的主要代表,战争观是其整个学说体系中的重要组成部分。举凡战争观的基本范畴,如战争的起源、战争的性质、战争 ...",
+    "title" :"中国古代军事思想史:  - Google 圖書結果",
+    "metadata" :"2013",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=sQHJCQAAQBAJ&pg=PT242&lpg=PT242&dq=%E6%88%98%E4%BA%89%E6%80%A7%E8%B4%A8&source=bl&ots=Eu2IKb78JI&sig=DOABBIzK80TEnqegXc65K-royP8&hl=zh-TW&sa=X&ved=0ahUKEwjmivakzq7UAhWMn5QKHS55BZcQ6AEIZTAJ",
+    "abstract" :"后格劳秀斯时代的战争与和平沿着威斯特伐利亚和约的路径,其性质又发生了一次重大的变化,即从民族国家之间的塑造世界格局的战争,转变为人民的战争。人民而 ...",
+    "title" :"政治宪法学纲要:  - Google 圖書結果",
+    "metadata" :"高全喜 - 2015 - Constitutional law",
     },
     ],
 ######
-#Q_2_11 #:矛盾的终极 或者升级
+#Q_3_1 #:战争动因
 ######
-"Q_2_11": ["矛盾的终极 或者升级",
+"Q_3_1": ["战争动因",
     {
-    "url" :"https://books.google.com.hk/books?id=MohTDQAAQBAJ&pg=PT197&lpg=PT197&dq=%E7%9F%9B%E7%9B%BE%E7%9A%84%E7%BB%88%E6%9E%81+%E6%88%96%E8%80%85%E5%8D%87%E7%BA%A7&source=bl&ots=8-JJg2U7WN&sig=LL_O5pkdAiLJ-iffu_kAOsnHp3M&hl=zh-TW&sa=X&ved=0ahUKEwjI5tLpyanUAhUDjpQKHXjLC8gQ6AEISzAH",
-    "abstract" :"追求帕累托最优是任何一种经济行为或政府活动的终极目标,财政社会保障管理也不 ... 观决定了财政分配同样要首先保证经济增长,在此基础上再平衡各种社会矛盾。 ... 属于资源依赖型,粗放发展、重复建设、低水平重复,已经严重制约产业结构升级。",
-    "title" :"财政风险与控制 - Google 圖書結果",
-    "metadata" :"牛向东, 于一贫, 刘朝 - 2010 - Business & Economics",
+    "url" :"https://books.google.com.hk/books?id=EwAiDAAAQBAJ&pg=PA77&lpg=PA77&dq=%E6%88%98%E4%BA%89%E5%8A%A8%E5%9B%A0&source=bl&ots=BkDiRto6_i&sig=Ud1QdtK6eU8hyzBskn4py4L85fI&hl=zh-TW&sa=X&ved=0ahUKEwjP9_ibzq7UAhUBL5QKHZCtA2oQ6AEIJDAA",
+    "abstract" :"一、非凡的發展軌跡(一)豐富的內涵所謂資訊化戰爭,是指交戰雙方或多方(至少有一方) ... 戰爭形態是戰爭動因、性質、規模等整體的表現形式,是由戰爭形勢、軍事力量 ...",
+    "title" :"21世紀戰爭新趨勢恐怖攻擊: 不對稱的戰爭 - 第 77 頁 - Google 圖書結果",
     },
     {
-    "url" :"https://books.google.com.hk/books?id=cG4_zQPYaAwC&pg=PA328&lpg=PA328&dq=%E7%9F%9B%E7%9B%BE%E7%9A%84%E7%BB%88%E6%9E%81+%E6%88%96%E8%80%85%E5%8D%87%E7%BA%A7&source=bl&ots=1h1KIMMwQ6&sig=hygncJJwpQLMUB_igXDxGdBBsvY&hl=zh-TW&sa=X&ved=0ahUKEwjI5tLpyanUAhUDjpQKHXjLC8gQ6AEIUjAI",
-    "abstract" :"如何减少大规模影响业务的设备升级和网络扩容,在网络建设初期就消除安全隐患已成为建设新网络必须面对的问题。 ... 所有这些矛盾,都要求或者对现 ... 基于这样的目标,新网络的网络建设指导思想是:采用主流成熟技术,综合考虑初期和终极发展容量 ...",
-    "title" :"光传输技术 - 第 328 頁 - Google 圖書結果",
-    "metadata" :"朗讯科技(中国)有限公司 - 2003",
+    "url" :"http://www.wiki101.com.tw/archives/42461",
+    "abstract" :"第一次鴉片戰爭起因貿易順差英國完成工業革命後，需要一個廣大的市場作為貨品出口地，而中國剛好符合此條件，能成為英國廣大商品的傾銷地。由於中國出產的 ...",
+    "title" :"第一次鴉片戰爭爆發原因英國發起侵略戰爭動因| Wiki101.com.tw",
     },
     {
-    "url" :"https://books.google.com.hk/books?id=5FIsAwAAQBAJ&pg=PA5&lpg=PA5&dq=%E7%9F%9B%E7%9B%BE%E7%9A%84%E7%BB%88%E6%9E%81+%E6%88%96%E8%80%85%E5%8D%87%E7%BA%A7&source=bl&ots=UTHUQExB9r&sig=ACRYQnE8ha9_KWqxGVpWozONmnc&hl=zh-TW&sa=X&ved=0ahUKEwjI5tLpyanUAhUDjpQKHXjLC8gQ6AEIVzAJ",
-    "abstract" :"元老院一處的逮捕或者放逐——那時的標準程式——並不能消除對國家的威脅。 ... 處死羅馬公民的人,儘管西塞羅仍享有前 63 年元老院終極議決授予給他的豁免權。 ... 當龐貝和愷撒的矛盾日漸升級之時,西塞羅傾向支持龐貝但他努力避免與愷撒為敵。",
-    "title" :"全心投入做大事:  - 第 5 頁 - Google 圖書結果",
-    "metadata" :"對著窗外發呆 - 2012 - Travel",
+    "url" :"http://baike.baidu.com/item/%E6%88%98%E4%BA%89%E8%A7%82",
+    "abstract" :"战争观，是人们对战争问题的总的根本的看法。战争观理论，包括对战争起源、战争根源、战争动因、战争本质、战争性质、战争目的、战争的历史作用、战争与其相关 ...",
+    "title" :"战争观_百度百科",
+    },
+    {
+    "url" :"http://blog.sina.com.cn/s/blog_3d88ddbd0100ay72.html",
+    "abstract" :"2008年10月29日 - (一)战争的动因及其根源 对战争本源的认识，是军事哲学的一个重要问题。战争是政治的继续，政治是经济的集中表现，因而战争归根结底是源于利益 ...",
+    "title" :"第十三章 战争的动因及和平存在的方式_存乎于心_新浪博客",
+    },
+    {
+    "url" :"http://bbs.tiexue.net/post2_6651610_1.html",
+    "abstract" :"马克思主义毛泽东思想战争观认为，战争是社会现象，产生战争的根源，是人类社会生产资料私有制的产生，由此形成阶级、国家，和对抗性的政治 ...",
+    "title" :"战争的动因是什么？ – 铁血网",
+    "metadata" :"2013年4月7日 - 2 篇文章 - 1 位作者",
+    },
+    {
+    "url" :"https://www.douban.com/note/544598606/",
+    "abstract" :"八十年战争动因. 長風寓公 2016-03-12 08:39:04. Spanish attitudes to the conflict were more complex than those of the Dutch, partly because what the Spanish ...",
+    "title" :"八十年战争动因 - 豆瓣",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E4%B8%9C%E6%B1%89%E4%B8%8E%E7%BE%8C%E7%9A%84%E6%88%98%E4%BA%89",
+    "abstract" :"唯一倖免戰亂的西北地區是涼州西部，尤其是敦煌、酒泉和張掖等郡在戰爭時相對穩定，此地 .... 移至^ 王勖，東漢羌漢戰爭動因新探，中國邊疆史地研究，2008年2期。",
+    "title" :"東漢與羌的戰爭- 維基百科，自由的百科全書 - Wikipedia",
+    },
+    {
+    "url" :"http://www.qulishi.com/news/201304/1253.html",
+    "abstract" :"2013年4月26日 - 第一次鸦片战争起因贸易顺差英国完成工业革命后，需要一个广大的市场作为货品出口地，而中国刚好符合此条件，能成为英国广大商品的倾销地。",
+    "title" :"第一次鸦片战争爆发原因英国发起侵略战争动因 - 趣历史网",
+    },
+    {
+    "url" :"http://blog.ifeng.com/article/25556847.html",
+    "abstract" :"2013年4月9日 - 朝鲜向东发射导弹是最大战争动因_宋忠平_凤凰博报,凤凰博客.",
+    "title" :"朝鲜向东发射导弹是最大战争动因--宋忠平--凤凰网博客",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=7KGshZdWrQcC&pg=PA175&lpg=PA175&dq=%E6%88%98%E4%BA%89%E5%8A%A8%E5%9B%A0&source=bl&ots=3WsFxomVzv&sig=CGuu0ZL6AU-MFIOgjRiBUdwdBq4&hl=zh-TW&sa=X&ved=0ahUKEwjP9_ibzq7UAhUBL5QKHZCtA2oQ6AEIWjAJ",
+    "abstract" :"部战争研究成果的集中体现,论及范围十分广泛,主要包括:关于高技术局部战争的概念 ... 国际战略格局的多极化趋势是引发高技术局部战争的重要动因,国际经济的日益 ...",
+    "title" :"20世纪中国学术大典: 军事科学 - 第 175 頁 - Google 圖書結果",
+    "metadata" :"2002 - Learning and scholarship",
+    },
+    ],
+######
+#Q_3_0 #:三大 宗教战争
+######
+"Q_3_0": ["三大 宗教战争",
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E6%B3%95%E5%9B%BD%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89",
+    "abstract" :"法國宗教戰爭（法語：Guerres de religion），又名胡格諾戰爭，是發生在16世紀 ... 開始於1562年3月1日吉斯公爵弗朗索瓦·德·洛林對胡格諾派教徒在瓦西鎮的大屠殺。",
+    "title" :"法國宗教戰爭- 維基百科，自由的百科全書 - Wikipedia",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89",
+    "abstract" :"2014年3月15日） 維基百科所有的 ... 宗教戰爭是戰爭中的一個類別，由宗教作出發點的原因或目的所引發的戰爭。其狹義上是指以 ... 宗教改革後，在歐洲曾引發數百年的革命和戰爭，直至第二次世界大戰結束後，歐洲的戰爭才結束。 按照發生戰爭的 ...",
+    "title" :"宗教戰爭- 維基百科，自由的百科全書 - Wikipedia",
+    },
+    {
+    "url" :"http://www.baike.com/wiki/%E4%B8%96%E7%95%8C%E4%B8%89%E5%A4%A7%E5%AE%97%E6%95%99",
+    "abstract" :"世界三大宗教-佛教与伊斯兰教、基督教并称为世界三大宗教。基督教 ... 1096年——1291年，天主教以维护基督教为名，展开了8次宗教战争（十字军东征）。 16世纪 ...",
+    "title" :"世界三大宗教_互动百科",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E4%B8%96%E7%95%8C%E4%B8%89%E5%A4%A7%E5%AE%97%E6%95%99",
+    "abstract" :"基督教、伊斯兰教、佛教并称为世界三大宗教。此三种宗教之所以能 ... 1096年～1291年，天主教以维护基督教为名，展开了8次宗教战争（十字军东征）。 16世纪以后， ...",
+    "title" :"世界三大宗教_百度百科",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89",
+    "abstract" :"宗教战争是指宗教原因引发的战争，常见于宗教社会，既发于不同宗教之间， ... 后来丹麦、瑞典、法国等也都因为各自的利益而加入了战团，最后竟演变成全欧洲的大战争 .... 死屋中 ；亦曾因佛教僧侣不与外道一起和合说戒，而屠杀了都城内的佛教僧侣。",
+    "title" :"宗教战争_百度百科",
+    },
+    {
+    "url" :"https://www.gotquestions.org/T-Chinese/T-Chinese-religion-war.html",
+    "abstract" :"法國的宗教戰爭——16世紀期間，在法國，天主教和新教胡格諾派教徒之間一連串的 ... 你們求也得不著，是因為你們妄求，要浪費在你們的宴樂中”(雅各書4:1-3)。",
+    "title" :"大多數戰爭是由宗教引起的嗎？ - Got Questions",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=SyuVDAAAQBAJ&pg=PA377&lpg=PA377&dq=%E4%B8%89%E5%A4%A7+%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89&source=bl&ots=5bPn7TZLuy&sig=Q2irNwG_Ok0Wjoqhvv67rJmBggg&hl=zh-TW&sa=X&ved=0ahUKEwii8qCWzq7UAhUQv5QKHfuTAO4Q6AEISTAG",
+    "abstract" :"网文《为何三大宗教统治不了中国》似是而非地指出:“基督教不仅不能统治中国还遭受 ... 五十章基督教可以统治中国 产党目前在中国强拆教堂,就是这种宗教战争的最新 ...",
+    "title" :"The Christian China _____ - 第 377 頁 - Google 圖書結果",
+    "metadata" :"Xuanjun Xie",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=2NBNoPjYHKoC&pg=PA195&lpg=PA195&dq=%E4%B8%89%E5%A4%A7+%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89&source=bl&ots=naMh8VQWIp&sig=Aouke97pzZcTvmKhTjn2bjNvbOE&hl=zh-TW&sa=X&ved=0ahUKEwii8qCWzq7UAhUQv5QKHfuTAO4Q6AEITjAH",
+    "abstract" :"(亞洲概論)提到「氣候與宗教」時說,世界三大宗教「佛教、基督教。 ... 而儒家並不是宗教,因此,中國「從來沒有宗教戰爭」,而且,在介紹世界各種宗教時也不提中國的道教(頁 ...",
+    "title" :"宗??育: 理論、現況與前瞻 - 第 195 頁 - Google 圖書結果",
+    "metadata" :"2001 - Religious education",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=_IikBQAAQBAJ&pg=PT19&lpg=PT19&dq=%E4%B8%89%E5%A4%A7+%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89&source=bl&ots=hMDOpOPa23&sig=bxwey13sVKDQmP-3pPGStDEcEWk&hl=zh-TW&sa=X&ved=0ahUKEwii8qCWzq7UAhUQv5QKHfuTAO4Q6AEIUDAI",
+    "abstract" :"过去我参加的许多国际会议,通常只能见到西方三大宗教的代表,即基督教、 ... 世界的宗教、战争、贫穷、儿童、妇女以及疾病等议题,奉献一份力量,以促进世界和平的 ...",
+    "title" :"建立全球伦理──圣严法师宗教和平讲录:  - Google 圖書結果",
+    "metadata" :"圣严法师",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=EFE-BAAAQBAJ&pg=PT29&lpg=PT29&dq=%E4%B8%89%E5%A4%A7+%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89&source=bl&ots=cbDpbJFWoT&sig=T_8bd-fS5PDQnTLVpdRiJupjYTg&hl=zh-TW&sa=X&ved=0ahUKEwii8qCWzq7UAhUQv5QKHfuTAO4Q6AEIUzAJ",
+    "abstract" :"維護基督教為名,展開了 8 次宗教戰爭(十字軍東征)。 ... 現今的基督教基督教主要包括天主教、東正教、新教三大派別,還包括宣稱跟其他教會有著不同歷史淵源和信念 ...",
+    "title" :"全世界的宗教文化:  - Google 圖書結果",
     },
     ],
 ######
@@ -424,8 +635,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=6DbQAgAAQBAJ&pg=PT112&lpg=PT112&dq=%E8%A6%81%E4%B8%8D%E8%A6%81%E7%BB%99%E5%AD%A9%E5%AD%90%E8%AE%B2%E6%88%98%E4%BA%89%E5%8F%B2&source=bl&ots=vluOeIyty7&sig=yTNlJ0atOZRGgohgSIOpNYs3Rsc&hl=zh-TW&sa=X&ved=0ahUKEwiUz5j8yanUAhWBtZQKHQg8C1YQ6AEIQzAE",
     "abstract" :"逼着他们把孩子扔进水池里淹死 o 抛入水池中的孩子从水里冒出来想往岸上爬, ... 硬逼着孩子的父母给孩子注射毒药致死 o 日本历史研究会编的《太平洋战争史》中还 ...",
-    "title" :"第二次世界大战史丛书·血海翻腾:  - Google 圖書結果",
     "metadata" :"李飚 主编 - 2014",
+    "title" :"第二次世界大战史丛书·血海翻腾:  - Google 圖書結果",
     },
     {
     "url" :"https://read01.com/a6jA3A.html",
@@ -484,80 +695,41 @@ Q_dict = {
     },
     ],
 ######
-#Q_1_11 #:政治 经济 战争
+#Q_2_10 #:决斗
 ######
-"Q_1_11": ["政治 经济 战争",
+"Q_2_10": ["决斗",
     {
-    "url" :"http://baike.baidu.com/item/%E6%88%98%E4%BA%89%E7%BB%8F%E6%B5%8E%E5%AD%A6/10587060",
-    "abstract" :"所谓战争经济学，实际上从战争对经济的影响角度来看，一个就是尽量减少战争对经济的影响， ... 除了1914年出版的《战争的政治经济学》之外；以后又有大量的著述。",
-    "title" :"战争经济学_百度百科",
+    "url" :"https://zh.wikipedia.org/zh-hk/%E6%B1%BA%E9%AC%A5",
+    "abstract" :"決鬥通常是指兩個人之間使用相似的武器或徒手，在並非比賽的場合下，以武力較量分勝負來贏取對方的降伏，甚至想證明自己的信念正確或無辜等。如果在戰爭中常 ...",
+    "title" :"決鬥- 維基百科，自由的百科全書 - Wikipedia",
     },
     {
-    "url" :"http://baike.baidu.com/item/%E6%88%98%E4%BA%89/14004",
-    "abstract" :"战争是一种集体、集团、组织、民族、派别、国家、政府互相使用暴力、攻击、杀戮等行为，是敌对双方为了达到一定的政治、经济、领土的完整性等目的而进行的武装战斗 ...",
-    "title" :"战争（矛盾斗争表现的最高形式与暴力手段）_百度百科",
-    },
-    {
-    "url" :"https://www.zhihu.com/question/23032851",
-    "abstract" :"2016年1月4日 - 战争与政治的关系：战争是政治的继续，政治是不流血的战争，战争是流血的政治。战争一刻也离不开政治。战争不等于一般的政治。政治目的达到了 ...",
-    "title" :"战争与政治经济的关系？ - 知乎",
-    },
-    {
-    "url" :"http://www.books.com.tw/products/0010726170",
-    "abstract" :"2016年8月31日 - 書名：下一個100年：21世紀全球政治、經濟、資源、太空戰爭策略大布局，原文名稱：The Next 100 Years: a forecast for the 21st century，語言：繁體 ...",
-    "title" :"博客來-下一個100年：21世紀全球政治、經濟、資源、太空戰爭策略大布局",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=sQHJCQAAQBAJ&pg=PT236&lpg=PT236&dq=%E6%94%BF%E6%B2%BB+%E7%BB%8F%E6%B5%8E+%E6%88%98%E4%BA%89&source=bl&ots=Eu2IHf7eLK&sig=vZNKQTa_107klqERtP2tskz87EA&hl=zh-TW&sa=X&ved=0ahUKEwjE0-iDiKfUAhWIq5QKHUwqD1gQ6AEIWjAI",
-    "abstract" :"从宗教战争到(民族)国家间战争战争是人类的一项重大事务,古代如此,即便今天也是 ... (东方中华帝国除外)的战争,有着诸多政治、经济、民族、领土、权力等方面的原因, ...",
-    "metadata" :"高全喜 - 2015 - Constitutional law",
-    "title" :"政治宪法学纲要:  - Google 圖書結果",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=QdVvAgAAQBAJ&pg=PT76&lpg=PT76&dq=%E6%94%BF%E6%B2%BB+%E7%BB%8F%E6%B5%8E+%E6%88%98%E4%BA%89&source=bl&ots=hkj8ujLOFW&sig=7w9cLi7rPVwiv3TdJQTF2UfEbZM&hl=zh-TW&sa=X&ved=0ahUKEwjE0-iDiKfUAhWIq5QKHUwqD1gQ6AEIXzAJ",
-    "abstract" :"战争的胜负,主要地决定于作战双方的军事、政治、经济、自然诸条件,这是没有问题的。然而不仅仅如此,还决定于作战双方主观指导的能力。军事家不能超过物质条件 ...",
-    "metadata" :"毛泽东 - 2013",
-    "title" :"中国革命战争的战略问题:  - Google 圖書結果",
+    "url" :"http://baike.baidu.com/item/%E5%86%B3%E6%96%97",
+    "abstract" :"两人争执各不退让时，约定时间、地点，请证人到场，然后用武器决最后胜负，传统欧洲贵族决斗前，一方脱去白手套则代表生死决斗，著名诗人普希金死于决斗，然而这 ...",
+    "title" :"决斗（汉语词汇，指两个人之间的格斗）_百度百科",
     },
     ],
 ######
-#Q_1_10 #:斯巴达 与雅典  都是希腊的城帮，有点类似于中国春秋时间
+#Q_2_11 #:矛盾的终极 或者升级
 ######
-"Q_1_10": ["斯巴达 与雅典  都是希腊的城帮，有点类似于中国春秋时间",
+"Q_2_11": ["矛盾的终极 或者升级",
     {
-    "url" :"https://zh.wikipedia.org/zh-hk/%E6%96%AF%E5%B7%B4%E8%BE%BE",
-    "abstract" :"斯巴达（希腊语：Σπάρτη），又称拉刻代蒙（古希腊语：Λακεδαίμων, Lakedaímōn）是古代希腊城邦之 .... 波斯戰爭後，斯巴達為了與雅典爭奪霸權，因此統率其主導的伯罗奔尼撒联盟與以雅典为首的提洛同盟進行了伯罗奔尼撒战争。这场战争从前431年 ...",
-    "title" :"斯巴达- 维基百科，自由的百科全书",
+    "url" :"https://books.google.com.hk/books?id=MohTDQAAQBAJ&pg=PT197&lpg=PT197&dq=%E7%9F%9B%E7%9B%BE%E7%9A%84%E7%BB%88%E6%9E%81+%E6%88%96%E8%80%85%E5%8D%87%E7%BA%A7&source=bl&ots=8-JJg2U7WN&sig=LL_O5pkdAiLJ-iffu_kAOsnHp3M&hl=zh-TW&sa=X&ved=0ahUKEwjI5tLpyanUAhUDjpQKHXjLC8gQ6AEISzAH",
+    "abstract" :"追求帕累托最优是任何一种经济行为或政府活动的终极目标,财政社会保障管理也不 ... 观决定了财政分配同样要首先保证经济增长,在此基础上再平衡各种社会矛盾。 ... 属于资源依赖型,粗放发展、重复建设、低水平重复,已经严重制约产业结构升级。",
+    "metadata" :"牛向东, 于一贫, 刘朝 - 2010 - Business & Economics",
+    "title" :"财政风险与控制 - Google 圖書結果",
     },
     {
-    "url" :"https://zh.wikipedia.org/zh-hk/%E4%BC%AF%E7%BD%97%E5%A5%94%E5%B0%BC%E6%92%92%E6%88%98%E4%BA%89",
-    "abstract" :"伯羅奔尼撒戰爭（Peloponnesian War）是以雅典為首的提洛同盟與以斯巴達為首的伯羅奔尼撒聯盟之間的一場戰爭。這場戰爭從前431年一直持續到前404年，期間 ...",
-    "title" :"伯羅奔尼撒戰爭- 維基百科，自由的百科全書 - Wikipedia",
+    "url" :"https://books.google.com.hk/books?id=cG4_zQPYaAwC&pg=PA328&lpg=PA328&dq=%E7%9F%9B%E7%9B%BE%E7%9A%84%E7%BB%88%E6%9E%81+%E6%88%96%E8%80%85%E5%8D%87%E7%BA%A7&source=bl&ots=1h1KIMMwQ6&sig=hygncJJwpQLMUB_igXDxGdBBsvY&hl=zh-TW&sa=X&ved=0ahUKEwjI5tLpyanUAhUDjpQKHXjLC8gQ6AEIUjAI",
+    "abstract" :"如何减少大规模影响业务的设备升级和网络扩容,在网络建设初期就消除安全隐患已成为建设新网络必须面对的问题。 ... 所有这些矛盾,都要求或者对现 ... 基于这样的目标,新网络的网络建设指导思想是:采用主流成熟技术,综合考虑初期和终极发展容量 ...",
+    "metadata" :"朗讯科技(中国)有限公司 - 2003",
+    "title" :"光传输技术 - 第 328 頁 - Google 圖書結果",
     },
     {
-    "url" :"http://baike.baidu.com/item/%E6%96%AF%E5%B7%B4%E8%BE%BE%E5%92%8C%E9%9B%85%E5%85%B8",
-    "abstract" :"希腊文明希腊罗马文明是西方文明的源头。希腊文明发源于地中海东部·公元前8-6世纪·古希腊面积最多人口最多的国家斯巴达又称“ 平等者公社” ，斯巴达人以尚武 ...",
-    "title" :"斯巴达和雅典_百度百科",
-    },
-    {
-    "url" :"https://kknews.cc/zh-hk/history/3eob9y.html",
-    "abstract" :"2016年8月6日 - 他們互相貿易，互相移民，也互相進行掠奪和侵略。而在諸城邦中，勢力最大的就是斯巴達和雅典。 斯巴達城位於中拉哥尼亞平原的南部，歐羅塔斯河 ...",
-    "title" :"斯巴達與雅典的戰爭之伯羅奔尼撒戰爭、雅典出師不利- 每日頭條",
-    },
-    {
-    "url" :"http://wenda.tianya.cn/question/15lds9b0ogda3pjagbp56p682dbmtveq2aieb",
-    "abstract" :"2011年1月6日 - 这是一道大学大一的世界古代史的思考题，麻烦大大了！ ... 雅典和斯巴达都是古希腊城邦制小国。 不同点如下： 1雅典境内多山，多水，自然条件较差，以 ...",
-    "title" :"比较雅典和斯巴达的不同特点_历史_天涯问答_天涯社区",
-    },
-    {
-    "url" :"https://hk.answers.yahoo.com/question/index?qid=20060108000014KK04877",
-    "abstract" :"2015年8月18日 - 最佳解答: 政治制度：希臘城邦的兩種政治形式，一是寡頭政治；一是民主政治。（1）斯巴達城邦：以多利安人為主，B.C.8-7世紀間，斯巴達征服鄰近美西尼亞（Messenia） ...",
-    "title" :"我想要請問雅典與斯巴達的比較(急..) | Yahoo奇摩知識+",
-    },
-    {
-    "url" :"http://military.china.com/history4/62/20140909/18770252_all.html",
-    "abstract" :"2014年9月9日 - 伯罗奔尼撒战争（Peloponnesian War）是以雅典为首的提洛同盟与以斯巴达为首的伯罗奔尼撒联盟之间的一场战争。这场战争从前431年一直持续到 ...",
-    "title" :"雅典和斯巴达的伯罗奔尼撒战争：摧毁希腊的战争_军事_中华网",
+    "url" :"https://books.google.com.hk/books?id=5FIsAwAAQBAJ&pg=PA5&lpg=PA5&dq=%E7%9F%9B%E7%9B%BE%E7%9A%84%E7%BB%88%E6%9E%81+%E6%88%96%E8%80%85%E5%8D%87%E7%BA%A7&source=bl&ots=UTHUQExB9r&sig=ACRYQnE8ha9_KWqxGVpWozONmnc&hl=zh-TW&sa=X&ved=0ahUKEwjI5tLpyanUAhUDjpQKHXjLC8gQ6AEIVzAJ",
+    "abstract" :"元老院一處的逮捕或者放逐——那時的標準程式——並不能消除對國家的威脅。 ... 處死羅馬公民的人,儘管西塞羅仍享有前 63 年元老院終極議決授予給他的豁免權。 ... 當龐貝和愷撒的矛盾日漸升級之時,西塞羅傾向支持龐貝但他努力避免與愷撒為敵。",
+    "metadata" :"對著窗外發呆 - 2012 - Travel",
+    "title" :"全心投入做大事:  - 第 5 頁 - Google 圖書結果",
     },
     ],
 ######
@@ -642,8 +814,8 @@ Q_dict = {
     {
     "url" :"https://forum.gamer.com.tw/C.php?bsn=60318&snA=248",
     "abstract" :"因為ddmmokjmd大大建議我重貼此處，希望各位巴友能為我解惑人類因該算是鬥爭性非常高的一種生物吧? 在人類的歷史上，不斷出現過各種戰爭， ...",
-    "metadata" :"2006年12月19日 - 20 篇文章 - 16 位作者",
     "title" :"【問題】戰爭的好處? @中華歷史相關遊戲哈啦板- 巴哈姆特",
+    "metadata" :"2006年12月19日 - 20 篇文章 - 16 位作者",
     },
     {
     "url" :"http://www.chinadmd.com/search.do?nkey=%E6%88%98%E4%BA%89%E7%9A%84%E5%A5%BD%E5%A4%84%E5%92%8C%E5%9D%8F%E5%A4%84",
@@ -888,8 +1060,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=OcF8CwAAQBAJ&pg=PA123&lpg=PA123&dq=%E6%88%98%E4%BA%89%E7%9A%84%E8%B5%B7%E6%BA%90&source=bl&ots=OcaGPxjW1q&sig=0EgqdFLFkh416WU-m8h1Jur5WWc&hl=zh-TW&sa=X&ved=0ahUKEwjKqKLBh6fUAhUHbrwKHbILBIsQ6AEIWzAH",
     "abstract" :"... 的扩大化遥反恐战争进入第三阶段袁即所谓的野帝国冶阶段要要反恐与反大规模杀伤性武器扩散尧确保美国本土安全与地区和平混为一谈噎噎人类对战争的起源曾 ...",
-    "metadata" :"王义桅 - 2017 - Military history, Modern",
     "title" :"战魂: 从历史透析未来战争:  - 第 123 頁 - Google 圖書結果",
+    "metadata" :"王义桅 - 2017 - Military history, Modern",
     },
     {
     "url" :"https://book.douban.com/subject/26769553/",
@@ -969,11 +1141,33 @@ Q_dict = {
     ],
 }
 keyword_list = [ 
-   "三大 宗教战争",
-   "战争动因",
-   "战争性质",
+   "   秩",
+   "   可视化",
+   "   4因5路",
+   "   排列组合",
+   "   边际效应",
+   "   度量",
+   "   演化",
+   "   启始",
+   "   证伪",
+   "   歧视",
+   "   优化",
+   "   外延",
+   "   统一",
+   "   健康",
+   "   刻意练飞",
+   "   有用",
+   "   极限",
+   "   历史",
+   "   不确定",
+   "   高维",
+   "   不动点",
+   "   分类",
+   "   建模",
+   "   局部化",
+   "   是什么",
 ]
-meta_data = {"status":"mc","Major": 2,"Minor": 16,"Prefix": "Q"}
+meta_data = {"status":"hc","Major": 3,"Minor": 3,"Prefix": "Q"}
 km_0_title = "战争"
 km_0_summary = "ummary_tp"
 km_1_tags = []
