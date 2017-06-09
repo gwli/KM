@@ -6,37 +6,6 @@ Q_dict = {
 ######
 "Q_1_4": ["马其顿帝国的衰亡",
     {
-    "url" :"https://zh.wikipedia.org/zh-hk/%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD%E7%9A%84%E8%A1%B0%E8%90%BD",
-    "abstract" :"這是《羅馬帝國衰亡史》（1776年）的作者，英國歷史學家愛德華·吉朋所做的定義，但吉 .... 繼位的提奧多西被迫與西哥特人訂立和約，將色雷斯和馬其頓的土地劃分他們 ...",
-    "title" :"羅馬帝國的衰落- 維基百科，自由的百科全書 - Wikipedia",
-    },
-    {
-    "url" :"https://zh.wikipedia.org/zh-hk/%E9%A6%AC%E5%85%B6%E9%A0%93%E7%8E%8B%E5%9C%8B",
-    "abstract" :"跳至 帝國解體 - 亞歷山大部將又互相廝殺，爭奪土地，帝國就立即進入繼業者戰爭中， ... 了塞琉古帝國，安提柯的後代佔據馬其頓和希臘建立了安提柯王朝。",
-    "title" :"馬其頓王國- 維基百科，自由的百科全書 - Wikipedia",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=rYh6CgAAQBAJ&pg=PA30&lpg=PA30&dq=%E9%A9%AC%E5%85%B6%E9%A1%BF%E5%B8%9D%E5%9B%BD%E7%9A%84%E8%A1%B0%E4%BA%A1&source=bl&ots=HOxm0JcCQV&sig=RxlLRAE7S0tNh1tcnP6Wk4nPc48&hl=zh-TW&sa=X&ved=0ahUKEwiHs57Jzq7UAhWDF5QKHUL1By8Q6AEILzAC",
-    "abstract" :"兩名皇室成員阿塔巴努斯(Artabanus)和克連尼斯(Chlienes)逃亡或退避到東羅馬帝國,李奧一世把他們安置在馬其頓行省,賜給豐富的獎賞和土地, 最後的居留地。",
-    "title" :"羅馬帝國衰亡史第五卷: The History of the Decline and Fall of the Roman Empire ...",
-    "metadata" :"愛德華‧吉朋(Edward Gibbon，1737-1794)  - 2006 - Byzantine Empire",
-    },
-    {
-    "url" :"http://s34zaqwsx.pixnet.net/blog/post/13323811-%E5%B1%AC%E6%96%BC%E7%BE%85%E9%A6%AC---%E7%BE%85%E9%A6%AC%E5%B8%9D%E5%9C%8B%E7%9A%84%E8%A1%B0%E4%BA%A1",
-    "abstract" :"2012年1月17日 - 屬於羅馬- 羅馬帝國的衰亡. 羅馬位於台伯河的銀行. ，是多年來的一個小鎮一躍成為世界上最強大的文明之一。在馬其頓國王亞歷山大時代，羅馬的 ...",
-    "title" :"屬於羅馬- 羅馬帝國的衰亡@ 馬其頓:: 痞客邦PIXNET ::",
-    },
-    {
-    "url" :"https://www.student.tw/topic/15147-%E3%80%90%E5%88%86%E4%BA%AB%E3%80%91%E6%AD%B7%E5%8F%B2%E5%A0%B1%E5%91%8A-%E8%BF%B7%E9%9C%A7%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%89%A9%EF%BC%9A%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%E8%88%87%E7%BE%85%E9%A6%AC%E5%B8%9D%E5%9C%8B%E7%9A%84%E3%80%8C%E6%BB%85%E4%BA%A1%E3%80%8D/",
-    "abstract" :"2006年4月6日 - 首先，關於馬其頓的國情，其與許多當時多數希臘城邦不同的是，其非城邦 ..... 支持基督教傳播是使羅馬帝國衰亡的因素之一的論點有如著名的吉朋 ...",
-    "title" :"【分享】[歷史報告] 迷霧中的人物：亞歷山大與羅馬帝國的「滅亡」 - 歷史版 ...",
-    },
-    {
-    "url" :"http://rthk9.rthk.hk/elearning/travel/articles/09/f09_01_01_00_03.htm",
-    "abstract" :"四世紀初羅馬帝國走向分裂，東羅馬以君士坦丁堡為首都。 ... 公元前二世紀，馬其頓帝國趨於微弱，羅馬統治者龐貝（Pompey， 106-48 B。C。）逐漸佔領希臘，進入 ...",
-    "title" :"羅馬帝國的興盛 - http://www.rthk.org.hk/elearning/travel/ 《文化旅遊系列》",
-    },
-    {
     "url" :"https://www.zhihu.com/question/22555683",
     "abstract" :"历史总是喜欢捉弄，罗马帝国衰亡的根本原因，也确然不是因为外力，而是“自 .... 的怒米迪亚骑手，马其顿人的亚历山大方阵，东方的巨无霸塞留古帝国，擅长骑射的帕 ...",
     "title" :"古罗马灭亡的根本原因有哪些？ - 知乎",

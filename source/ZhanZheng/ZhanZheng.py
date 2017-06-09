@@ -565,11 +565,6 @@ Q_dict = {
     "title" :"法國宗教戰爭- 維基百科，自由的百科全書 - Wikipedia",
     },
     {
-    "url" :"https://zh.wikipedia.org/zh-hk/%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89",
-    "abstract" :"2014年3月15日） 維基百科所有的 ... 宗教戰爭是戰爭中的一個類別，由宗教作出發點的原因或目的所引發的戰爭。其狹義上是指以 ... 宗教改革後，在歐洲曾引發數百年的革命和戰爭，直至第二次世界大戰結束後，歐洲的戰爭才結束。 按照發生戰爭的 ...",
-    "title" :"宗教戰爭- 維基百科，自由的百科全書 - Wikipedia",
-    },
-    {
     "url" :"http://www.baike.com/wiki/%E4%B8%96%E7%95%8C%E4%B8%89%E5%A4%A7%E5%AE%97%E6%95%99",
     "abstract" :"世界三大宗教-佛教与伊斯兰教、基督教并称为世界三大宗教。基督教 ... 1096年——1291年，天主教以维护基督教为名，展开了8次宗教战争（十字军东征）。 16世纪 ...",
     "title" :"世界三大宗教_互动百科",
@@ -579,11 +574,7 @@ Q_dict = {
     "abstract" :"基督教、伊斯兰教、佛教并称为世界三大宗教。此三种宗教之所以能 ... 1096年～1291年，天主教以维护基督教为名，展开了8次宗教战争（十字军东征）。 16世纪以后， ...",
     "title" :"世界三大宗教_百度百科",
     },
-    {
-    "url" :"http://baike.baidu.com/item/%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89",
-    "abstract" :"宗教战争是指宗教原因引发的战争，常见于宗教社会，既发于不同宗教之间， ... 后来丹麦、瑞典、法国等也都因为各自的利益而加入了战团，最后竟演变成全欧洲的大战争 .... 死屋中 ；亦曾因佛教僧侣不与外道一起和合说戒，而屠杀了都城内的佛教僧侣。",
-    "title" :"宗教战争_百度百科",
-    },
+    
     {
     "url" :"https://www.gotquestions.org/T-Chinese/T-Chinese-religion-war.html",
     "abstract" :"法國的宗教戰爭——16世紀期間，在法國，天主教和新教胡格諾派教徒之間一連串的 ... 你們求也得不著，是因為你們妄求，要浪費在你們的宴樂中”(雅各書4:1-3)。",
@@ -594,23 +585,6 @@ Q_dict = {
     "abstract" :"网文《为何三大宗教统治不了中国》似是而非地指出:“基督教不仅不能统治中国还遭受 ... 五十章基督教可以统治中国 产党目前在中国强拆教堂,就是这种宗教战争的最新 ...",
     "title" :"The Christian China _____ - 第 377 頁 - Google 圖書結果",
     "metadata" :"Xuanjun Xie",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=2NBNoPjYHKoC&pg=PA195&lpg=PA195&dq=%E4%B8%89%E5%A4%A7+%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89&source=bl&ots=naMh8VQWIp&sig=Aouke97pzZcTvmKhTjn2bjNvbOE&hl=zh-TW&sa=X&ved=0ahUKEwii8qCWzq7UAhUQv5QKHfuTAO4Q6AEITjAH",
-    "abstract" :"(亞洲概論)提到「氣候與宗教」時說,世界三大宗教「佛教、基督教。 ... 而儒家並不是宗教,因此,中國「從來沒有宗教戰爭」,而且,在介紹世界各種宗教時也不提中國的道教(頁 ...",
-    "title" :"宗??育: 理論、現況與前瞻 - 第 195 頁 - Google 圖書結果",
-    "metadata" :"2001 - Religious education",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=_IikBQAAQBAJ&pg=PT19&lpg=PT19&dq=%E4%B8%89%E5%A4%A7+%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89&source=bl&ots=hMDOpOPa23&sig=bxwey13sVKDQmP-3pPGStDEcEWk&hl=zh-TW&sa=X&ved=0ahUKEwii8qCWzq7UAhUQv5QKHfuTAO4Q6AEIUDAI",
-    "abstract" :"过去我参加的许多国际会议,通常只能见到西方三大宗教的代表,即基督教、 ... 世界的宗教、战争、贫穷、儿童、妇女以及疾病等议题,奉献一份力量,以促进世界和平的 ...",
-    "title" :"建立全球伦理──圣严法师宗教和平讲录:  - Google 圖書結果",
-    "metadata" :"圣严法师",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=EFE-BAAAQBAJ&pg=PT29&lpg=PT29&dq=%E4%B8%89%E5%A4%A7+%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89&source=bl&ots=cbDpbJFWoT&sig=T_8bd-fS5PDQnTLVpdRiJupjYTg&hl=zh-TW&sa=X&ved=0ahUKEwii8qCWzq7UAhUQv5QKHfuTAO4Q6AEIUzAJ",
-    "abstract" :"維護基督教為名,展開了 8 次宗教戰爭(十字軍東征)。 ... 現今的基督教基督教主要包括天主教、東正教、新教三大派別,還包括宣稱跟其他教會有著不同歷史淵源和信念 ...",
-    "title" :"全世界的宗教文化:  - Google 圖書結果",
     },
     ],
 ######
@@ -1141,33 +1115,11 @@ Q_dict = {
     ],
 }
 keyword_list = [ 
-   "   秩",
-   "   可视化",
-   "   4因5路",
-   "   排列组合",
-   "   边际效应",
-   "   度量",
-   "   演化",
-   "   启始",
-   "   证伪",
-   "   歧视",
-   "   优化",
-   "   外延",
-   "   统一",
-   "   健康",
-   "   刻意练飞",
-   "   有用",
-   "   极限",
-   "   历史",
-   "   不确定",
-   "   高维",
-   "   不动点",
-   "   分类",
-   "   建模",
-   "   局部化",
-   "   是什么",
+   " 法国 胡格诺战争",
+   " 天主教 8次宗教战争",
+   " 为何三大宗教统治不了中国",
 ]
-meta_data = {"status":"hc","Major": 3,"Minor": 3,"Prefix": "Q"}
+meta_data = {"status":"mc","Major": 3,"Minor": 3,"Prefix": "Q"}
 km_0_title = "战争"
 km_0_summary = "ummary_tp"
 km_1_tags = []
