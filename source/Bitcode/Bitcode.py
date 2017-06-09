@@ -1385,6 +1385,14 @@ Q_dict = {
 keyword_list = [ 
    " 哪些地区 比较适合 比特币挖矿",
    " 比特币挖矿 有哪些种",
+   " 工作量证明 PoW ",
+   " 权益证明 PoS",
+   " 股份授权证明 Dpos",
+   " 使用拜占庭容错 PBFT",
+   " ",
+   " ",
+   " ",
+   " ",
 ]
 meta_data = {"status":"mc","Major": 3,"Minor": 23,"Prefix": "Q"}
 km_0_title = "比特币"
