@@ -2,6 +2,228 @@
 
 Q_dict = { 
 ######
+#Q_4_3 #: 权益证明 PoS
+######
+"Q_4_3": [" 权益证明 PoS",
+    {
+    "url" :"https://www.zhihu.com/question/22369364",
+    "abstract" :"PoS的实现：PoS (Proof of Stake权益证明)挖矿由Sunny King 在2012年8月发布的PPC（点点币）首先实现。相关链接：PPC: 一种P2P（点对点）的权益证明(Proof of ...",
+    "title" :"POS (Proof of Stake 权益证明) 与POW(Proof of Work 工作量证明) 本质 ...",
+    },
+    {
+    "url" :"http://www.wanbizu.com/s/%E6%9D%83%E7%9B%8A%E8%AF%81%E6%98%8Epos%E6%9C%BA%E5%88%B6.html",
+    "abstract" :"加密货币的未来：PoW+PoS ...统的重要革新。在这全新的领域中，工作量证明是否还能继续它的历史使命?权益证明又给我们带来了什么? 工作量证明(PoW)在货币 ...",
+    "title" :"权益证明pos机制相关教程-比特币专题 - 玩币族",
+    },
+    {
+    "url" :"http://menghaipasha.blogspot.com/2016/09/blog-post.html",
+    "abstract" :"2016年9月12日 - 其中一個安全的去中心化的總帳實踐是依賴權益證明(proof of stake, PoS)演算法，它並不需要昂貴的電腦計算能力。這背後的想法很簡單：創造區塊 ...",
+    "title" :"權益證明與工作量證明的比較| 金融、科技、茶、、、積集資糧",
+    },
+    {
+    "url" :"http://www.8btc.com/pos-white-book",
+    "abstract" :"2014年1月6日 - 权益证明（POS）所蕴含的概念是：区块链应该由那些在其中具有经济利益的人进行保障。本文介绍了一种新的方法——通过每一笔交易销毁的币 ...",
+    "title" :"POS白皮书：基于权益证明的交易| 巴比特 - 巴比特论坛",
+    },
+    {
+    "url" :"http://www.8btc.com/what-is-wrong-with-proof-of-stake",
+    "abstract" :"2016年6月19日 - 用计算机管理资产不是什么新鲜事儿，事实上，这是计算机被发明的主要目的。那么问题来了，比特币和区块链有什么不一样的呢？ [caption id=",
+    "title" :"权益证明机制（PoS）到底犯了什么错？_巴比特_服务于区块链创新者",
+    },
+    {
+    "url" :"https://kknews.cc/tech/p8y36gp.html",
+    "abstract" :"2017年4月1日 - 來自義大利卡利亞里大學的一組開發人員近日發表了一篇論文提出一種共識協議，該協議基於權益證明（PoS）算法，獎勵節點一致地擴展子鏈。",
+    "title" :"比特幣子鏈共識的權益證明（PoS）算法- 每日頭條",
+    },
+    {
+    "url" :"http://www.btc38.com/altcoin/ppc/2755.html",
+    "abstract" :"2014年7月21日 - [摘要] 工作量证明在货币系统中发挥了重要的作用。随着货币的演进，它一直扮演着十分重要的角色。直到密码学货币比特币和点点币问世，带来.",
+    "title" :"工作量证明PoW、权益证明机制PoS在货币系统中的意义- 点点币(PPC ...",
+    },
+    {
+    "url" :"https://www.okcoin.cn/t-2506391.html",
+    "abstract" :"2017年4月1日 - 来自意大利卡利亚里大学的一组开发人员近日发表了一篇论文提出一种共识协议，该协议基于权益证明（PoS）算法，奖励节点一致地扩展子链。",
+    "title" :"比特币子链共识的权益证明（PoS）算法-OKCoin比特币交易平台",
+    },
+    {
+    "url" :"https://yunbi.com/documents/archives/bi_19",
+    "abstract" :"当前主流的共识算法有两种：PoW (Proof of Work)工作量证明，PoS (Proof of Stake)权益证明。本文将以以太坊发展历史为例，详细讨论两种共识机制的运行原理。",
+    "title" :"区块链项目的共识之路 - 云币网",
+    },
+    {
+    "url" :"http://virtual-currency-df.blogspot.com/2014/08/powpos.html",
+    "abstract" :"2014年8月29日 - 摘要] 工作量證明在貨幣系統中發揮了重要的作用。隨著貨幣的演進，它一直扮演著十分重要的角色。直到密碼學貨幣“比特幣”和“點點幣”問世，帶來了 ...",
+    "title" :"數位貨幣: 工作量證明PoW、權益證明機制PoS在貨幣系統中的意義",
+    },
+    ],
+######
+#Q_4_0 #: 哪些地区 比较适合 比特币挖矿
+######
+"Q_4_0": [" 哪些地区 比较适合 比特币挖矿",
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E6%AF%94%E7%89%B9%E5%B8%81",
+    "abstract" :"比特币（英语：Bitcoin）是一種用区块链作为支付系統的加密貨幣。由中本聪在2009年基于无国界的 .... 通過挖礦，比特幣系統也向全球經濟注入革命性貨幣。 .... 使用的第一代挖礦軟體Bitcoin,這一代軟體從2009年到2010年中旬都比較流行。 ..... 和古巴等地区遭受国际支付系统的封锁，比特币可以帮助这一地区的互联网用户购买服务。",
+    "title" :"比特币- 维基百科，自由的百科全书",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/21794742",
+    "abstract" :"1、BTC123, 比特币界的hao123导航网站。上面不仅有各种比特币的网站资源，分门别类，还有各种比特币的教程，挖矿指南，非常适合入门。站长老墨，也比较靠谱，也 ...",
+    "title" :"在中国想要投资比特币(bitcoin) 该如何开始，如何申请钱包？ - 知乎",
+    },
+    {
+    "url" :"http://forum.bitcoin-tw.com/t/topic/7969",
+    "abstract" :"2017年1月4日 - 不好意思，想問一下挖礦的問題(請大家教教我) ... 挖礦，相對於比特幣挖礦，CryptoNight 的特性是會需要比較多的記憶體，用礦機比較没有倍數利基，所以少（没）有礦機。 .... 哪裡有資訊可以參考,例如:想挖某些礦適合用哪些電腦配置.",
+    "title" :"自己拼裝的電腦礦機- 比特幣的挖掘- 比特台灣論壇",
+    },
+    {
+    "url" :"http://zhidao.baidu.com/question/1924283908553904027.html",
+    "abstract" :"2014年8月14日 - 虚拟币的挖矿是利用计算机硬件为虚拟货币网络做数学计算进行交易 ... 3; 2015-05-14 请问一下、国内除了马币、还有哪些虚拟币、注册送币或者推广送币. ... 基本上所有的数字加密货币都是需要挖矿的，比如瑞泰币、比特币、千金卡、沙钱币等等 ... 我觉得看当前收益比较好觉得某种币有前景而自己机器适合挖种币挖 ...",
+    "title" :"国内可以用挖矿的虚拟币有什么?_百度知道",
+    },
+    {
+    "url" :"http://www.sohu.com/a/131789869_355147",
+    "abstract" :"2017年4月2日 - 处于离线状态，不联网，比较安全，适用于技术达人。 热钱包，on-chain钱包，线上钱包，会和网络同步更新数据，适合新手。 .... 当时有一种论调，比特币已经是中国的比特币，无论是挖矿还是交易，都是集中在中国。 ... 的节点仅在沿海地区和中部有一点点亮光，而欧洲、美国、日本等地区，比特币的 .... 有哪些投资机会？",
+    "title" :"【金融课堂】看完这篇文章，你就比90%的人更了解比特币行业了！ - 搜狐",
+    },
+    {
+    "url" :"http://www.336hyw.com/2015/10/3076.html",
+    "abstract" :"2015年10月3日 - 想知道有哪些网站提供这样的比特币奖励系统吗？可以点击这里 ... 以上这些方法比较适合羊毛党。 4. ... 现如今比特币挖矿没有过去那么赚钱了，但是仍然有利可图。加入矿 ... Coinbase ：比特币“瞬间”购买在26 个国家/地区成为现实.",
+    "title" :"6种免费获取比特币的好方法- 比特币资讯- 山寨币大全",
+    },
+    {
+    "url" :"https://www.mobile01.com/topicdetail.php?f=298&t=3753729",
+    "abstract" :"背面也要來一張，感覺280X質感比較優^^” 兩張都是需要外接8+6PIN電源 接下來分享一下挖礦的東西 什麼是比特幣，為何叫做挖礦？ 擷取自Wiki ...",
+    "title" :"顯示卡- 充滿夢想的淘金熱，挖礦真的賺？實戰分享！ - 電腦討論區- Mobile01",
+    "metadata" :"2014年1月28日 - 10 篇文章 - 8 位作者",
+    },
+    {
+    "url" :"http://www.21jingji.com/2016/7-13/3MMDEzNzhfMTM5MzA3MA.html?ulu-rcmd=0_comdf_art_1_08e671eb-b330-4343-9500-4f382cc49b9d",
+    "abstract" :"2016年7月13日 - 有关比特币的法律地位、监管政策却始终处于空白阶段，而在比特币相关产业链 ... 中国正在逐渐成为比特币交易、挖掘的最主要地区，而围绕这一新概念下的“ ... 因为从减产前的走势上看，比特币已出现了比较大的利好透支，2012年的时候 ... 减产对于一级市场，也就是挖矿环节的影响是最大的，”一位参与比特币挖矿 ...",
+    "title" :"比特币二次减产价格稳定生态链雏形初现- 21经济网",
+    },
+    {
+    "url" :"http://www.haixiaba.com/n772386.html",
+    "abstract" :"2017年4月3日 - 冷之態勢，很多人懷疑比特幣行業會不會就此沒有了。 ... 處于離線狀態，不聯網，比較安全，適用于技術達人。 熱錢包，on-chain錢包，線上錢包，會和網路同步更新數據，適合新手。 .... 圍繞著比特幣的挖礦進行的所有企業，大部分屬于比特幣的上游。 .... 其實，美國跟中國一樣，每個月份，都有不同的地區可以選擇。",
+    "title" :"【金融課堂】看完這篇文章，你就比90%的人更了解比特幣行業了！ - 海峽吧",
+    },
+    {
+    "url" :"http://www.yibencaijing.net/caijing/4151648.html",
+    "abstract" :"2017年5月9日 - VC国际离线挖矿-可以挖狗狗币，莱特币，比特币，以太币等等，把握先机！5月7号火爆开起。美国国际加密离线挖矿网站，真实矿机公司。支持7个 ...",
+    "title" :"VC离线挖矿可以挖狗狗币,莱特币,比特币,以太币- 一本财经网",
+    },
+    ],
+######
+#Q_4_1 #: 比特币挖矿 有哪些种
+######
+"Q_4_1": [" 比特币挖矿 有哪些种",
+    {
+    "url" :"https://www.zhihu.com/question/20792042",
+    "abstract" :"最近翻译了中本聪先生发明比特币的论文，在这篇论文中他说比特币的产生由挖矿者计算最优散列值计算得到，第一个计算得到这一散列值的也就是block的第一人将 ...",
+    "title" :"挖矿是如何产生比特币的？ - 知乎",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E6%AF%94%E7%89%B9%E5%B8%81",
+    "abstract" :"跳至 矿池 - ... 透過加入礦池來參與挖礦活動，無論是否有成功挖掘出有效資料塊，皆可經由對礦池的貢獻來獲得少量比特幣獎勵，亦即多人合作挖礦，獲得的比特幣獎勵 ...",
+    "title" :"比特币- 维基百科，自由的百科全书",
+    },
+    {
+    "url" :"https://wenku.baidu.com/view/edffd3ffbb0d4a7302768e9951e79b8968026849.html?re=view",
+    "abstract" :"火币网-专业的比特币交易平台： www.huobi.com 比特币挖矿的方法都有哪些？ 比特币设计之初，就被定义为全民参与的一项“实验”也就是说人人都可以通过自己的 ...",
+    "title" :"比特币挖矿的方法都有哪些？_百度文库",
+    },
+    {
+    "url" :"http://forum.bitcoin-tw.com/t/topic/7969",
+    "abstract" :"2017年1月4日 - 淘寶上的多幣種安卓錢包. 如果覺得 ... 不好意思，想問一下挖礦的問題(請大家教教我) .... 哪裡有資訊可以參考,例如:想挖某些礦適合用哪些電腦配置.",
+    "title" :"自己拼裝的電腦礦機- 比特幣的挖掘- 比特台灣論壇",
+    },
+    {
+    "url" :"http://www.wanbizu.com/p/13913.html",
+    "abstract" :"低收益 尽管比特币挖矿恶意软件已经有段时间了，并且这种挖矿方式已经非常落后，但是恶意挖矿软件仍就不断传播。 最新的McAfee报告发现，由于比特币挖矿难度 ...",
+    "title" :"比特币挖矿软件有哪些-玩币族",
+    },
+    {
+    "url" :"http://finance.sina.com.cn/money/forex/bitcoin/2017-01-06/doc-ifxzkfuk2490495.shtml",
+    "abstract" :"2017年1月6日 - 比特币可以全天24小时交易，包括周末；另外比特币现货交易类似无杠杆保证金交易，可以裸卖空。 投资比特币有哪些风险？ 比特币作为投机品泡沫 ...",
+    "title" :"比特币投资秘籍：怎样去挖矿？怎样交易？|比特币|虚拟货币|黄金_新浪 ...",
+    },
+    {
+    "url" :"http://www.techbang.com/posts/17283-from-the-capital-wangzhuan-coins-easily-into-the-bag-no-mining-can-make-money-free-mining-equipment-saving-electricity-but-also-a-small-fortune-the-cheat-stole-72-top-top-10-march",
+    "abstract" :"2014年4月25日 - 在之前的文章中，我們有介紹比特幣的由來與挖比特幣的方式，不過需要 ... 資料是不是都正確，接著點擊上方「View Ads」來瀏覽有哪些連結可點。 6.",
+    "title" :"不用挖礦也能賺比特幣！10 種用一般電腦、手機也能賺比特幣的 ... - T客邦",
+    },
+    {
+    "url" :"http://www.bitcoin86.com/teach/1664.html",
+    "abstract" :"2013年12月8日 - 比特币挖矿教程详细图文详解，比特币的简介比特币（英语：Bitcoin，简写：BTC，货币 ... 在各种比特币钱包中，找到你自己的钱包地址，如下图所示： ... 如果你不知道都有哪些矿池的话，不妨先下载一个挖矿软件，这裡Forece 推荐的挖 ...",
+    "title" :"比特币挖矿教程详细图文详解- 比特币资讯网(Bitcoin86)-读懂区块链与 ...",
+    },
+    {
+    "url" :"https://bitcoin.org/zh_CN/faq",
+    "abstract" :"挖矿. 什么是比特币挖矿？ 比特币的挖矿的原理是什么？ 挖矿不是一种能源浪费吗 ... 比特币是一个共识网络，促成了一个全新的支付系统和一种完全数字化的货币。",
+    "title" :"常见问题- 比特币 - Bitcoin",
+    },
+    {
+    "url" :"https://www.sosobtc.com/article/11118.html",
+    "abstract" :"不过看到CNBETA这几年来一直不时的有比特币的新闻出. ... 在各种比特币钱包中，找到你自己的钱包地址，如下图所示： ... 如果你不知道都有哪些矿池的话，不妨先下载一个挖矿软件，这里Forece 推荐的挖矿软件叫做GUIMiner 然后打开GUIMiner， ...",
+    "title" :"比特币挖矿详细图文教程| sosobtc-比特币新闻资讯大全",
+    },
+    ],
+######
+#Q_4_2 #: 工作量证明 PoW 
+######
+"Q_4_2": [" 工作量证明 PoW ",
+    {
+    "url" :"http://www.infoq.com/cn/articles/bitcoin-and-block-chain-part02",
+    "abstract" :"2016年5月6日 - 工作量证明(Proof Of Work，简称POW)，简单理解就是一份证明，用来确认你做过一定量的工作。监测工作的整个过程通常是极为低效的，而通过对 ...",
+    "title" :"揭秘比特币和区块链（二）：什么是工作量证明？ - InfoQ",
+    },
+    {
+    "url" :"http://www.wanbizu.com/p/59325.html",
+    "abstract" :"别： POW： 我们熟悉的比特币的工作机制是POW，即Proof of work, 工作量证明机制。 工作量证明机制(POW)不难理解，很多情况下我们都使用POW，只是不自知而已 ...",
+    "title" :"工作量证明（PoW）的原理是怎样的？-玩币族",
+    },
+    {
+    "url" :"http://8btc.com/thread-32952-1-1.html",
+    "abstract" :"比特币网络中任何一个节点，如果想生成一个新的区块并写入区块链，必须解出比特币网络出的工作量证明的迷题。这道题关键的三个要素是工作量 ...",
+    "title" :"工作量证明（PoW）的原理是怎样的？ - 问答/互助 - 巴比特论坛",
+    "metadata" :"2016年5月7日 - 5 篇文章 - 4 位作者",
+    },
+    {
+    "url" :"http://www.ithome.com.tw/news/105374",
+    "abstract" :"2016年4月23日 - 首先，最關鍵的便其工作量證明機制（Proof of Work，POW），這是一個可以讓每個參與的節點可共同參與交易驗證的方式，來實現一個能多方共同 ...",
+    "title" :"區塊鏈運作原理大剖析：5大關鍵技術| iThome",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/22369364",
+    "abstract" :"这主要是因为，和工作量证明POW一样，POS权益证明也不可能被轻易伪造。当然，这也是货币系统中的一个关键特性-防止伪造。从哲学角度而言，货币在过去就是一 ...",
+    "title" :"POS (Proof of Stake 权益证明) 与POW(Proof of Work 工作量证明) 本质 ...",
+    },
+    {
+    "url" :"https://jeffreygu.wordpress.com/2016/09/10/%E6%AC%8A%E7%9B%8A%E8%AD%89%E6%98%8E%E8%88%87%E5%B7%A5%E4%BD%9C%E9%87%8F%E8%AD%89%E6%98%8E%E7%9A%84%E6%AF%94%E8%BC%83/",
+    "abstract" :"2016年9月10日 - 比特幣使用的共識機制稱為工作量證明，而權益證明則是數位貨幣的另外一種共識機制 .... 權益證明的計算條件式可以這樣表示： pos-vs-pow-hash2.",
+    "title" :"權益證明與工作量證明的比較– 物聯網金融科技論壇",
+    },
+    {
+    "url" :"https://kknews.cc/tech/re4m9x.html",
+    "abstract" :"2016年5月9日 - 1起源工作量證明(Proof Of Work，簡稱POW)，簡單理解就是一份證明，用來確認你做過一定量的工作。監測工作的整個過程通常是極為低效的， ...",
+    "title" :"比特幣和區塊鏈之：什麼是工作量證明？ - 每日頭條",
+    },
+    {
+    "url" :"http://www.jianshu.com/p/2b71e4e646da",
+    "abstract" :"2017年2月20日 - 在区块链里很重要一个概念就是工作量证明，英文全称为Proof of Work，缩写为POW。相信很多人刚接触到这个概念的时候都很费解，“咦，工作量 ...",
+    "title" :"什么是工作量证明？ - 简书",
+    },
+    {
+    "url" :"http://studybtc.com/2014/04/11/%E6%AF%94%E7%89%B9%E5%B8%81%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5-%E5%B7%A5%E4%BD%9C%E9%87%8F%E8%AF%81%E6%98%8E%EF%BC%88proof-of-work%EF%BC%89/",
+    "abstract" :"2014年4月11日 - 上图是最新的全网算力2014-4-11 工作量证明(Proof Of Work，简称POW)，顾名思义，即工作量的证明。通常来说只能从结果证明，因为监测工作过程 ...",
+    "title" :"比特币基础概念–工作量证明（Proof-of-Work） « 学习比特币",
+    },
+    {
+    "url" :"https://komodoplatform.com/zh-hans/komodo%E7%9A%84%E5%BB%B6%E6%97%B6%E5%B7%A5%E4%BD%9C%E9%87%8F%E8%AF%81%E6%98%8E%E8%83%BD%E6%8F%90%E4%BE%9B%E5%8F%8C%E5%B1%82%E5%AE%89%E5%85%A8%E5%8F%8A%E9%99%8D%E4%BD%8E%E6%88%90%E6%9C%AC/",
+    "abstract" :"2016年11月17日 - 延时工作量证明是两个共识系统混合而成的。Komodo有双层挖矿，且有2个不同的工作量证明(PoW)。虽然这将有可能把权益证明（PoS）和工作量 ...",
+    "title" :"Komodo的延时工作量证明能提供双层安全及降低成本– Komodo Platform",
+    },
+    ],
+######
 #Q_3_22 #:比特币 的隔离升级
 ######
 "Q_3_22": ["比特币 的隔离升级",
@@ -24,6 +246,56 @@ Q_dict = {
     "url" :"http://www.btc38.com/news/2017/4/14050.html",
     "abstract" :"2017年4月27日 - 在上周末，比特币区块链升级提案中一项富有争议的提案出现了显著的战略 ... BIP148，其重点把隔离见证的激活条件改为了'经济多数'，把投票权从 ...",
     "title" :"比特币区块升级提案中一项争议提案出现显著的战略更改 - 比特时代",
+    },
+    ],
+######
+#Q_4_13 #:Corda 分布式帐本
+######
+"Q_4_13": ["Corda 分布式帐本",
+    {
+    "url" :"https://docs.corda.net/head/_static/corda-introductory-whitepaper-zht.pdf",
+    "abstract" :"由相互不信任的節點組成的分佈式帳本讓單⼀的全球資料庫得以產⽣，. 其記錄機構和⼈員之間的交易和責任狀態。這不但⼤⼤消除⽬前將獨⽴帳. 本相互同步⽽所花 ...",
+    "title" :"[PDF] Corda：介紹 - Corda Docs",
+    },
+    {
+    "url" :"https://kknews.cc/tech/v9k464l.html",
+    "abstract" :"2016年11月30日 - R3CEV是世界上最大的，並且側重於分布式帳本應用的銀行區塊鏈聯盟。該聯盟還促使Corda平台免費開放了代碼。 該開源版本的代碼由Linux基金 ...",
+    "title" :"R3發布分布式帳本科技Corda的代碼- 每日頭條",
+    },
+    {
+    "url" :"https://github.com/corda/corda/blob/master/docs/source/whitepaper/corda-introductory-whitepaper_zht.tex",
+    "abstract" :"由相互不信任的節點組成的分佈式帳本讓單一的全球資料庫得以產生，其記錄機構和人員之間的交易和責任狀態。這不但大大消除目前將獨立帳本相互同步而所花的 ...",
+    "title" :"corda-introductory-whitepaper_zht.tex - GitHub",
+    },
+    {
+    "url" :"http://www.ithome.com.tw/news/105609",
+    "abstract" :"2016年4月27日 - 新分散式分類帳平臺Corda沒有區塊、沒有採礦機制，也不會共享所有資料 ... 在提議階段（Proposal），尚未形成一個帳本（Ledger），且主要來自科技 ...",
+    "title" :"專訪R3聯盟高層：分散式分類帳和區塊鏈有何不同？ | iThome",
+    },
+    {
+    "url" :"https://read01.com/nADGPE.html",
+    "abstract" :"2016年4月8日 - 暴走時評：R3在宣布Corda項目後備受關注，因為據說它並不是完全的區塊鏈項目，而是更接近分布式帳本技術。這讓很多人感到困惑，甚至懷疑R3 ...",
+    "title" :"R3新分布式帳本項目Corda值得關注的九大重點- 壹讀",
+    },
+    {
+    "url" :"https://read01.com/E5ee66.html",
+    "abstract" :"2016年4月6日 - 暴走時評：這是一個非區塊鏈類型的分布式帳本應用。儘管大多數場景下，分布式帳本和區塊鏈概念似乎是一回事情，是並不能完全劃等號。",
+    "title" :"R3宣布發布非區塊鏈的分布式帳本應用Corda - 壹讀",
+    },
+    {
+    "url" :"https://read01.com/dxk0Eo.html",
+    "abstract" :"2016年4月19日 - 今天有一場在倫敦舉辦的活動，慶祝新的初創公司進入起步階段。巴克萊銀行展示了構建於Corda的智能合約平台，該平台是全球區塊鏈聯盟R3近期 ...",
+    "title" :"巴克萊銀行在倫敦活動中演示R3 Corda分布式帳本- 壹讀",
+    },
+    {
+    "url" :"http://www.wanbizu.com/p/57033.html",
+    "abstract" :"这个帐本保存每一次发生在分布式或者点对点网络里的交易记录，不管是公共网络 ... 前不久，该联盟发布了针对金融机构的分布式账本平台Corda，用于记录、管理和 ...",
+    "title" :"区块链分布式帐本中国地区联盟-玩币族",
+    },
+    {
+    "url" :"http://www.ethchinese.com/?p=720",
+    "abstract" :"2017年2月27日 - 博客称R3从一开始就把Corda作为分布式帐本平台，而非传统的区块链平台。 R3承认失败. Merkle起了一个标题“R3承认失败，停止区块链开发”。",
+    "title" :"R3言论：“Corda不是区块链，我们没有说它是。”成为被批目标– 以太中文网",
     },
     ],
 ######
@@ -69,6 +341,557 @@ Q_dict = {
     "url" :"http://finance.ifeng.com/a/20170505/15340853_0.shtml",
     "abstract" :"2017年5月5日 - 当位于日本东京的世界上最大的比特币交易商Mt.Gox（读做：Mount Gox 或者MTGOX）于2014年2月首次停止对用户提款的两周后，Mt.Gox才向客户 ...",
     "title" :"世界最大比特币交易所陷危机上次类似事件曾引发崩盘_凤凰财经",
+    },
+    ],
+######
+#Q_4_16 #:以太坊自治组织The DAO众筹资金被劫持事件
+######
+"Q_4_16": ["以太坊自治组织The DAO众筹资金被劫持事件",
+    {
+    "url" :"https://kknews.cc/zh-hk/finance/48l9xg.html",
+    "abstract" :"2016年6月27日 - 6月17日，加密貨幣和區塊鏈社區發生了一次大地震， the DAO 被黑客攻擊了。 ... 組織）的簡稱，the DAO是一個基於以太坊區塊鏈平台的迄今為止世界上最大的眾籌項目。 ... DAO給予他們一個小規模的可提議、投票以及分紅的新的分布式自治組織的環境。 ..... 攻擊者利用智能合約「遞歸調用」漏洞轉移了DAO資金。",
+    "title" :"數字貨幣The DAO 事件，區塊鏈征途上的一場暴風雨- 每日頭條",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/finance/yl86qg.html",
+    "abstract" :"2016年7月25日 - 硬分叉上的以太坊將能夠執行一個新的智能合約，將The DAO以眾籌時的100:1的兌換比例兌換回以太幣，從而從The DAO項目中取出資金，這其中也包含了被黑客盜走 ... 當然，雖然此次事件最終以以太坊的硬分叉和The DAO的解散為結局，但 .... 自治組織）在黑客風波結束、所有的以太幣被解鎖後，返還所有的以太 ...",
+    "title" :"分叉成功，得到(The DAO)瓦解:以太坊分叉始末- 每日頭條",
+    },
+    {
+    "url" :"http://chainb.com/?P=Cont&id=1290",
+    "abstract" :"2016年6月27日 - DAO是去中心化自治组织。 ... 有初始融资阶段，在这一阶段人们添加资金来购买代币，来代表其所有权——这个过程叫做众销，或者首次代币 ... 在大多数案例中，DAO不是由某人所有的——它只是一个在以太坊网络运行的软件。 ... 共有超过11,000位热情的成员参与进来，筹得1.5亿美元，成为历史上最大的众筹项目。",
+    "title" :"【全纪录】震惊全球的The DAO黑客事件全程回顾ChainB.com",
+    },
+    {
+    "url" :"http://www.gongxiangcj.com/show-22-1120-1.html",
+    "abstract" :"2016年6月18日 - 以太坊创始人Vitalik向共享财经表示，开发者在准备软分叉，如果51%的 ... 本次事件中，风险扩散的最危险的敞口是被劫持的资金转出以太坊体系 ... 的自治组织”，可理解为完全由计算机代码控制运作的类似公司的实体，在人类历史上还是首次。 ... 坊中称作”智能合约” ，DAO的众筹代码仅有几百行，却定义了整个组织 ...",
+    "title" :"【专题】The DAO虽然遭遇重挫，但区块链仍会大步前行- 共享财经：区块 ...",
+    },
+    {
+    "url" :"http://www.boc.cn/aboutboc/ab8/201703/t20170327_9176539.html",
+    "abstract" :"2017年3月27日 - 蚂蚁金服的公益筹款、善款追踪系统，平安银行的金融资产交易系统。对这些系统，目前尚未进行 ... 李礼辉：2016年发生了以太坊自治组织DAO众筹资金被劫持、Bitfinex交易所客户账户被盗的2起风险事件。DAO是一个基于以太坊的 ...",
+    "title" :"李礼辉：区块链大规模金融应用存技术瓶颈【《财经》】 - 中国银行",
+    },
+    {
+    "url" :"http://yuanchuang.caijing.com.cn/2017/0326/4252220.shtml",
+    "abstract" :"2017年3月26日 - 李礼辉：2016年发生了以太坊自治组织DAO众筹资金被劫持、Bitfinex交易所客户账户被盗的2起风险事件。DAO是一个基于以太坊的分布式自治 ...",
+    "title" :"【博鳌独家专访】李礼辉：区块链大规模金融应用存技术瓶颈_原创频道_ ...",
+    },
+    {
+    "url" :"http://www.bankofchina.com/big5/aboutboc/ab8/201703/t20170327_9176539.html",
+    "abstract" :"2017年3月27日 - 螞蟻金服的公益籌款、善款追蹤系統，平安銀行的金融資產交易系統。對這些系統，目前尚未進行 ... 李禮輝：2016年發生了以太坊自治組織DAO眾籌資金被劫持、Bitfinex交易所客戶賬戶被盜的2起風險事件。DAO是一個基于以太坊的 ...",
+    "title" :"李禮輝：區塊鏈大規模金融應用存技術瓶頸【《財經》】",
+    },
+    {
+    "url" :"https://bitcointalk.org/index.php?topic=1807828.msg%msg_id%",
+    "abstract" :"以太坊自治组织The DAO众筹资金被劫持、Bitfinex交易所比特币被盗的等事件，暴露了区块链现有技术结构存在的缺陷，包括智能合约编程漏洞、 ...",
+    "title" :"中行原行长李礼辉：区块链监管需“两手抓” - Bitcointalk.org",
+    "metadata" :"2017年2月28日 - 1 篇文章 - 1 位作者",
+    },
+    {
+    "url" :"http://finance.sina.com.cn/money/roll/2017-02-27/doc-ifyavvsh6941676.shtml",
+    "abstract" :"2017年2月27日 - 以太坊自治组织The DAO众筹资金被劫持、Bitfinex交易所比特币被盗的等事件，暴露了区块链现有技术结构存在的缺陷，包括智能合约编程漏洞、 ...",
+    "title" :"区块链监管需“两手抓”_新浪财经_新浪网",
+    },
+    {
+    "url" :"https://read01.com/mPDzPO.html",
+    "abstract" :"2016年12月20日 - ... 隱患，新技術開啟新應用，但也會帶來新風險，例如近期出現的以太坊自治組織The DAO眾籌資金被劫持以及Bitfinex交易所比特幣被盜的事件。",
+    "title" :"全國財經委員李禮輝做客上財商學院談區塊鏈金融- 壹讀",
+    },
+    ],
+######
+#Q_4_17 #:以及Bitfinex交易所比特币被盗事件
+######
+"Q_4_17": ["以及Bitfinex交易所比特币被盗事件",
+    {
+    "url" :"http://chainb.com/?P=Cont&id=1678",
+    "abstract" :"2016年8月4日 - 世界上最大的数字货币交易所之一Bitfinex被盗，损失的比特币金额不小， ... 这些直接的影响我们都能轻易看到，可是这个巨大事件背后的成因以及该 ...",
+    "title" :"关于Bitfinex交易所比特币被盗的消息ChainB.com - 区块链•铅笔",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/tech/96e34eb.html",
+    "abstract" :"2017年1月30日 - Bitfinex已經確認，876.82084947被盜的比特幣已經通過區塊鏈 ... Samsen表示：「許多交易所正在跟蹤被盜比特幣的走向，一旦發現被盜比特幣的轉移記錄，將立即予以識別跟蹤。 ... 所有的細節還沒有公開透露，但Samsen說：「我們大概知道事件是如何發生的。 ... 歡迎轉載，轉載請務必註明譯者以及轉自HaoBTC！",
+    "title" :"Bitfinex被盜比特幣後續，公司給出懸賞獎勵- 每日頭條",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/tech/3xreqg.html",
+    "abstract" :"2016年8月4日 - 昨日全球最大的數字貨幣交易所之一Bitfinex被盜了價值超過6000萬美元的比特幣，24小時過後， ... Bitfinex盜竊案是自2014年日本臭名昭著的Mt.Go事件 ... 的帳戶結構，以及Bitfinex使用比特幣錢包供應商BitGo作為客戶交易的一個 ...",
+    "title" :"Bitfinex比特幣攻擊：我們所知道的和不知道的- 每日頭條",
+    },
+    {
+    "url" :"https://www.thestandnews.com/technology/%E9%A6%99%E6%B8%AF%E6%AF%94%E7%89%B9%E5%B9%A3%E4%BA%A4%E6%98%93%E6%89%80%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-5%E5%84%84%E5%85%83%E6%AF%94%E7%89%B9%E5%B9%A3%E8%A2%AB%E7%9B%9C/",
+    "abstract" :"2016年8月3日 - 總部設於香港的比特幣交易所Bitfinex遭到黑客入侵，高達價值6500萬美元（約5.04億. ... 高達價值6,500萬美元（約5.04億港元）的比特幣被盜，Bitfinex已暫停交易服務。 ... 剛發現一個安全漏洞，需要停止所有交易，以及比特幣存款及兌換服務。 ... 的比特幣交易所，因此今次事件在短期內有顯著性，但相信比特幣有足夠 ...",
+    "title" :"香港比特幣交易所遭黑客入侵5億元比特幣被盜| 立場報道| 立場新聞",
+    },
+    {
+    "url" :"http://www.wanbizu.com/p/29004.html",
+    "abstract" :"比特币交易所bitfinex被盗比特币11.9万个，比特币永远逃不开黑客魔掌？ ... Bitfinex黑客攻击事件正随着时间的推移而逐渐变淡，但是与比特币交易所运营 ... 用户多达119,756BTC被盗，总价值约为7500万美元，暂时关闭比特币交易以及提现业务。",
+    "title" :"bitfinex安全-玩币族",
+    },
+    {
+    "url" :"http://www.wanbizu.com/p/59434.html",
+    "abstract" :"比特币交易所bitfinex被盗-玩币族. ... 不过，自从今年8月3日最大的美元比特币交易平台Bitfinex发生近12万枚币被盗的事件以来，这种涨幅还是非常少见的。",
+    "title" :"比特币交易所bitfinex被盗-玩币族",
+    },
+    {
+    "url" :"http://www.hksilicon.com/articles/1146510",
+    "abstract" :"比特幣交易所Bitfinex遭黑客攻擊，約7700萬美元被盜，幣價暴跌20%. 9個月前; 業界資訊 ... 日前公司對外公布了其網站的安全漏洞，但沒有提及被盜幣額。 但是經公司員工 ... 目前，如何應對此次攻擊和被盜事件公司還沒有給出明確回復。 由於BitGo的 ...",
+    "title" :"比特幣交易所Bitfinex遭黑客攻擊，約7700萬美元被盜，幣價暴跌20 ...",
+    },
+    {
+    "url" :"http://news.ltn.com.tw/news/business/paper/1017817",
+    "abstract" :"2016年8月4日 - 香港比特幣交易所Bitfinex週二遭駭客入侵，被盜走十一萬九千餘枚比特幣， ... 交易所遭駭事件時有所聞，今年六月Bitfinex的勁敵以太幣（ETH）遭盜， ...",
+    "title" :"損失高達6500萬美元港比特幣交易所遭駭- 財經- 自由時報電子報",
+    },
+    {
+    "url" :"http://www.sohu.com/a/109638960_418505",
+    "abstract" :"2016年8月8日 - 据路透社报道，数字货币交易平台Bitfinex宣称，比特币被盗事件产生的 ... Bitfinex是全球最大的数字货币交易所，负责比特币、“以太币”、莱特币等 ...",
+    "title" :"Bitfinex:比特币被盗损失由客户均摊 - 搜狐",
+    },
+    {
+    "url" :"https://read01.com/agBxeQ.html",
+    "abstract" :"2016年8月10日 - 今年8月4日，香港的比特幣交易所Bitfinex遭黑客入侵，多達119，756BTC被盜， ... 無論被盜事件是否另有原因，但讓現有客戶平攤平台損失的做法還是行業 .... 對等網絡比特幣市場LocalBitcoins遭遇黑客，導致惡意軟體散布以及客戶 ...",
+    "title" :"盤點近些年比較著名的比特幣被盜事件- 壹讀",
+    },
+    ],
+######
+#Q_4_14 #:微众银行
+######
+"Q_4_14": ["微众银行",
+    {
+    "url" :"https://www.webank.com/",
+    "abstract" :"腾讯牵头发起设立的中国首家互联网银行、微众银行线上投资理财贷款平台。微众银行APP提供个人投资理财产品与服务，推出微粒贷首款互联网小额信贷产品，微车 ...",
+    "title" :"微众银行WeBank",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E6%B7%B1%E5%9C%B3%E5%89%8D%E6%B5%B7%E5%BE%AE%E4%BC%97%E9%93%B6%E8%A1%8C",
+    "abstract" :"深圳前海微眾銀行，是國內首批民營商業銀行之一，也是首家上線的互聯網銀行。其將結合互聯網，重點服務個人消費者和小微企業，提供高效和差異化的金融服務。",
+    "title" :"深圳前海微眾銀行- 維基百科，自由的百科全書 - Wikipedia",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E5%BE%AE%E4%BC%97%E9%93%B6%E8%A1%8C",
+    "abstract" :"微众银行由腾讯公司及百业源、立业集团等知名民营企业发起设立，2014年12月经监管机构批准开业，是国内首家民营银行和互联网银行。...",
+    "title" :"微众银行_百度百科",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E6%B7%B1%E5%9C%B3%E5%89%8D%E6%B5%B7%E5%BE%AE%E4%BC%97%E9%93%B6%E8%A1%8C",
+    "abstract" :"2015年1月4日，李克强总理在深圳前海微众银行敲下电脑回车键，卡车司机徐军就拿到了3.5万元贷款。这是微众银行作为国内首家开业的互联网民营银行完成的第一 ...",
+    "title" :"深圳前海微众银行_百度百科",
+    },
+    {
+    "url" :"https://www.zhihu.com/topic/20008968",
+    "abstract" :"微众银行是否能干掉传统银行?1836个最新问答，点击查看更多>>",
+    "title" :"深圳前海微众银行- 热门问答- 知乎",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/24645537",
+    "abstract" :"连接者而非颠覆者。先上观点：微众银行因为没有网点，没有低成本存款来源，业务开展受限，不得已定位成银行和互联网的中间商。通过提供技术服务，整合资金和 ...",
+    "title" :"腾讯微众银行（Webank）与传统商业银行有何不同？ - 知乎",
+    },
+    {
+    "url" :"http://webank.cheng95.com/",
+    "abstract" :"微众银行（WeBank）是国内首家开业的互联网民营银行，通过社会招聘、校园招聘、实习生招聘等渠道为微众银行及旗下产品微粒贷、微众银行APP、微业贷、微车贷等 ...",
+    "title" :"微众银行招聘",
+    },
+    {
+    "url" :"https://theinitium.com/article/20151119-dailynews-webank/",
+    "abstract" :"2015年11月20日 - 據華爾街日報報導，中國互聯網巨頭騰訊旗下的微眾銀行正在尋求新一輪融資，計劃融資約10億美元，用於擴大其小額貸款和投資產品服務。這是微 ...",
+    "title" :"微眾銀行擬融資10億美元擴大貸款業務| 端傳媒Initium Media",
+    },
+    {
+    "url" :"https://www.bnext.com.tw/article/35079/BN-ARTICLE-35079",
+    "abstract" :"2015年1月21日 - 網路銀行顛覆傳統金融業的號角終於吹響。由騰訊控股主導成立的深圳前海微眾銀行WeBank於本月18日開始試營運。微眾銀行是中國第一家沒有 ...",
+    "title" :"騰訊網路銀行WeBank試營運，用大數據做風險控管｜數位時代",
+    },
+    {
+    "url" :"https://itunes.apple.com/cn/app/%E5%BE%AE%E4%BC%97%E9%93%B6%E8%A1%8C/id994103968?mt=8",
+    "abstract" :"2017年5月3日 - 腾讯牵头发起设立的国内首家互联网银行，持有银行牌照,为客户提供一站式存款、投资理财、纯信用贷款、便捷资金调度等新型金融服务的平台，助您 ...",
+    "title" :"微众银行：在App Store 上的内容 - iTunes - Apple",
+    "metadata" :"評分：3.8 - 42 則評論 - 免費 - iOS",
+    },
+    ],
+######
+#Q_4_15 #:改进的bft-raft”共识算法
+######
+"Q_4_15": ["改进的bft-raft”共识算法",
+    {
+    "url" :"https://www.leiphone.com/news/201704/f2UUtV8QvcAkbgsZ.html",
+    "abstract" :"2017年4月24日 - 据白皮书介绍，其共识过程是经过绝对一致之后再共识，共识即确认；采用的共识算法是“改进的bft-raft”，t-raft，PBFT（实用拜占庭容错）。因其是企业 ...",
+    "title" :"腾讯发布企业级区块链白皮书，前方有劲敌IBM | 雷锋网",
+    },
+    {
+    "url" :"https://hk.wxwenku.com/d/100029101",
+    "abstract" :"2017年4月25日 - 據白皮書介紹，其共識過程是經過絕對一致之後再共識，共識即確認；採用的共識算法是“改進的bft-raft”，t-raft，PBFT（實用拜占庭容錯）。因其是企業 ...",
+    "title" :"重磅| 騰訊發佈企業級區塊鏈白皮書，前方有勁敵IBM_雷鋒網_ 微文庫 ...",
+    },
+    {
+    "url" :"http://www.jianshu.com/p/ec54ce232faa",
+    "abstract" :"2017年4月24日 - 高效共识算法：自适应性，算法配置（BFT+RAFT，T-Raft，PBFT） .... 这个IDEA 好像是SMART-BFT 的思路，改进的BFT-RAFT 算法不知道细节是啥。",
+    "title" :"【汇编5】（腾讯）可信区块链TrustSQL - 简书",
+    },
+    {
+    "url" :"https://yeasy.gitbooks.io/blockchain_guide/content/distribute_system/bft.html",
+    "abstract" :"对于拜占庭问题来说，假如节点总数为N，叛变将军数为F，则当 时，问题才有解，即Byzantine Fault Tolerant (BFT) 算法。 +. 例如， 时。 +. 提案人不是叛变者，提案人 ...",
+    "title" :"拜占庭问题与算法· 区块链技术指南 - GitBook",
+    },
+    {
+    "url" :"https://trustsql.qq.com/chain_oss/TrustSQL_WhitePaper.html",
+    "abstract" :"区块链的共识机制具备“少数服从多数”以及“人人平等”的特点，其中“少数服从多数” ...... 另外，当使用具有自主知识产权的“改进的bft-raft”共识算法时候，接口适配模块 ...",
+    "title" :"[PDF] 腾讯区块链方案白皮书 - 腾讯可信区块链TrustSQL",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/58934186",
+    "abstract" :"2017年4月24日 - 可以看到共识管理写了PBFT/t-raft/bft-raft 一共三种经典计算机共识算法，没有涉及区块链领域流行的PoW/PoS/DPoS算法，不知道是不是故意的。",
+    "title" :"怎么评价腾讯的TrustSQL？ - 知乎",
+    },
+    {
+    "url" :"http://finance.jrj.com.cn/tech/2017/04/24195622374924.shtml",
+    "abstract" :"2017年4月24日 - 据白皮书介绍，其共识过程是经过绝对一致之后再共识，共识即确认；采用的共识算法是“改进的bft-raft”，t-raft，PBFT（实用拜占庭容错）。因其是企业 ...",
+    "title" :"腾讯发布企业级区块链白皮书前方有劲敌IBM-科技频道-金融界",
+    },
+    {
+    "url" :"http://blog.csdn.net/u013137970/article/details/52958176",
+    "abstract" :"2016年10月28日 - 前言区块链上的共识机制有多种，没有一种共识机制是完美无缺的，同时也 ... 工作，在成熟的分布式一致性算法（Pasox、Raft）基础上，实现秒级共识验证。 .... 共识机制模块dBFT（delegated BFT），提出了一种改进的拜占庭容错算法， ...",
+    "title" :"区块链上的共识机制- 张童鞋- 博客频道- CSDN.NET",
+    },
+    {
+    "url" :"http://istock.stocom.net/wiki/weixin:201703:20170310:20170310",
+    "abstract" :"2017年3月10日 - 由于BFT算法为了达成单次共识一定需要借助消息的多轮组播，有些甚至是多 ... 签名和验签的开销不谈，性能上有望接近非拜占庭容错的RAFT算法，实现上 .... 代码性能调优的经验提示我们：优化编译、改进算法、调整数据结构等方式 ...",
+    "title" :"许可链的性能优化[证券信息技术知识库] - 证券信息技术服务平台",
+    },
+    {
+    "url" :"http://www.ssuyuan.com/news/201704/f2UUtV8QvcAkbgsZ.html",
+    "abstract" :"2017年4月24日 - 据白皮书介绍，其共识过程是经过绝对一致之后再共识，共识即确认；采用的共识算法是“改进的bft-raft”，t-raft，PBFT（实用拜占庭容错）。因其是企业 ...",
+    "title" :"同是发力企业级区块链，IBM将成腾讯最大对手 - 钱柜999线上娱乐",
+    },
+    ],
+######
+#Q_4_4 #: 股份授权证明 Dpos
+######
+"Q_4_4": [" 股份授权证明 Dpos",
+    {
+    "url" :"https://kknews.cc/zh-hk/finance/436j43.html",
+    "abstract" :"股份授權證明機制（DPOS）是一種新的保障加密貨幣網絡安全的算法。它在嘗試解決比特幣採用的傳統工作量證明機制（POW）以及點點幣和NXT所採用的股份證明 ...",
+    "title" :"信息圖：股份授權證明機制（DPOS） - 每日頭條",
+    },
+    {
+    "url" :"http://www.8btc.com/delegated-proof-of-stake",
+    "abstract" :"然而比特币挖矿变得越来越集中化，这使得很多人怀疑POW已经偏离了中本聪的初心，于是，就有人设计出了股份授权证明机制（DPOS），它的设计初衷便是在解决 ...",
+    "title" :"股份授权证明机制（DPOS）是中本聪的初心么| 巴比特 - 巴比特论坛",
+    },
+    {
+    "url" :"http://www.8btc.com/dpossha",
+    "abstract" :"2014年7月22日 - 股份授权证明机制（DPOS）是一种新的保障加密货币网络安全的算法。 它在尝试解决比特币采用的传统工作量证明机制（POW）以及点点币和NXT所 ...",
+    "title" :"信息图：股份授权证明机制（DPOS） | 巴比特 - 巴比特论坛",
+    },
+    {
+    "url" :"https://www.sosobtc.com/article/12379.html",
+    "abstract" :"与基于工作量证明机制的比特币不同，比特股是基于权益证明机制的，这意味着它不 ... 我们相信权益证明机制是可行的，我们的系统使用的授权股份证明机制（DPOS） ...",
+    "title" :"比特股是什么？授权股份证明机制（DPOS）是什么？ | sosobtc-比特币 ...",
+    },
+    {
+    "url" :"https://bitcointalk.org/index.php?topic=1091886.0;imode",
+    "abstract" :"2015年6月19日 - 在本章，我要介绍一下2014年8月正式发布的DPoS（股份授权证明机制）算法，这是一项了不起的技术飞跃，极大的增加了DACs的可行性。我要提醒大家，这个章节会 ...",
+    "title" :"BitShares 101 (连载九：DPoS ——股份授权证明机制) - Bitcoin Talk",
+    },
+    {
+    "url" :"http://www.wanbizu.com/p/53948.html",
+    "abstract" :"股份授权证明机制（DPOS） 是一种新的保障加密货币网络安全的算法。 它在尝试解决比特币采用的传统工作量证明机制(POW)以及点点币和NXT所采用的股份证明 ...",
+    "title" :"股份授权证明机制(DPOS)-玩币族",
+    },
+    {
+    "url" :"http://www.wanbizu.com/p/58456.html",
+    "abstract" :"比特股是什么？授权股份证明机制（DPOS）是什么？ ...什么？ 比特股同样是一个新的基于区块链技术的开源软件。与基于工作量证明机制的比特币不同，比特股是 ...",
+    "title" :"工作量证明权益证明股份授权证明机制-玩币族",
+    },
+    {
+    "url" :"http://qkxue.net/info/210117/DPoS",
+    "abstract" :"2017年1月13日 - 【导读】股份授权证明机制（Delegated Proof-of-Stake, DPOS）是BitShares的共识基础，为这个去中心化交易所提供了行业顶级的交易性能、安全性和 ...",
+    "title" :"股份授权证明机制（DPoS）白皮书 - 勤快学",
+    },
+    {
+    "url" :"http://www.coinfeed.net/cn/e/tags/?tagname=%E8%82%A1%E4%BB%BD%E6%8E%88%E6%9D%83%E8%AF%81%E6%98%8E%E6%9C%BA%E5%88%B6",
+    "abstract" :"背景我最近在比特币的聚会上做了一场关于令人激动的密码学货币领域新进展的演讲：股份授权证明机制（DPOS）和比特股（Bitshares）。视频在此，我对视频糟糕的 ...",
+    "title" :"股份授权证明机制- CoinFeed.Net",
+    },
+    {
+    "url" :"http://www.bitabc.com/?id=39",
+    "abstract" :"2015年8月29日 - 摘要：股份授权证明机制（DPOS）是一种新的保障加密货币网络安全的算法。它在尝试解决比特币采用的传统工作量证明机制（POW）以及点点币 ...",
+    "title" :"股份授权证明机制（DPOS）_区块链_区块链早读",
+    },
+    ],
+######
+#Q_4_18 #:TrustSql
+######
+"Q_4_18": ["TrustSql",
+    {
+    "url" :"https://trustsql.qq.com/",
+    "abstract" :"TrustSQL 腾讯可信区块链 · 首页 · 行业应用 · 数字资产演示; 开发文档. 方案白皮书 · 开发指南 · Q&A · 方案白皮书. 自主知识产权 支持高频场景. 腾讯可信区块链致力于 ...",
+    "title" :"腾讯可信区块链TrustSQL",
+    },
+    {
+    "url" :"https://market.qcloud.com/products/1771",
+    "abstract" :"TrustSQL即腾讯可信区块链，致力于提供企业级区块链基础设施、行业解决方案，以及安全、可靠、灵活的区块链云服务，为合作企业提供一站式的构建区块链行业应用 ...",
+    "title" :"TrustSQL 腾讯可信区块链- 环境搭建- 运维服务- 腾讯云 - 基础环境",
+    },
+    {
+    "url" :"http://www.investopedia.com/news/tencent-forms-blockchain-platform-trustsql/",
+    "abstract" :"2017年4月26日 - Tencent, one of the largest Chinese conglomerates is building its own blockchain services platform known as TrustSQL.",
+    "title" :"China's Tencent Forms Blockchain Platform, TrustSQL | Investopedia",
+    },
+    {
+    "url" :"https://www.cryptocoinsnews.com/chinese-internet-giant-tencent-to-develop-a-blockchain-platform/",
+    "abstract" :"2017年4月28日 - The new platform, TrustSQL, is designed to provide an enterprise class blockchain infrastructure to support reliable blockchain cloud services.",
+    "title" :"Chinese Internet Giant Tencent is Developing a Blockchain Platform ...",
+    },
+    {
+    "url" :"https://cointelegraph.com/news/tencent-joins-china-blockchain-race-with-new-trustsql-platform",
+    "abstract" :"2017年4月27日 - A new TrustSQL Blockchain product is seeing the Chinese BAT member Tencent enter the market.",
+    "title" :"Tencent Joins China Blockchain Race With New TrustSQL Platform",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/58934186",
+    "abstract" :"2017年4月24日 - 所以TrustSQL这个产品与腾讯的地位是相符的。但我依然认为区块链的未来是公链+传统互联网服务。至于这个传统互联网服务是联盟链还是 ...",
+    "title" :"怎么评价腾讯的TrustSQL？ - 知乎",
+    },
+    {
+    "url" :"http://news.8btc.com/trustsql-by-tencent-fit-has-10ks-capacity-and-demo-features-gold-assets",
+    "abstract" :"2017年4月26日 - TrustSQL is designed to work with partners to promote the development of trusted Internet and to create a win-win blockchain ecosystem.",
+    "title" :"TrustSQL by Tencent FiT has 10k/s capacity and demo features gold ...",
+    },
+    {
+    "url" :"http://www.8btc.com/tag/TrustSQL",
+    "abstract" :"近日，腾讯FiT（支付基础平台与金融应用线）、腾讯研究院正式发布腾讯第一份区块链方案白皮书：可信区块链TrustSQL。白皮书首次总结了腾讯今年在区块链上的研究 ...",
+    "title" :"巴比特| Tag Archive | TrustSQL",
+    },
+    {
+    "url" :"http://btcnews.jp/18tjbl7w11249/",
+    "abstract" :"2017年4月27日 - テンセントの金融テクノロジーアームであるTencent FiTは、ブロックチェーンを活用したデモプラットフォーム「TrustSQL」を正式にリリースした。 TrustSQL ...",
+    "title" :"巨人テンセント、ブロックチェーン・プラットフォーム「TrustSQL」をリリース ...",
+    },
+    ],
+######
+#Q_4_5 #: 使用拜占庭容错 PBFT
+######
+"Q_4_5": [" 使用拜占庭容错 PBFT",
+    {
+    "url" :"http://blog.liqilei.com/bai-zhan-ting-gong-shi-suan-fa-zhi-pbftjie-xi/",
+    "abstract" :"2016年8月22日 - PBFT是Practical Byzantine Fault Tolerance的缩写，意为实用拜占庭容错 ... 作者使用这个算法实现了拜占庭容错的网络文件系统（NFS），性能测试 ...",
+    "title" :"区块链核心技术：拜占庭共识算法之PBFT - 李启雷的博客",
+    },
+    {
+    "url" :"https://yeasy.gitbooks.io/blockchain_guide/content/distribute_system/bft.html",
+    "abstract" :"又叫拜占庭将军（Byzantine Generals Problem）问题，是Leslie Lamport 1982 年提出用来解释一致性问题的一个虚构模型。拜占庭是古代东罗马帝国的首都，由于 ...",
+    "title" :"拜占庭问题与算法· 区块链技术指南 - GitBook",
+    },
+    {
+    "url" :"http://chuansong.me/n/348459051259",
+    "abstract" :"2016年5月25日 - 从Paxos到拜占庭容错，兼谈区块链的共识协议. ... 所有非拜占庭服务器使用相同的输入信息，产生一致的结果；. 如果输入的信息正确，那么所有 ... 如果系统中有3f+1个节点，那么PBFT可以容忍拜占庭服务器不超过f个。简单解释一下 ...",
+    "title" :"从Paxos到拜占庭容错，兼谈区块链的共识协议_数据极客_传送门",
+    },
+    {
+    "url" :"http://www.8btc.com/pbft",
+    "abstract" :"2016年7月19日 - 超级账本PBFT（拜占庭容错）算法详解 ..... 阶段为了across view来考虑的，处于committed状态的请求的编号在新的view中是有效的，可以继续使用。",
+    "title" :"超级账本PBFT（拜占庭容错）算法详解_巴比特_服务于区块链创新者",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/news/n5qqg.html",
+    "abstract" :"2016年5月25日 - 高可用架構在分布式系統設計中是最核心的挑戰之一，拜占庭容錯則是解決 ... 所有非拜占庭伺服器使用相同的輸入信息，產生一致的結果； ... 的簡化拜占庭協議也不斷湧現並在具體系統中得到運用，例如PBFT ，Paxos，Raft等等。",
+    "title" :"從Paxos到拜占庭容錯，兼談區塊鏈的共識協議- 每日頭條",
+    },
+    {
+    "url" :"https://www.antshares.org/Files/66c6773b.pdf",
+    "abstract" :"本文提出了一种改进的拜占庭容错算法，使其能够适用于区块链系统。 ... 于1999 年提出的Practical Byzantine Fault Tolerance(PBFT)[3]的基础上，提出了一种改.",
+    "title" :"[PDF] 一种用于区块链的拜占庭容错算法",
+    },
+    {
+    "url" :"https://cpbae.nccu.edu.tw/cpbae/general/showNews.action?news.newsid=11",
+    "abstract" :"2016年9月18日 - 工作量證明演算法(Proof of Work - PoW)是比特幣使用的共識機制。 ... 實用拜占庭容錯演算法（Practical Byzantine Fault Tolerance - PBFT）的共識 ...",
+    "title" :"共識決的信任機器區塊鏈有如拜占庭帝國將軍Sep. 18 ... - 政大公企中心",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/55794026",
+    "abstract" :"4、pbft拜占庭容错算法，这是一种基于消息传递的一致性算法，算法经过三个阶段 .... 使用它的链，比如央行的电子票据系统、布萌区块链、fabric都是联盟链，节点都是 ...",
+    "title" :"请教技术大牛，pbft是不是区块链目前最优的共识机制？ - 知乎",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/52254063",
+    "abstract" :"2017年2月24日 - 如何通俗的理解IBM区块链技术HyperLedger/fabric中的共识算法PBFT(拜占庭容错)？ Q1:PBFT(Practical Byzantine Fault Tolerance)是一种共识 ...",
+    "title" :"如何通俗的理解IBM区块链技术HyperLedger/fabric中的共识算法PBFT ...",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98",
+    "abstract" :"拜占庭將軍問題（Byzantine Generals Problem），是由萊斯利蘭伯特提出的點對點通信中的基本 .... 请参阅使用条款） Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。 维基媒体基金会是在美国佛罗里达州登记的501(c)(3) ...",
+    "title" :"拜占庭将军问题- 维基百科，自由的百科全书",
+    },
+    ],
+######
+#Q_4_6 #: 全球GDP总量是多少
+######
+"Q_4_6": [" 全球GDP总量是多少",
+    {
+    "url" :"http://finance.ifeng.com/a/20170224/15214241_0.shtml",
+    "abstract" :"2017年2月24日 - 目前，美国和中国是全球经济体中仅有的两个GDP总量超过10万亿美元的国家。中国2014年GDP总量63.6万亿元人民币，按当年汇率计算，首度 ...",
+    "title" :"全球GDP总量达74万亿美元各国占比排行榜公布_凤凰财经",
+    },
+    {
+    "url" :"http://datanews.caixin.com/2017-01-24/101046653.html",
+    "abstract" :"2017年1月24日 - GDP ,美国和中国是全球经济体中仅有的两个GDP总量超过10万亿美元的国家，印度的上升速度也十分惊人.",
+    "title" :"中国年GDP 74万亿全球第二图解全球GDP排位战_数字说频道_财新网",
+    },
+    {
+    "url" :"http://www.sohu.com/a/128183721_480375",
+    "abstract" :"2017年3月7日 - 目前，美国和中国是全球经济体中仅有的两个GDP总量超过10万亿美元的国家。中国2014年GDP总量63.6万亿元人民币，按当年汇率计算，首度 ...",
+    "title" :"全球GDP总量达74万亿美元，各国占比有多少？ - 搜狐",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E5%8E%86%E5%B9%B4%E4%B8%96%E7%95%8C%E5%8D%81%E5%A4%A7%E7%BB%8F%E6%B5%8E%E4%BD%93%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC%E5%88%97%E8%A1%A8",
+    "abstract" :"本条目列举每年世界前十大经济体GDP总量、在世界的位次以及占世界经济的比重。GDP指标以WB（世行）、IMF（国际货币基金组织）与UN（联合国统计署）三大国际 ...",
+    "title" :"历年世界十大经济体国内生产总值列表- 维基百科，自由的百科全书",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E7%94%9F%E7%94%A2%E7%B8%BD%E5%80%BC",
+    "abstract" :"世界生産總值（英语：Gross world product，簡稱：GWP），中文縮略：世產值，是世界上所有國家的國内生産總值（GDP）之總和。這相當於把全世界看作一個國家來計算 ...",
+    "title" :"世界生產總值- 维基百科，自由的百科全书 - 維基百科",
+    },
+    {
+    "url" :"http://www.haixiaba.com/n461168.html",
+    "abstract" :"2017年3月8日 - 全球GDP總量達74萬億美元，各國占比有多少？ 時間：2017/3/8 ... 目前，美國和中國是全球經濟體中僅有的兩個GDP總量超過10萬億美元的國家。",
+    "title" :"全球GDP總量達74萬億美元，各國占比有多少？ - 海峽吧",
+    },
+    {
+    "url" :"http://bbs.tianya.cn/post-333-875719-1.shtml",
+    "abstract" :"2016年4月21日 - 人均GDP排名中国之前的国家GDP为53.17万亿美元，占全球GDP总量的72.7%，人口为18.67亿，占全球总. ... 台湾那个GDP，有多少是诈骗得来的.",
+    "title" :"IMF最新发布2015年世界各国GDP总量及人均GDP，中国又输了！_台湾 ...",
+    },
+    {
+    "url" :"http://www.stockq.org/economy/gdp.php",
+    "abstract" :"全球股市經濟數據; 全球經濟數據總覽 · 全球經濟指標 · 全球利率 · LIBOR 同業拆款利率 · 國內生產總值(GDP) · 美國公債殖利率 · 各國政府公債殖利率 · 外匯存底 ...",
+    "title" :"GDP 國內生產毛額(國內生產總值) - StockQ.org",
+    },
+    {
+    "url" :"https://read01.com/02A6Ro.html",
+    "abstract" :"2017年2月25日 - 其中，總量排名第一的仍然為美國，占比24.32%；其次，是中國，GDP總量 ... 目前，美國和中國是全球經濟體中僅有的兩個GDP總量超過10萬億美元 ...",
+    "title" :"全球GDP總量達74萬億美元各國占比排行榜- 壹讀",
+    },
+    {
+    "url" :"https://zhidao.baidu.com/question/289087167.html?&mzl=qb_xg_0&mzl_jy=0&word=&hitRelateOptimi=&ad_test=&esqb_20per=4&Ycai_hit=236&abtest=&uid=CCB1C3A7F7F3718C9A637549600BE5FF&step=1",
+    "abstract" :"给你一个今年7月世界银行版本的2010年全球各国GDP总量排名： 世界银行7月初公布了其估算的世界各经济体GDP和GNI(基于Atlas三年平均汇率法计算)的数据。",
+    "title" :"世界各国2010年gdp排名及总量是多少 - 百度知道",
+    },
+    ],
+######
+#Q_4_11 #:美国房地产区块链公司Ubitquity研发出适用于房地产行业的文件安全存储区块链平台
+######
+"Q_4_11": ["美国房地产区块链公司Ubitquity研发出适用于房地产行业的文件安全存储区块链平台",
+    {
+    "url" :"https://trustsql.qq.com/chain_oss/TrustSQL_WhitePaper.html",
+    "abstract" :"发布：腾讯FiT（支付基础平台与金融应用线）、腾讯研究院 ...... 密码学保证传输和访问安全，能够实现数据一致存储、无法篡改、无法抵赖的技术体系。这种. 技术给世界 ..... 例如，美国房地产区块链公司Ubitquity 研发出适用于房地产行业的文件安. 全存储 ...",
+    "title" :"[PDF] 腾讯区块链方案白皮书 - 腾讯可信区块链TrustSQL",
+    },
+    {
+    "url" :"https://read01.com/xgy5jO.html",
+    "abstract" :"2016年4月14日 - 據國外媒體報導，美國房地產區塊鏈公司Ubitquity LLC研發出適用於房地產行業的文件安全存儲區塊鏈平台。 Ubiquity LLC聯合創始人和執行 ...",
+    "title" :"區塊鏈能幹啥- 壹讀",
+    },
+    {
+    "url" :"http://www.cnii.com.cn/technology/2016-04/14/content_1716869_3.htm",
+    "abstract" :"2016年4月14日 - 保障房屋产权. 据国外媒体报道，美国房地产区块链公司Ubitquity LLC研发出适用于房地产行业的文件安全存储区块链平台。",
+    "title" :"区块链能干啥_技术_中国信息产业网",
+    },
+    {
+    "url" :"http://aboutchain.com/forum.php?mod=viewthread&tid=1078",
+    "abstract" :"美国房地产区块链公司Ubitquity LLC研发出适用于房地产行业的文件安全存储区块链平台。 在美国每年仅是欺诈性转移问题就会带来近10亿美元的 ...",
+    "title" :"行业分析丨区块链行业- 什么是区块链- 趣块链- AboutChain.ORG",
+    "metadata" :"2016年7月8日 - 7 篇文章 - 7 位作者",
+    },
+    {
+    "url" :"http://findit.org.tw/upload/news/news_20170309035.pdf",
+    "abstract" :"2017年3月8日 - 區塊鏈是比特幣底層的基礎技術，區塊鏈技術由密碼學、數學、演算法及經濟模型 ..... CoinBase為美國第一家取得合法執照的比特幣交易平台，擁有良好的聲譽，也 .... 產品與服務：比特幣的安全存儲（比特幣電子錢包與保險庫）解決方案提供者 .... Ubitquity為金融機構、所有權與抵押公司提供平台，用於文件確保，同時.",
+    "title" :"[PDF] 2017新興領域投資趨勢觀測系列(一)-比特幣與區塊鏈篇.pdf ... - FINDIT",
+    },
+    {
+    "url" :"http://www.gongxiangcj.com/show-22-1538-1.html",
+    "abstract" :"2016年7月27日 - 比特币作为一种分散式数字化货币能存在，完全有赖于一种所谓的区块链技术，这实际上是一种公共账簿，可通过数字化方式，安全、自动化地 ... 越来越多的金融服务巨头投资于区块链初创公司，银行参与其中，这也就不足为奇了。 .... 房地产区块链应用软件有助于记录、跟踪和转让土地所有权、房契和留置权等，并有 ...",
+    "title" :"除了银行，区块链在这20个行业大有作为- 共享财经：区块链门户，金融 ...",
+    },
+    {
+    "url" :"http://chuansong.me/n/453798351745",
+    "abstract" :"2016年7月22日 - Kris Weaver房地产团队是参与Ubitquity基于区块链的房地产产权登记 ... 区块链的不可篡改性、唯一有效性、永恒性，致力于房地产产权登记 ... 2015年公司的计划是用区块链搭建概念证明平台；然后到2016年，Ubitquity开发出基础用户 ... 可以安全地保存文件，同时能很好的与美国地方书记官和产权保险公司协调。",
+    "title" :"房地产平台用区块链进行产权转移_区块链铅笔Blockchain_传送门",
+    },
+    {
+    "url" :"https://zhuanlan.zhihu.com/jingqu",
+    "abstract" :"首家新三板上市区块链公司：他们提供面向政务、商务、公众等解决方案. 太一云首席 ... 关注to B的细分场景应用，他们想用区块链构建一个校园食品安全风控系统 ... 如何在区块链底层平台和应用场景中搭一个“桥梁”，他们推出了“中间件” ... 曾先后供职于微软亚洲研究院、美国道富银行（杭州研发中心）、Schooner信息技术（硅谷）有…",
+    "title" :"区块链学院- 知乎专栏",
+    },
+    {
+    "url" :"http://bbs.tianya.cn/post-develop-2127583-1.shtml",
+    "abstract" :"2016年3月23日 - 本帖将持续更新区块链技术的最新进展和动态，帮助各位了解前沿科技动态， ... 保证数字文件安全的协议[iii]，这个协议成为比特币区块链协议的原型。 .... 出于“自私” 的目的进行的竞争，最终造就了保护系统安全的庞大算力基础。 .... Robert Moitoso的公司致力于基于云服务的金融服务技术，他说，SS&C的区块链研发 ...",
+    "title" :"持续更新：区块链技术新鲜资讯，关注前沿科技动态(转载)_经济论坛_ ...",
+    },
+    {
+    "url" :"http://www.bitebi988.com/tag/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8",
+    "abstract" :"英国电信提高区块链防护技术 · 比特前言 - 二月15, ... 格鲁吉亚保障比特币区块链土地所有权 · 比特前言 - 二 ... 纽约律师事务所测试区块链智能合同 · 比特前言 - 二 ...",
+    "title" :"区块链技术应用| 比特币娱乐资讯网",
+    },
+    ],
+######
+#Q_4_7 #: 全球人中分布是多少
+######
+"Q_4_7": [" 全球人中分布是多少",
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E4%B8%96%E7%95%8C%E4%BA%BA%E5%8F%A3",
+    "abstract" :"非洲是世界第二多人口的大洲，約有十億人，佔全世界人口15%；歐洲有7.33億人，佔世界 .... 下表顯示各大洲歷史上的人口分佈狀況。 .... 但由於有太多不可預測的因素存在（例如出生率變化、潛在的戰爭等），未來世界究竟會有多少人變得較難預測。",
+    "title" :"世界人口- 維基百科，自由的百科全書 - Wikipedia",
+    },
+    {
+    "url" :"http://cn.wfp.org/hunger/%E9%A5%A5%E9%A5%BF%E4%BA%BA%E5%8F%A3%E7%94%B1%E5%93%AA%E4%BA%9B%E4%BA%BA%E7%BB%84%E6%88%90%EF%BC%9F",
+    "abstract" :"具体分布如下： ... 全球四分之三的饥饿人口生活在农村地区，主要是亚洲和非洲的农村。 ... 在这些人中，一半家庭凭借容易受干旱或洪涝破坏的贫瘠土地生存；五分之一的家庭没有土地，依靠耕种为生；大约10%的家庭 ... 女性是全球主要的粮食生产者。",
+    "title" :"饥饿人口由哪些人组成？ | 联合国世界粮食计划署",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E4%B8%96%E7%95%8C%E6%B0%91%E6%97%8F",
+    "abstract" :"中国汉族是世界上人口最多的民族，菲律宾棉兰老岛的塔萨代族是人数最少的民族，人口仅24人。 ... 在世界5大洲，民族人口的分布极不平衡，亚洲约占全球人口的58%，非洲 .... 分布于伊朗，在伊拉克、阿拉伯也门和巴林的阿拉伯人中也有部分什叶派教徒。 ..... 撇开多少带有神话色彩的口头传说，最早见于文献史料而包含大量民族情况、 ...",
+    "title" :"世界民族_百度百科",
+    },
+    {
+    "url" :"http://www.oxfam.org.hk/tc/news_5195.aspx",
+    "abstract" :"2017年1月16日 - 正當全球政商領袖雲集瑞士達沃斯準備召開「世界經濟論壇」之際，樂施 .... 財富分佈的數據（尤其是有關中國及印度的數據），這份報告反映了全球 ... 是全球9個超級富豪擁有的財富相當於全球較貧窮的一半人口（36億人）的財富總和。",
+    "title" :"樂施會: 8個人坐擁世界一半財富全球不公平問題急速惡化",
+    },
+    {
+    "url" :"http://www.oxfam.org.hk/filemgr/439/hungerbanquetmanualfinal_E-version.pdf",
+    "abstract" :"我們是否要反思：為我們提供食物的人，為何反而吃不飽？ 作為地球村的一 ... 便有1人挨肚餓。 · 60%飢餓人口是女性，但她們亦是全球糧食生產的重要生力軍。 ... 全球飢餓人口分布(百萬計). 資料來源： ...... 全球每多少人中，有1人挨餓？ 7. 補充：全球 ...",
+    "title" :"[PDF] 飢餓源於不公平 - 樂施會",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=9_vqrLRZseEC&pg=PA41&lpg=PA41&dq=%E5%85%A8%E7%90%83%E4%BA%BA%E4%B8%AD%E5%88%86%E5%B8%83%E6%98%AF%E5%A4%9A%E5%B0%91&source=bl&ots=kZVtBAKEYy&sig=qmSeI75u_RmHts8ek5aUEzPgSb8&hl=zh-TW&sa=X&ved=0ahUKEwj_xrD70LPUAhULTbwKHaptA8wQ6AEIRDAF",
+    "abstract" :"在这些新的均衡上,两国间的产业分布和收人份额将更加均衡,世界总收人也将增加。 ... 尽管这一计划导致了美国在世界收人中的份额下降,但是它使重新焕发生机的 ...",
+    "title" :"全球贸易和国家利益冲突 - 第 41 頁 - Google 圖書結果",
+    "metadata" :"戈莫里, 鲍莫尔 - 2003 - Commerce",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=w4pUDQAAQBAJ&pg=PT220&lpg=PT220&dq=%E5%85%A8%E7%90%83%E4%BA%BA%E4%B8%AD%E5%88%86%E5%B8%83%E6%98%AF%E5%A4%9A%E5%B0%91&source=bl&ots=Dvb1vP4K9T&sig=h0nv9jXQGzEdS1ZZKrWCNUdXJpA&hl=zh-TW&sa=X&ved=0ahUKEwj_xrD70LPUAhULTbwKHaptA8wQ6AEISjAG",
+    "abstract" :"关于世界财富分布趋势值得关注的几个方面 21世纪全球财富分布将是如何? ... 榜,1987年全球每1 亿成年人中仅有5个亿万富豪,而2013年是30个。1987年亿万富豪仅 ...",
+    "title" :"《21世纪资本论》到底发现了什么 - Google 圖書結果",
+    "metadata" :"李实, 岳希明, 王彦浩 - 1900 - Business & Economics",
+    },
+    {
+    "url" :"http://hottopic.chinatimes.com/20160704005725-260809",
+    "abstract" :"2016年7月4日 - 白色人種又稱歐羅巴或高加索人種(Caucasian race)，是世界上人口分布最廣、人數最多的人種。事實上，除了東亞和東南亞的黃種人，與撒哈拉以南 ...",
+    "title" :"世界四大人種劃分印度人竟是白人？ - 中時電子報",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=mNinAwAAQBAJ&pg=PA312&lpg=PA312&dq=%E5%85%A8%E7%90%83%E4%BA%BA%E4%B8%AD%E5%88%86%E5%B8%83%E6%98%AF%E5%A4%9A%E5%B0%91&source=bl&ots=THXGzc_Fu5&sig=3Hu_vea0Q-SzqRG36WMx0lsm-ZQ&hl=zh-TW&sa=X&ved=0ahUKEwj_xrD70LPUAhULTbwKHaptA8wQ6AEIVzAI",
+    "abstract" :"與此相對照的相關事件是馬政府推動「外交休兵」政策、聯合號海釣船遭日艦撞机 ... 年 6 月都是(是中壼查豪皇壼壼支&麗盡 3 羃% ‵臺灣人馬英九 2008 年 6 月臺彗人 ... 彗人與中國人認同趨勢表台灣民眾台灣人/中颺人認同遺魘分佈( I992~2009′06〕 ...",
+    "title" :"全球治理與臺灣的活絡模式:  - 第 312 頁 - Google 圖書結果",
+    "metadata" :"王榮霖  - 2013 - International relations",
+    },
+    {
+    "url" :"http://www1.geo.ntnu.edu.tw/~moise/Data/Books/World/02%20other/world%20race.doc",
+    "abstract" :"從全球來看，世界人口主要分佈在北半球，南半球的人口只占世界總人口的11.5％。 ... 地球上的人口分佈是人類改造、利用自然，與自然界發生聯繫和相互作用的産物，人口的分佈受自然 ..... 芬人中有深色皮膚、廣頭等蒙古人特色，語言爲阿爾泰語系。",
+    "title" :"[DOC] 世界人種分佈的三大主要地理類型",
     },
     ],
 ######
@@ -223,8 +1046,8 @@ Q_dict = {
     {
     "url" :"http://www.acem.sjtu.edu.cn/ueditor/jsp/upload/20140522/15411400728110743.pdf",
     "abstract" :"2014年5月22日 - 比特币发行流通机制及其价格波动研究. 唐晓瞳. 上海交通大学. 摘要：2013 年底的比特币价格过山车走势及央行颁布的《关于防范比特币风险的通知》.",
-    "metadata" :"由 唐晓瞳 著作 - 被引用 1 次 - 相關文章",
     "title" :"[PDF] 比特币发行流通机制及其价格波动研究 - 上海交通大学安泰经济与管理学院",
+    "metadata" :"由 唐晓瞳 著作 - 被引用 1 次 - 相關文章",
     },
     {
     "url" :"http://jacklynn.pixnet.net/blog/post/40044844-%E4%BB%80%E9%BA%BC%E6%98%AF%E6%AF%94%E7%89%B9%E5%B9%A3%28bitcoin%29",
@@ -234,8 +1057,229 @@ Q_dict = {
     {
     "url" :"http://cdmd.cnki.com.cn/Article/CDMD-10248-1015034237.htm",
     "abstract" :"【摘要】：2013年底的比特币价格过山车走势及央行颁布的《关于防范比特币风险的通知》将比特币推向了风口浪尖，一时争议不断。进入2014年，看似趋向平稳的比特币 ...",
-    "metadata" :"由 唐晓瞳 著作 - 2014 - 被引用 1 次 - 相關文章",
     "title" :"比特币发行流通机制及其价格波动研究--《上海交通大学》2014年硕士论文",
+    "metadata" :"由 唐晓瞳 著作 - 2014 - 被引用 1 次 - 相關文章",
+    },
+    ],
+######
+#Q_4_10 #: BitProof 推出区块链学历认证项目
+######
+"Q_4_10": [" BitProof 推出区块链学历认证项目",
+    {
+    "url" :"https://trustsql.qq.com/chain_oss/TrustSQL_WhitePaper.html",
+    "abstract" :"2017 年，区块链及相关行业加速发展，全球正在跑步进入“区块链经济时代”。在全球. 范围内，会出现 ...... 例如BitProof 推出区块链学历认证项目。BitProof 是. 一家专门 ...",
+    "title" :"[PDF] 腾讯区块链方案白皮书 - 腾讯可信区块链TrustSQL",
+    },
+    {
+    "url" :"http://chainb.com/?P=Cont&id=20",
+    "abstract" :"2015年10月22日 - 然后，区块链技术正被使用在学校学历证书的认证. ... 的企业建立了合作关系，Bitproof是一家专注于使用区块链技术来提供文件认证的初创公司。",
+    "title" :"区块链技术帮助认证学历证书ChainB.com - 区块链•铅笔",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE",
+    "abstract" :"区块链是分布式数据存储、点对点传输、共识机制、加密算法等计算机技术的新型 ... 在2016年，俄罗斯联邦中央证券所（NSD）宣布了一个基于区块链技术的试点项目。 ... 比特币公司BTCC于2015年推出了一项服务“千年之链”即区块链刻字服务，就是采用的 .... 有趣的是，BitProof最近和一家旧金山的IT学校进行合作，把他们学生的学历 ...",
+    "title" :"区块链_百度百科",
+    },
+    {
+    "url" :"https://36kr.com/p/5053134.html",
+    "abstract" :"2016年9月19日 - 区块链+各种行业，让系统产生的信任变得比“中心化中介”产生的信任更加可 ... 桑坦德银行通过区块链应用推出支付，消费者可在一天完成国际支付，第二天进行清算。 ... BitProof通过区块链服务，把学生的学历证书颁布到区块链上，让文凭无法作假。 ... 2016年4月埃森哲发起了一个用区块链技术记录跟踪药物的项目。",
+    "title" :"区块链+：“无中介”驱动的世界_36氪",
+    },
+    {
+    "url" :"http://www.sohu.com/a/131236451_700316",
+    "abstract" :"2017年3月30日 - 美国纳斯达克率先推出基于区块链技术的证券交易平台Linq，成为金融证券 ... 在能源领域，国外企业已经启动能源区块链项目，比如：德国西门子与纽约 ... 医疗通过区块链技术来完成关于病历资料的认证以及病人的隐私保护（张波，2016）。 ..... 化的、可验证的、防篡改的存储系统，将学历证书存放在区块链数据库中， ...",
+    "title" :"区块链技术在教育领域的应用模式与现实挑战 - 搜狐",
+    },
+    {
+    "url" :"https://www.huobi.com/news/article_10190.html",
+    "abstract" :"2016年11月30日 - 第三方数字认证中使用区块链技术，是未来信用安全的大趋势。 ... 一，是它将在全国科技竞赛中率先推出基于区块链技术的第三方数字认证， .... 培训学校，该校宣布将利用比特币区块链技术向学生颁发学历证书。 ... Bitproof公司的创始人鲁信？ .... 建运营的产教融合3D-CPS数字化技术中高端应用型人才项目实训基地 ...",
+    "title" :"全国3D大赛首推“区块链”第三方数字认证_比特币自媒体-【火币网】",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/tech/l8na649.html",
+    "abstract" :"2016年11月30日 - 在第三方數字認證中使用區塊鏈技術，是未來信用安全的大趨勢。 ... 2016年7月5日，中央財經大學和世紀互聯共同啟動了區塊鏈合作項目，設立了國內第一個基於區塊鏈的校企 ... 培訓學校，該校宣布將利用比特幣區塊鏈技術向學生頒發學歷證書。 ... 2015年12月，第8屆全國3D大賽暨3D大會推出國內首個三維數字化 ...",
+    "title" :"全國3D大賽首推「區塊鏈」第三方數字認證- 每日頭條",
+    },
+    {
+    "url" :"http://www.8btc.com/bitproof-holberton-school",
+    "abstract" :"2015年10月22日 - 区块链技术不断在各领域亮相。 在教育领域，我们看到前段时间已经有不少大学开设了数字货币课程，其中包括斯坦福大学、麻省理工学院、普林斯顿 ...",
+    "title" :"学历造假不再可能！区块链公司Bitproof联手学校验证学历真实性| 巴比特",
+    },
+    {
+    "url" :"https://bitcointalk.org/index.php?topic=1218118.0;imode",
+    "abstract" :"为此，学校已与比特币新兴公司Bitproof专门在区块链文件认证合作。 新的区块链动力证书应 ... Holberton学校是为下一代软件工程师大学使用同步学习的项目方案。",
+    "title" :"[20151023]世界上首个学校通过比特币区块链颁发学历证书 - Bitcoin Talk",
+    "metadata" :"1 篇文章 - 1 位作者",
+    },
+    {
+    "url" :"http://www.books.com.tw/products/CN11353739",
+    "abstract" :"2016年6月1日 - 案例四：VISA與Docu Sign聯合推出區塊鏈汽車租賃項目95 區塊鏈在公共 ... 案例二：Stampery使用比特幣區塊鏈技術提供認證服務取代傳統公證人169 ... 案例四：Bitproof聯合學校驗證學歷真實性，讓學歷造假無處藏身172 區塊鏈在 ...",
+    "title" :"博客來-區塊鏈將如何重新定義世界",
+    },
+    ],
+######
+#Q_4_12 #:BitGive建设的捐赠平台
+######
+"Q_4_12": ["BitGive建设的捐赠平台",
+    {
+    "url" :"http://www.iyiou.com/p/43917",
+    "abstract" :"2017年4月24日 - 例如BitGive建设的捐赠平台。BitGive是一家非营利性电子货币慈善基金会，致力于将比特币及相关技术应用于慈善和人道主义工作中，促进慈善事业 ...",
+    "title" :"腾讯发布区块链方案白皮书，霸占BAT头把交椅_亿欧_产业创新服务平台",
+    },
+    {
+    "url" :"http://www.gooread.com/article/20121779825/",
+    "abstract" :"2017年4月25日 - 例如BitGive 建設的捐贈平台。BitGive 是一家非營利性電子貨幣慈善基金會，致力於將比特幣及相關技術應用於慈善和人道主義工作中，促進慈善 ...",
+    "title" :"騰訊區塊鏈方案白皮書：底層技術平台及五大場景解決方案- GOOREAD",
+    },
+    {
+    "url" :"https://trustsql.qq.com/chain_oss/TrustSQL_WhitePaper.html",
+    "abstract" :"发布：腾讯FiT（支付基础平台与金融应用线）、腾讯研究院. 编制：腾讯FiT、腾讯研究院、腾讯公共 ...... 例如BitGive 建设的捐赠平台。BitGive 是一家非营利. 性电子货币 ...",
+    "title" :"[PDF] 腾讯区块链方案白皮书 - 腾讯可信区块链TrustSQL",
+    },
+    {
+    "url" :"http://www.uuj5.com:35331/",
+    "abstract" :"例如BitGive 建设的捐赠平台。BitGive 是一家非营利性电子货币慈善基金会，致力于将比特币及相关技术应用于慈善和人道主义工作中，促进慈善事业发展。2015 ...",
+    "title" :"南国七星彩图规",
+    },
+    {
+    "url" :"http://weibo.com/ttarticle/p/show?id=2309404047609198160841&mod=zwenzhang",
+    "abstract" :"2016年11月30日 - 火币（huobi.com）－安全可信赖的区块链资产交易平台 ... 支付宝爱心捐赠平台上，经常有用户捐出几元到几百元不等的善款，捐款进入公益项目账户之后就无法追踪。 ... BitGive基金会，它将自己描述为世界上首个比特币非营利组织。 ... 政府力推并落实执行相关政策规章，有助公益透明之路建设，但这不是万能药，还 ...",
+    "title" :"如何避免更多的“罗一笑”捐款事件？区块链可能是答案！ - 微博",
+    },
+    {
+    "url" :"http://chainb.com/?P=mpost&id=191",
+    "abstract" :"2016年1月3日 - ... 成本会接近10美元，而数字货币却可将成本降得很低，成为跨国捐赠强有力的工具。 ... BitGive正在为2016年募集资金，准备建立一个透明捐助平台，这个 ... 经过一年多的建设，该学校期间收到了个人和公司捐款的帮助，包括美国的 ...",
+    "title" :"比特币回报社会：2015年慈善业的推动引擎-区块链•铅笔",
+    },
+    {
+    "url" :"http://findit.org.tw/upload/news/news_20170309035.pdf",
+    "abstract" :"2017年3月8日 - 料庫的同步問題，可說是一套整合跨領域技術的基礎建設. 何謂區塊鏈？ ..... CoinBase為美國第一家取得合法執照的比特幣交易平台，擁有良好的聲譽，也 ..... BitGive Foundation使用區塊鏈安全且透明的分佈式帳本，讓捐贈者看到預.",
+    "title" :"[PDF] PowerPoint 簡報 - FINDIT",
+    },
+    {
+    "url" :"http://www.csa.org.tw/downdoc/mag/105/105Q2.pdf",
+    "abstract" :"2016年1月6日 - 以金融科技建置金融生態圈，共享、共創資訊服務平台. 從AI 人工 ..... 證券公會季刊｜ 105 年第二季｜金融科技關鍵性的基礎建設. 9. 壹、證券商 ..... BitGive. 投保系統. Epac, Dynamis. 匯款系統. R3. 記名制. 電子投票 e-Residency ...",
+    "title" :"[PDF] 證券公會105年第二季刊 - 證券商業同業公會",
+    },
+    {
+    "url" :"http://btsabc.org/article-340-1.html",
+    "abstract" :"2015年12月23日 - 不仅公开透明的特性能够让捐赠流程变得更加便于管理，而且会极大的降低成本。 ... BitGive是支持慈善事业的另一家公司，其由Connie Gallippi于2013年创办，他们 ... 伙伴关系，其将是一个基于区块链技术的初步试点的“捐赠透明化平台”。 ... 上一篇：梁海明:借助区块链推动一带一路建设让中企走出国门下一篇：区块 ...",
+    "title" :"数字货币将开启跨国慈善新模式让小额捐款成为可能- 观点文摘- 比特股 ...",
+    },
+    {
+    "url" :"http://udn.yyuap.com/article-14309-1.html",
+    "abstract" :"2016年11月30日 - 数字彩色币能否让无形资产的捐赠成为现实，比如说知识产权？ ... 而这口水井，为500位无法访问水资源的肯尼亚人带来了希望，BitGive基金 ... 慈善互联网平台Segovia：从“CRM”入手 ... 中国银联建设基于区块链的可信电子凭证系统",
+    "title" :"区块链：慈善腐败的克星_U视野_UDN技术社区",
+    },
+    ],
+######
+#Q_4_8 #: Linq 区块链平台
+######
+"Q_4_8": [" Linq 区块链平台",
+    {
+    "url" :"http://www.8btc.com/linq",
+    "abstract" :"今日在纳斯达克全球总部的一场演示中，这家证券交易所运营商推出了一项服务，它能允许太阳能发电者通过纳斯达克Linq区块链平台，出售他们的能源证明。",
+    "title" :"LINQ | 巴比特 - 巴比特论坛",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/finance/o6k6b5.html",
+    "abstract" :"區塊鏈創業公司Chain已使用納斯達克的私募市場區塊鏈解決方案Linq，發行了該公司的股份。在聲明中，納斯達克稱Chain是第一家使用Linq技術來完成並記錄私募 ...",
+    "title" :"納斯達克區塊鏈平台Linq迎來首隻私募股票- 每日頭條",
+    },
+    {
+    "url" :"http://www.wanbizu.com/p/24977.html",
+    "abstract" :"用纳斯达克的Linq 平台，以数字化代表的形式将所有权记录在了一个私人的区块链上。纳斯达克也宣布了自己的区块链平台将在5月份闪亮登场。 2015年10月，纳斯达 ...",
+    "title" :"Linq区块链-玩币族",
+    },
+    {
+    "url" :"http://chainb.com/?P=Cont&id=43",
+    "abstract" :"2015年10月28日 - 翻译：暴走恭亲王在周二，拉斯维加斯举办的Money 20/20会议上，纳斯达克首席执行官Robert Greifeld将有史以来第一次演示Ling，一个管理私人 ...",
+    "title" :"福布斯：纳斯达克推出首个基于区块链的Linq平台，并宣布首批6个客户 ...",
+    },
+    {
+    "url" :"http://chainb.com/?P=Cont&id=97",
+    "abstract" :"2015年11月22日 - Linq将会是首个建立基于区块链技术起来的金融服务平台，能够展示如何在区块链技术上实现资产交易。这同样也是一个私人股权管理工具，作为纳 ...",
+    "title" :"详解纳斯达克基于区块链技术的私人股权市场Linq ChainB.com",
+    },
+    {
+    "url" :"https://read01.com/8z7aB.html",
+    "abstract" :"2016年1月5日 - Nadaq近日在其官方申明中宣布：其區塊鏈技術新項目Linq完成了第一筆私募 ... 通過Nasdaq區塊鏈技術搭建了向私人投資者發行股票的智能化平台。",
+    "title" :"Nasdaq推出區塊鏈產品Linq - 壹讀",
+    },
+    {
+    "url" :"https://www.huxiu.com/article/172936.html",
+    "abstract" :"2016年12月1日 - 其实在全球金融交易所的朋友圈里，区块链早已经刷屏了。美国Nasdaq交易所已经采用了区块链科技巨头Chain的技术，建立首个区块链平台Linq， ...",
+    "title" :"区块链技术到底能给股票交易带来多少改变？-虎嗅网",
+    },
+    {
+    "url" :"https://theinitium.com/article/20151231-dailynews-blockchain/",
+    "abstract" :"2015年12月31日 - 這筆交易由區塊鏈技術的開發商Chain.com 向一位私人投資者發行股票時使用。納斯達克在今年5月宣布將開發區塊鏈技術平台Linq，並未透露這筆 ...",
+    "title" :"納斯達克也開始用比特幣區塊鏈技術了| 端傳媒Initium Media",
+    },
+    {
+    "url" :"http://www.sohu.com/a/51780497_325319",
+    "abstract" :"2016年1月1日 - 区块链新兴公司Chain使用Nasdaq最近推出的私营市场区块链解决 ... 对于这项交易，Chain使用LINQ平台对其新的投资者发行公司所有权的记录， ...",
+    "title" :"Chain在Nasdaq区块链平台发布投资者股份 - 搜狐",
+    },
+    {
+    "url" :"http://www.bitcoin86.com/news/8825.html",
+    "abstract" :"2015年11月23日 - Linq是首个由已建立的金融服务公司推出的平台，它可以说明资产交易如何通过区块链平台的使用进行数字化管理。它是为私人公司股份所用的管理 ...",
+    "title" :"亲身实践纳斯达克私人市场区块链项目Linq - 比特币资讯网(Bitcoin86 ...",
+    },
+    ],
+######
+#Q_4_9 #: 对于租车利用区块链实现租车协议，保险等内容的时实更新，利用区块链，来实现滴滴的3.0,谁验证谁挖矿的方式
+######
+"Q_4_9": [" 对于租车利用区块链实现租车协议，保险等内容的时实更新，利用区块链，来实现滴滴的3.0,谁验证谁挖矿的方式",
+    {
+    "url" :"https://www.zhihu.com/question/43404157",
+    "abstract" :"这用传统的技术也能实现，为什么一定要用区块链技术呢？ ... 区块链技术的去中心化账本功能可以被用来创建、确认、转移各种不同类型的资产及合约。 ... 事务及事件信息传入智能合约后，合约资源集合中的资源状态会被更新，进而 ... （1）合约通过P2P的方式在区块链全网中扩散，每个节点都会收到一份；区块链中的验证节点会将收到 ...",
+    "title" :"为什么要用区块链技术实现智能合约？ - 知乎",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE",
+    "abstract" :"所谓共识机制是区块链系统中实现不同节点之间建立信任、获取权益的数学 ... 狭义来讲，区块链是一种按照时间顺序将数据区块以顺序相连的方式组合成的一种链式数据 ... 是利用块链式数据结构来验证与存储数据、利用分布式节点共识算法来生成和更新 .... 区块链3.0——DAO、DAC（区块链自洽组织、区块链自洽公司）-->区块链大 ...",
+    "title" :"区块链_百度百科",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/tech/aleyag.html",
+    "abstract" :"2016年7月28日 - 相信對於想要了解區塊鏈，又無專業技術和金融背景的普通人，本文會有所 ... 區塊鏈（Blockchain）是指通過去中心化和去信任的方式集體維護一個可靠資料 ... 目前就是誰的系統誰來記帳，微信的帳本就是騰訊在記，淘寶的帳本就是阿里在記。 ... 但是通過區塊鏈技術，比特幣是人類第一次實現在沒有任何中介機構參與 ...",
+    "title" :"通俗易懂：越來越火的「區塊鏈」到底是個什麼東西- 每日頭條",
+    },
+    {
+    "url" :"http://www.mingin.com/uploadfile/custom/10.pdf",
+    "abstract" :"2015年12月30日 - 部分高风险业态逐笔明细数据两个维度对包括互联网保险、消. 费金融在内的 ... 利用与上市公司交流的机会，大致地去了解了他们与P2P 合. 作的一些诉求， ... 的同时，比特币的支撑技术“区块链”受到了广泛关注。 ..... 域，绝对不是为了实现某个人的创业梦想，我们只 .... 的方面也非常之广，包括租车、租房、旅游等生活.",
+    "title" :"[PDF] 在线阅读 - 鸣金网",
+    },
+    {
+    "url" :"http://www.qingcao.com/1.asp?k=&Page=11",
+    "abstract" :"十大初创企业以最快的速度实现10亿美元以上投资退出， ... 当年他给滴滴投资了几十万，回报已超5000倍。2016年6月，滴滴宣布完成新一轮45亿美元融资，估值 ...",
+    "title" :"点击进入下一页 - 黄杰雷",
+    },
+    {
+    "url" :"http://www.compsys.ia.ac.cn/IINews/2016%E5%B9%B4%E7%AC%AC25%E6%9C%9F.pdf",
+    "abstract" :"2016年7月22日 - 【智慧社会】澳大利亚邮政局将引入区块链用于身份验证等系统改良....... 9 ... 【智能制造】数字化解决方案助力中国实现智能制造建造智能工厂. .... 【智慧社会】滴滴优步合并后或通过垄断大数据威胁国家信息安全. ... 【智能网络】用区块链实现物联网网络的去中心化. ..... 政府在这个过程中运用PPP 方式来购买企业的服务，这.",
+    "title" :"[PDF] 点击下载 - 复杂系统管理与控制国家重点实验室 - 中国科学院自动化研究所",
+    },
+    {
+    "url" :"https://gklin.com/tech-news",
+    "abstract" :"Computex 2017：ECS人臉辨識攝影機計算廣告人流的類別及播放適合的內容 · Computex 2017 ... Opera瀏覽器暫緩使用者較少的iOS版本更新將優先更新Android版本 · AMD遲來的 ..... GTC 2017： NVIDIA 講述Jetson 平台為何對於端末人工智慧相當重要 ...... 【區塊鏈新應用】對抗500億英鎊詐保，百萬顆鑽石交易終於實現全程紀錄.",
+    "title" :"科技焦點Tech - moc.NILKG",
+    },
+    {
+    "url" :"http://qibo.me/upload/news/news_20160614001.pdf",
+    "abstract" :"2016年6月24日 - 129. 10. 區塊鏈技術改變不動產市場的三條道路. .... 2016 年Q1 早期保險科技投資交易件數可望創新高. .... 募資者皆可利用此平台吸引世界各地出資者贊助，使目標能順利完成。 .... (2) 以國家別來看，籌資者多分布於美國，募資金額共35.2億台幣； ...... 年最大的創投投資交易項目，加上之前的募資，2015 年滴滴快的總.",
+    "title" :"[PDF] 全球早期資金趨勢觀測季報",
+    },
+    {
+    "url" :"http://protractile63.rssing.com/chan-52113664/all_p994.html",
+    "abstract" :"2017年3月13日 - 03/13/17--04:01: _【每日投融资速递】滴滴收购一九付，舞林. ... 03/13/17--04:49: _百年企业3M公司原来竟是挖矿的？ ... 然而公司挂牌后盈利状况并没有好转，2016年上半年其实现营业 ... 兼并重组以及利用资本市场再融资等方式，3年内将省再担保集团资本金增加到30亿元。 ...... 采用基于比特币区块链技术的方案。",
+    "title" :"994 - 36氪 - RSSing.com",
+    },
+    {
+    "url" :"http://www.osbaike.net/article-special-id-234503.html",
+    "abstract" :"投资区块链初创公司之前，投资人应该知道什么？ .... 【周末你可能错过的大事件】特斯拉：2017年将在夏威夷、台湾、韩国等地建超级充电站；腾讯推出第三代高性能机器 ...",
+    "title" :"完成千万美元的融资，依托于微信的千聊要实现知识付费领域的弯道超车 ...",
     },
     ],
 ######
@@ -245,8 +1289,8 @@ Q_dict = {
     {
     "url" :"https://bitcointalk.org/index.php?topic=826175.0",
     "abstract" :"目前在网上关于比特币的资料都局限于技术和应用层面，有关价格走势的分析是少之又少，其中由国人用 ... 那么就来谈谈比特币K线图的技术分析，其他都不谈，就只讲价格走势。 ... 图中X轴是价格，Y轴是量，bid=买单，ask=卖单。",
-    "title" :"新手应该如何看比特币K线图 - Bitcoin Talk",
     "metadata" :"2014年10月17日 - 21 篇文章 - 19 位作者",
+    "title" :"新手应该如何看比特币K线图 - Bitcoin Talk",
     },
     {
     "url" :"http://www.52qj.com/0/91/5226.html",
@@ -996,8 +2040,8 @@ Q_dict = {
     {
     "url" :"http://140.127.82.166/retrieve/23513/013.pdf",
     "abstract" :"本篇論文目標是藉由改善AODV路由協議來增加路徑的穩定性，本研究藉由路徑探. 索得到車輛相對速度、車輛密度等路由表資訊，並計算每一條路徑分數的方式來 ... 在傳遞的過程中路徑斷裂的問題，並提高封包投遞率以及降低端對端延遲時間，能 ... 要目的是降低延遲時間及增加鏈結穩定度，以下介紹本篇論文所使用之相關路由協議，.",
-    "title" :"基於AODV改善網路壅塞的路由",
     "metadata" :"由 陳柏諭 著作 - 2016 - 相關文章",
+    "title" :"基於AODV改善網路壅塞的路由",
     },
     {
     "url" :"http://baike.baidu.com/item/%E8%B7%AF%E7%94%B1%E5%8D%8F%E8%AE%AE",
@@ -1082,8 +2126,8 @@ Q_dict = {
     {
     "url" :"https://bitcointalk.org/index.php?topic=569211.0",
     "abstract" :"415虚拟货币（尤其比特币和莱特币）的巨大内幕，欢迎各位大牛品论. ... 这个时候，从平台内部游戏筹码的角度来看，比特币就是游戏币，怎么投币换更多的资产， ..... 国家不是说了中国不能做应用，请问作者怎么让他走入我们的生活？",
-    "title" :"415虚拟货币（尤其比特币和莱特币）的巨大内幕，欢迎各位大牛品论 ...",
     "metadata" :"2014年4月13日 - 27 篇文章 - 16 位作者",
+    "title" :"415虚拟货币（尤其比特币和莱特币）的巨大内幕，欢迎各位大牛品论 ...",
     },
     {
     "url" :"http://www.ruanyifeng.com/blog/2013/10/bitcoin.html",
@@ -1383,28 +2427,33 @@ Q_dict = {
     ],
 }
 keyword_list = [ 
-   " 哪些地区 比较适合 比特币挖矿",
-   " 比特币挖矿 有哪些种",
-   " 工作量证明 PoW ",
-   " 权益证明 PoS",
-   " 股份授权证明 Dpos",
-   " 使用拜占庭容错 PBFT",
-   " 全球GDP总量是多少",
-   " 全球人中分布是多少",
-   " Linq 区块链平台",
-   " 对于租车利用区块链实现租车协议，保险等内容的时实更新，利用区块链，来实现滴滴的3.0,谁验证谁挖矿的方式",
-   " BitProof 推出区块链学历认证项目",
-   "美国房地产区块链公司Ubitquity研发出适用于房地产行业的文件安全存储区块链平台",
-   "BitGive建设的捐赠平台",
-   "Corda 分布式帐本",
-   "微众银行",
-   "改进的bft-raft”共识算法",
-   "以太坊自治组织The DAO众筹资金被劫持事件",
-   "以及Bitfinex交易所比特币被盗事件",
-   "TrustSql",
-
+   "   网络",
+   "   联想",
+   "   本质",
+   "   排列组合",
+   "   意义",
+   "   费米计算",
+   "   迭代",
+   "   从心开始",
+   "   验证",
+   "   租",
+   "   优化",
+   "   外延",
+   "   合并",
+   "   健康",
+   "   推动",
+   "   有料",
+   "   奇点",
+   "   未来",
+   "   不确定",
+   "   高维",
+   "   随机",
+   "   分解",
+   "   抽象",
+   "   局部化",
+   "   是什么",
 ]
-meta_data = {"status":"mc","Major": 3,"Minor": 23,"Prefix": "Q"}
+meta_data = {"status":"hc","Major": 4,"Minor": 19,"Prefix": "Q"}
 km_0_title = "比特币"
 km_0_summary = ""
 km_1_tags = []

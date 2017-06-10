@@ -2,6 +2,118 @@
 
 Q_dict = { 
 ######
+#Q_4_1 #: 天主教 8次宗教战争
+######
+"Q_4_1": [" 天主教 8次宗教战争",
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E6%B3%95%E5%9B%BD%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89",
+    "abstract" :"跳至 第八次宗教戰爭（1584–1593） - 1585年–1598年──三亨利之戰：新教的盟友荷蘭人反抗西班牙的統治成為當時新教和天主教對抗的重要轉折點。",
+    "title" :"法國宗教戰爭- 維基百科，自由的百科全書 - Wikipedia",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E6%B3%95%E5%9B%BD%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89",
+    "abstract" :"跳至 第八次 - 各方首领分别是国王亨利三世、吉斯公爵亨利、波旁家族的亨利。1585年，吉斯公爵亨利取得西班牙国王腓力二世的支持，在南特重组天主教同盟， ...",
+    "title" :"法国宗教战争_百度百科",
+    },
+    {
+    "url" :"http://www.twword.com/wiki/%E6%B3%95%E5%9C%8B%E5%AE%97%E6%95%99%E6%88%B0%E7%88%AD",
+    "abstract" :"法國宗教戰爭（les Guerres de religion），又名胡格諾戰爭。16世紀40年代，加爾文教開始在法國 ... 連續八次的天主教和新教的激烈對抗，對十六世紀的法國造成了破壞。",
+    "title" :"法國宗教戰爭- 台灣Word",
+    },
+    {
+    "url" :"https://tw.answers.yahoo.com/question/index?qid=20071109000010KK00012",
+    "abstract" :"是發生在十六世紀法國連續八次的宗教戰爭，最終它對十六世紀的法國造成了破壞。 ... 1576年–1577年: 由吉斯家族領導的天主教神聖聯盟的組成，標誌第六次戰爭的 ...",
+    "title" :"法國宗教戰爭的起因與發生經過? | Yahoo奇摩知識+",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=gQwsAwAAQBAJ&pg=PT34&lpg=PT34&dq=%E5%A4%A9%E4%B8%BB%E6%95%99+8%E6%AC%A1%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89&source=bl&ots=NGkdj-ZoVC&sig=fEpznM59OYW5Nzj96lsaf1FGSVA&hl=zh-TW&sa=X&ved=0ahUKEwiUwIPT0bPUAhVDFZQKHTBLBTgQ6AEIPTAE",
+    "abstract" :"天主教以羅馬教廷為中心,權力集中于教宗身上;東正教以君士坦丁堡為中心, ... 的皇帝。1096年1291年,天主教以維護基督教為名,展開了8次宗教戰爭(十字軍東征)。",
+    "title" :"全世界的宗教文化:  - Google 圖書結果",
+    "metadata" :"暄軒 - 2006 - Religion",
+    },
+    {
+    "url" :"https://zh.mdzz.men/wiki/%E6%B3%95%E5%9B%BD%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89",
+    "abstract" :"跳至 第八次宗教战争（1584–1593） - 伊夫里之战是法国宗教战争中的一个重要战役；此役的胜利 ... 当时天主教徒已经和西班牙国王腓力二世联盟。1588年街垒 ...",
+    "title" :"法国宗教战争- 维基百科，自由的百科全书",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=EFE-BAAAQBAJ&pg=PT28&lpg=PT28&dq=%E5%A4%A9%E4%B8%BB%E6%95%99+8%E6%AC%A1%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89&source=bl&ots=cbDq3HyTrV&sig=7Arzj4mT-CNFulwSH1qnDB36KH4&hl=zh-TW&sa=X&ved=0ahUKEwiUwIPT0bPUAhVDFZQKHTBLBTgQ6AEISDAG",
+    "abstract" :"色路拉裏烏斯分裂 1054 年,經過色路拉裏烏斯分裂,基督教分化為公教(在中國稱天主教)和正教 維護基督教為名,展開了 8 次宗教戰爭(十字軍東征)。新教誕生 16 世紀, ...",
+    "title" :"全世界的宗教文化:  - Google 圖書結果",
+    },
+    {
+    "url" :"http://art.tze.cn/Refbook/book.aspx?bi=m.20071220-m300-w001-038&p=1&sv=010071&t=1&ks=&vs=&cs=&tb=&et=&cult=TW",
+    "abstract" :"歐洲宗教改革運動期間，法國的天主教會集團與胡格諾派之間的內戰。由于法國天主教會迫害新教徒，法國宗教改革家加爾文(Jean Calvin，1509... ·第一次宗教戰爭 ... 【戰爭時間】：1572—1573【介紹】： 天主教保王黨人于1572年8月24日制造圣巴托羅繆 ...",
+    "title" :"宗教戰爭",
+    },
+    {
+    "url" :"http://art.tze.cn/Refbook/entry.aspx?bi=m.20071220-m300-w001-038&ei=5EE15FC2740914DF324C4F6F4E234ACA9028936F18CA51EB39BB3F4E7D58C2DB5387E086CF3DA168&cult=CN",
+    "abstract" :"亦称三亨利之战(ThreeHenrys，War of the)，即法国国王亨利三世，纳瓦拉国王亨利和吉斯公爵亨利之间的战争。法王亨利三世因无子嗣，其王位继承问题与天主教派 ...",
+    "title" :"第八次宗教战争",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/history/z94n9a.html",
+    "abstract" :"2016年9月17日 - 基督教也一分為二，即西羅馬帝國信奉的天主教和拜占庭帝國信奉的東正教。 公元476年， ... 從此，關於基督教和伊斯蘭教的宗教戰爭在西亞和東歐大陸展開。 十字軍東征前後共8次，歷時200餘年，是一場曠日持久的拉鋸戰。導致了該 ...",
+    "title" :"蜀山筆俠剝歷史：「十字軍東征」——東西文化的大碰撞！ - 每日頭條",
+    },
+    ],
+######
+#Q_4_2 #: 为何三大宗教统治不了中国
+######
+"Q_4_2": [" 为何三大宗教统治不了中国",
+    {
+    "url" :"http://blog.creaders.net/u/798/201511/241436.html",
+    "abstract" :"2015年11月26日 - 过去写过为何基督教不仅不能统治中国还遭受到了义和团的杀戮。今天有必要详细解说历史上的产自中东的三大宗教（犹太教、基督教、伊斯兰教） ...",
+    "title" :"二论为何三大宗教统治不了中国- 万维读者网博客",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=SyuVDAAAQBAJ&pg=PA377&lpg=PA377&dq=%E4%B8%BA%E4%BD%95%E4%B8%89%E5%A4%A7%E5%AE%97%E6%95%99%E7%BB%9F%E6%B2%BB%E4%B8%8D%E4%BA%86%E4%B8%AD%E5%9B%BD&source=bl&ots=5bPo-RSIzx&sig=3z_XS5xpJPnm7jiUcH0EZ4GKQDg&hl=zh-TW&sa=X&ved=0ahUKEwiUoY_b0bPUAhVBkZQKHV21CVkQ6AEILDAB",
+    "abstract" :"网文《为何三大宗教统治不了中国》似是而非地指出:“基督教不仅不能统治中国还遭受到了义和团的杀戮。”因而产自中东的三大宗教(犹太教、基督教、伊斯兰教)统治 ...",
+    "title" :"The Christian China _____ - 第 377 頁 - Google 圖書結果",
+    "metadata" :"Xuanjun Xie",
+    },
+    {
+    "url" :"http://search.westca.com/News/view/id=1514509/%E4%BA%8C%E8%AE%BA%E4%B8%BA%E4%BD%95%E4%B8%89%E5%A4%A7%E5%AE%97%E6%95%99%E7%BB%9F%E6%B2%BB%E4%B8%8D%E4%BA%86%E4%B8%AD%E5%9B%BD/lang=schinese.html",
+    "abstract" :"2015年11月28日 - 新闻: 地区: 大温哥华 · 大多伦多 · 卡尔加里 · 渥太华地区 · 蒙特利尔 · 埃德蒙顿 · 纽约 ... 新闻: 二论为何三大宗教统治不了中国? | 时间: 2015-11-28 ...",
+    "title" :"二论为何三大宗教统治不了中国?",
+    },
+    {
+    "url" :"http://www.wenxuecity.com/blog/201511/1666/333616.html",
+    "abstract" :"2015年11月26日 - 过去写过为何基督教不仅不能统治中国还遭受到了义和团的杀戮。今天有必要详细解说历史上的产自中东的三大宗教（犹太教、基督教、伊斯兰教） ...",
+    "title" :"二论犹太教基督教伊斯兰教统治不了中国| www.wenxuecity.com",
+    },
+    {
+    "url" :"https://tw-book.com/3124/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%AA%A2%E9%A9%97%E5%AE%97%E6%95%99%E7%9A%84%E6%96%B9%E6%B3%95",
+    "abstract" :"2015年12月2日 - 然而，經濟發展水平與信神人數的比例關系規律不符合中國，因為中國人有現成的 ... 作者：潤濤閻 2015年11月27日/二論為何三大宗教統治不了中國.",
+    "title" :"中國人檢驗宗教的方法| 易樓書房",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/history/gkvnme.html",
+    "abstract" :"為什麼西方人會認為「儒教」是中國人信仰的宗教之一？ 2016-10-18 由 林欣浩的操場 ... 而教皇自己只統治一小塊土地，卻能對整個歐洲發號施令，這樣的權利結構也太奇怪了吧? ... 但基督教講人有原罪，光做好事沒用，你不信仰基督不受洗就進不了天堂。 .... 但事實上，雖然我們也有「儒教」的說法，但和西方人概念里的宗教大不一樣。",
+    "title" :"為什麼西方人會認為「儒教」是中國人信仰的宗教之一？ - 每日頭條",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/culture/qy63vy.html",
+    "abstract" :"2016年5月8日 - 作為封建統治者的左膀右臂，其在思想界占有極高的地位，也因此被 ... 為何儒學最終沒能發展成為正式的宗教呢？ ... 的生活中占了很大的比重，即使不信奉它的人也脫離不了它的影響。 ... 而且，這種誘惑要比宗教大得多，但基督教將其化作教義的一部分， ... 如果東漢時期傳入中國的是基督教而不是佛教，會怎樣？",
+    "title" :"為何儒學最終沒能發展成為正式的宗教呢？像佛教道教那樣！ - 每日頭條",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/20069080",
+    "abstract" :"道教与其他宗教相比，是什么原因使它日渐式微而不能成为当今世上又一大宗教？ 中国道教与印度教（包括佛教）、伊斯兰教、基督教天主教相比，是什么原因使他日渐式微， ... 徒11亿； 印度教徒8亿，佛教信徒3亿； 伊斯兰教产生于公元600年，信徒13亿] ...... 正是这种注重自然之道，包含万物之理的特性，满足不了统治者或当权者的政治 ...",
+    "title" :"道教与其他宗教相比，是什么原因使它日渐式微而不能成为当今世上又一 ...",
+    },
+    {
+    "url" :"http://www.jdjcc.org/jdjcc/archives/category/sxpl/page/30?am_force_theme_layout=desktop",
+    "abstract" :"因而产自中东的三大宗教（犹太教、基督教、伊斯兰教）统治不了中国。 《为何三大宗教统治不了中国》的作者说他有一个表伯，是一贯道的点传师，按理在镇压反革命时 ...",
+    "title" :"思想评论| 基督教中国",
+    },
+    {
+    "url" :"http://zyuan.edzx.com/zxdj/%E5%AE%8F%E9%81%93%E4%B9%A6%E5%AE%A4/e_book/%E7%A5%9E%E5%AD%B8%E8%AA%B2%E7%A8%8B%E8%AC%9B%E7%BE%A9(%E7%B9%81%E9%AB%94)/%E9%81%93%E5%AD%A6%E7%A1%95%E5%A3%AB/%E5%AE%97%E6%95%99%E6%AF%94%E8%BC%83.doc",
+    "abstract" :"3. 黎登奧 《殊途同歸？基督教與其他各大宗教之比較》，鄭華志譯。台北：中國主日 ..... 的「大能作為」，而這些作為的頂峰更見於耶穌基督在地上的事奉及天上的統治。",
+    "title" :"[DOC] 世界三大宗教",
+    },
+    ],
+######
 #Q_1_11 #:政治 经济 战争
 ######
 "Q_1_11": ["政治 经济 战争",
@@ -28,14 +140,14 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=sQHJCQAAQBAJ&pg=PT236&lpg=PT236&dq=%E6%94%BF%E6%B2%BB+%E7%BB%8F%E6%B5%8E+%E6%88%98%E4%BA%89&source=bl&ots=Eu2IHf7eLK&sig=vZNKQTa_107klqERtP2tskz87EA&hl=zh-TW&sa=X&ved=0ahUKEwjE0-iDiKfUAhWIq5QKHUwqD1gQ6AEIWjAI",
     "abstract" :"从宗教战争到(民族)国家间战争战争是人类的一项重大事务,古代如此,即便今天也是 ... (东方中华帝国除外)的战争,有着诸多政治、经济、民族、领土、权力等方面的原因, ...",
-    "title" :"政治宪法学纲要:  - Google 圖書結果",
     "metadata" :"高全喜 - 2015 - Constitutional law",
+    "title" :"政治宪法学纲要:  - Google 圖書結果",
     },
     {
     "url" :"https://books.google.com.hk/books?id=QdVvAgAAQBAJ&pg=PT76&lpg=PT76&dq=%E6%94%BF%E6%B2%BB+%E7%BB%8F%E6%B5%8E+%E6%88%98%E4%BA%89&source=bl&ots=hkj8ujLOFW&sig=7w9cLi7rPVwiv3TdJQTF2UfEbZM&hl=zh-TW&sa=X&ved=0ahUKEwjE0-iDiKfUAhWIq5QKHUwqD1gQ6AEIXzAJ",
     "abstract" :"战争的胜负,主要地决定于作战双方的军事、政治、经济、自然诸条件,这是没有问题的。然而不仅仅如此,还决定于作战双方主观指导的能力。军事家不能超过物质条件 ...",
-    "title" :"中国革命战争的战略问题:  - Google 圖書結果",
     "metadata" :"毛泽东 - 2013",
+    "title" :"中国革命战争的战略问题:  - Google 圖書結果",
     },
     ],
 ######
@@ -100,8 +212,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=g6LRDgAAQBAJ&pg=PT127&lpg=PT127&dq=%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2&source=bl&ots=Y0WXUk4i7B&sig=SrSkHPxCegTpua8jvXuUkIN87UA&hl=zh-TW&sa=X&ved=0ahUKEwjlo7SxyanUAhWEppQKHUw_AI4Q6AEINjAD",
     "abstract" :"文化發展:臺灣的文學、美術與音樂因日本教育的推行開始發展,出現優秀本土作家、 ... 基本題馬丁路德在1517年發動宗教改革,它陸續引發了那些歐洲重要的宗教戰爭?",
-    "metadata" :"千華數位文化, 陳書翊, [高普考╱地方特考] - 2017 - Education",
     "title" :"106年文化行政類專業科目(一)歷屆試題精闢新解【世界文化史(含概要)】: ",
+    "metadata" :"千華數位文化, 陳書翊, [高普考╱地方特考] - 2017 - Education",
     },
     {
     "url" :"https://kknews.cc/zh-hk/history/9a4q9j.html",
@@ -116,8 +228,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=FIbODAAAQBAJ&pg=PA18&lpg=PA18&dq=%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2&source=bl&ots=HtmBr9_NAO&sig=xskrjxiK4XRXFKPL9cirT6bIdpk&hl=zh-TW&sa=X&ved=0ahUKEwjlo7SxyanUAhWEppQKHUw_AI4Q6AEIRDAG",
     "abstract" :"拜占庭帝國阻擋了波斯人與回教徒的進逼,使中古西歐地區得以保全,並發展出其獨特 ... 民族國家的君主集君權及教權於一身,各君主立國教下所產生的宗教戰爭:30年 ...",
-    "metadata" :"千華數位文化, 邱燁, [導遊領隊人員] - 2016 - Education",
     "title" :"106年觀光資源概要(包括世界史地ˋ觀光資源維護)[華語ˋ外語領隊人員]",
+    "metadata" :"千華數位文化, 邱燁, [導遊領隊人員] - 2016 - Education",
     },
     {
     "url" :"http://rthk9.rthk.hk/elearning/travel/articles/13/f13_01_01_00_02.htm",
@@ -127,14 +239,14 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=KgnbBQAAQBAJ&pg=PA519&lpg=PA519&dq=%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2&source=bl&ots=H7Eo01eIbS&sig=xc2PNL-R_yVSKMazDKXqPnCFw90&hl=zh-TW&sa=X&ved=0ahUKEwjlo7SxyanUAhWEppQKHUw_AI4Q6AEIUDAI",
     "abstract" :"啟蒙運動 519 第八章啟蒙運動歐洲在 1618-1648 年之間的三十年戰爭之後,許多地方成為廢墟,人民厭倦宗教戰爭,開始嚮往宗教寬容。17 世紀是一個科學發展 ...",
-    "metadata" :"林鴻信 - 2013 - Christianity",
     "title" :"基督宗教思想史（下）:  - 第 519 頁 - Google 圖書結果",
+    "metadata" :"林鴻信 - 2013 - Christianity",
     },
     {
     "url" :"https://books.google.com.hk/books?id=FRtKIQlFpTQC&pg=PA189&lpg=PA189&dq=%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2&source=bl&ots=RZzMyFnXf4&sig=8zG0fipNx8NXGWidGlaliyPoBVY&hl=zh-TW&sa=X&ved=0ahUKEwjlo7SxyanUAhWEppQKHUw_AI4Q6AEIVTAJ",
     "abstract" :"其次,隨著宗教改革運動的開始,歐洲各國的人文主義史學比義大利的人文主義歷史學家更 ... 最後,在宗教改革中產生的民族主義以及地理大發現帶來的資本主義因素的進一步發展,使後期的 ... 從 1337 年到 1453 年,英法之間進行了長期的「百年戰爭」。",
-    "metadata" :"杨豫 - 2000 - Europe",
     "title" :"西洋史學史 - 第 189 頁 - Google 圖書結果",
+    "metadata" :"杨豫 - 2000 - Europe",
     },
     ],
 ######
@@ -159,8 +271,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=el7tCgAAQBAJ&pg=PT49&lpg=PT49&dq=%E6%B0%91%E6%97%8F%E5%BD%A2%E6%88%90%E5%8E%9F%E5%9B%A0&source=bl&ots=269GcR7p8y&sig=egkfDKSFduFgr7e4FKKPZNyqmbo&hl=zh-TW&sa=X&ved=0ahUKEwiBz9i1yanUAhWBPJQKHRjmAX8Q6AEIRzAF",
     "abstract" :"如果再不留心提倡民族主义,结合四万万人成一个坚固的民族,中国便有亡国灭种之 ... [5]分析民族形成的原因时,孙 中山提出:“造成这种民族的原因,概括的说是自然力, ...",
-    "metadata" :"刘仁坤 - 2012 - History",
     "title" :"《三民主义》导读 - Google 圖書結果",
+    "metadata" :"刘仁坤 - 2012 - History",
     },
     {
     "url" :"http://xing.glyx.cn/traffic/1215.shtml",
@@ -170,20 +282,20 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=DpUkCwAAQBAJ&pg=PA77&lpg=PA77&dq=%E6%B0%91%E6%97%8F%E5%BD%A2%E6%88%90%E5%8E%9F%E5%9B%A0&source=bl&ots=Z2uvglKSOF&sig=OEP3ao9MIhVlirmslYbFPOxtvuM&hl=zh-TW&sa=X&ved=0ahUKEwiBz9i1yanUAhWBPJQKHRjmAX8Q6AEIUTAH",
     "abstract" :"經過長期的分化、融合和發展變化,最終形成今天漢族和 55 個少數民族並存的局面。 ... 由於歷史的、現實的和民族自身形成發展中的原因,各種特徵具體 二、民俗 1 ...",
-    "metadata" :"李興榮, 吳勇, 馬建剛 - 2015",
     "title" :"導遊基礎知識 - 第 77 頁 - Google 圖書結果",
+    "metadata" :"李興榮, 吳勇, 馬建剛 - 2015",
     },
     {
     "url" :"https://books.google.com.hk/books?id=FtVTDQAAQBAJ&pg=PT276&lpg=PT276&dq=%E6%B0%91%E6%97%8F%E5%BD%A2%E6%88%90%E5%8E%9F%E5%9B%A0&source=bl&ots=ipQIdAlVzl&sig=RugpmK6qQ3I_-0X9FflsJHSTwds&hl=zh-TW&sa=X&ved=0ahUKEwiBz9i1yanUAhWBPJQKHRjmAX8Q6AEIWDAI",
     "abstract" :"金冲及谈到中华民族形成的原因时认为,水资源是中华民族形成的客观条件。马克思把东方文明概括为以“农耕文明”为特征的“亚细亚生产方式”。美国学者卡尔∙魏特夫 ...",
-    "metadata" :"中国财政学会编, 胡博 - 2011 - Business & Economics",
     "title" :"第十八次全国财政理论讨论会文选 - Google 圖書結果",
+    "metadata" :"中国财政学会编, 胡博 - 2011 - Business & Economics",
     },
     {
     "url" :"https://books.google.com.hk/books?id=vR5smxTLY84C&pg=PR6&lpg=PR6&dq=%E6%B0%91%E6%97%8F%E5%BD%A2%E6%88%90%E5%8E%9F%E5%9B%A0&source=bl&ots=qXEVqB1NlT&sig=uq_ATn6FStWM69AObm0JZSXKS4I&hl=zh-TW&sa=X&ved=0ahUKEwiBz9i1yanUAhWBPJQKHRjmAX8Q6AEIXTAJ",
     "abstract" :"少数民族聚居地区现代化追赶的有利条件与不利因素是什么?少数民族聚居地区传统现代化追赶战略的基本特征、形成原因及其影响后果是什么?解决少数民族聚居 ...",
-    "metadata" :"温军 - 2004 - China",
     "title" :"民族与发展: 新的现代化追赶战略 - 第 vi 頁 - Google 圖書結果",
+    "metadata" :"温军 - 2004 - China",
     },
     ],
 ######
@@ -248,20 +360,20 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=kZCn3rKf21wC&pg=PA70&lpg=PA70&dq=%E6%88%98%E4%BA%89%E8%A7%82&source=bl&ots=ePzFSnOY4W&sig=OMD8lRQRSw-zfMNcNuYu73p3A9k&hl=zh-TW&sa=X&ved=0ahUKEwjw8qjCyanUAhXCKpQKHUlSDe4Q6AEIOjAE",
     "abstract" :"术发展日新月异,但它对我军打赢高技术条件下的局部战争,仍具有普遍的指导意义。 ... 主要包括无产阶级的战争观和方法论、人民军队建设理论、人民战争思想、人民 ...",
-    "metadata" :"2002 - China",
     "title" :"军事理论教程 - 第 70 頁 - Google 圖書結果",
+    "metadata" :"2002 - China",
     },
     {
     "url" :"https://books.google.com.hk/books?id=f6NsAgAAQBAJ&pg=PT74&lpg=PT74&dq=%E6%88%98%E4%BA%89%E8%A7%82&source=bl&ots=gw5lcOZtqo&sig=bBMUA3c4n2OSRK5NyO67u1mQCYM&hl=zh-TW&sa=X&ved=0ahUKEwjw8qjCyanUAhXCKpQKHUlSDe4Q6AEIPjAF",
     "abstract" :"十分明显,这一战争观的基础在于政治上的清明和经济上的稳定,这两个条件自东汉中期以后则逐渐被破坏殆尽。政治上因外戚与宦官轮流专政和惨烈的“党锢”之祸而 ...",
-    "metadata" :"2013",
     "title" :"中国古代军事思想史:  - Google 圖書結果",
+    "metadata" :"2013",
     },
     {
     "url" :"http://www.hprc.org.cn/pdf/JLSY199301009.pdf",
     "abstract" :"在现实政治层面上, 儒家战争观分化为孔子所代表的, 以”礼. 制”. 为核心丫以及孟子为代表的以“ 民本”. 为核心两条不伺的支脉。 ,. 儒家战争思想在传统文. 化中占有无可 ...",
-    "metadata" :"由 倪乐雄 著作 - 被引用 9 次 - 相關文章",
     "title" :"[PDF] 儒家战争观及其历史命运 - 中华人民共和国国史网",
+    "metadata" :"由 倪乐雄 著作 - 被引用 9 次 - 相關文章",
     },
     {
     "url" :"http://www.wujhss.whu.edu.cn/e/public/DownFile/?id=1739&classid=13",
@@ -351,8 +463,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=jkdUDQAAQBAJ&pg=PT147&lpg=PT147&dq=%E6%B0%91%E6%97%8F+%E6%88%98%E4%BA%89&source=bl&ots=up0WHeSMu1&sig=1GR8h4E0AC-0AmQzxI-IIw5PIW8&hl=zh-TW&sa=X&ved=0ahUKEwjAtrS5yanUAhWMJZQKHbl7AO0Q6AEIUjAH",
     "abstract" :"隋朝时,包头一带发生多次汉族与突厥的民族战争,严重削弱了双方实力。直至唐朝初年,依然国力不足。尽管如此,唐与突厥依然发生三次战争,但这一时代的主流是和平 ...",
-    "metadata" :"李建中, 卢关平 - 2012 - Business & Economics",
     "title" :"民族经济全面转型发展战略研究 - Google 圖書結果",
+    "metadata" :"李建中, 卢关平 - 2012 - Business & Economics",
     },
     {
     "url" :"https://www.zhihu.com/question/21553432",
@@ -372,8 +484,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=UnnxJeFq0hcC&pg=PA311&lpg=PA311&dq=%E6%88%98%E4%BA%89+%E6%9C%89%E5%A4%9A%E5%B0%91%E7%A7%8D&source=bl&ots=4Jd_8fF4tw&sig=3DYiE5E7-ae-PtjtyfdKQITlRjE&hl=zh-TW&sa=X&ved=0ahUKEwiDr8e-yanUAhUBoZQKHfXuABkQ6AEIYTAN",
     "abstract" :"三、国际犯罪的种类在现有的国际刑法规范中究竟有多少种国际犯罪? ... 侵略战争或违反国际条约、协定或保护之战争,或者参与为实现任何上述行为的共同计划或 ...",
-    "metadata" :"2006 - International law",
     "title" :"国际法 - 第 311 頁 - Google 圖書結果",
+    "metadata" :"2006 - International law",
     },
     ],
 ######
@@ -442,6 +554,61 @@ Q_dict = {
     },
     ],
 ######
+#Q_4_0 #: 法国 胡格诺战争
+######
+"Q_4_0": [" 法国 胡格诺战争",
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E6%B3%95%E5%9B%BD%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89",
+    "abstract" :"法國宗教戰爭（法語：Guerres de religion），又名胡格諾戰爭，是發生在16世紀法國連續八次的宗教戰爭，對當時的法國造成了嚴重的破壞。",
+    "title" :"法國宗教戰爭- 維基百科，自由的百科全書 - Wikipedia",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E8%83%A1%E6%A0%BC%E8%AF%BA%E6%88%98%E4%BA%89",
+    "abstract" :"法国宗教战争（les Guerres de religion）（1562—1598年，一说1559—1594年），又名胡格诺战争/雨格诺战争。16世纪40年代，加尔文教开始在法国传播，称为胡格诺 ...",
+    "title" :"胡格诺战争 - 百度百科",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E8%83%A1%E6%A0%BC%E8%AF%BA%E6%B4%BE",
+    "abstract" :"胡格诺派（法语：Huguenot法语读音：[yɡno]），又译雨格诺派、休京诺派 ... 该派反对国王专政，曾于1562～1598年间与法国天主教派发生胡格诺战争，后因南特敕令而 ...",
+    "title" :"胡格诺派_百度百科",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/29598441",
+    "abstract" :"如题，当年各种新教思维崛起，法国有胡格诺派，并且还为这个打了很久的胡格诺战争。最后为了法国凝聚或统一，胡格诺派的领头人路易还是亨利（记不清名字了）与 ...",
+    "title" :"法国在胡格诺战争后为什么还是天主教国家？ - 知乎",
+    },
+    {
+    "url" :"http://www.lucifer.tw/swords/fwar/units/in2.htm",
+    "abstract" :"這場戰爭使正在上升的王權面臨崩潰，貴族分裂勢力有所抬頭。這場戰爭是法國歷史上的一段無政府狀態時期，戰爭的結果是天主教、胡格諾教派各有所得，有助于王權 ...",
+    "title" :"胡格諾戰爭",
+    },
+    {
+    "url" :"http://military.china.com/history4/62/20140703/18606294.html",
+    "abstract" :"2014年7月3日 - 百年战争的结果，是使一个似乎日暮西山的王国东山再起，法兰西办理了英国人的问题，但他们离真正统一还有一段隔断，因为中心贵族的力量还很 ...",
+    "title" :"法国的胡格诺战争：天主教与基督新教的百年战争史_军事_中华网",
+    },
+    {
+    "url" :"http://www.twword.com/wiki/%E8%83%A1%E6%A0%BC%E8%AB%BE%E6%B4%BE",
+    "abstract" :"胡格諾派（法語：Huguenot法語讀音:[yɡno]），又譯雨格諾派、休京諾派，16～17 ... 該派反對國王專政，曾於1562～1598年間與法國天主教派發生胡格諾戰爭，后因南 ...",
+    "title" :"胡格諾派- 台灣Word",
+    },
+    {
+    "url" :"http://www.ylib.com/hotsale/dumas/margot_01.htm",
+    "abstract" :"《瑪歌王后》寫的是十六世紀法國胡格諾戰爭期間宮廷中發生的一系列事情。 胡格諾戰爭是法國胡格諾派與天主教派的內戰。十六世紀初，天主教是法國國教，教會實際 ...",
+    "title" :"法國浪漫主義文豪    大仲馬",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/culture/nnng88.html",
+    "abstract" :"2014年7月3日 - 新教徒當即進行抵拒，孔代率兵占據奧爾良，宗教戰爭爆發，被稱為「胡格諾戰爭」。兩邊的血腥廝殺進行了30年，時代釀造了無數的鮮血與亡魂。",
+    "title" :"法國的胡格諾戰爭：天主教與基督新教的百年戰爭史- 每日頭條",
+    },
+    {
+    "url" :"https://read01.com/zE7z7B.html",
+    "abstract" :"2016年6月21日 - 這裡所說的宗教指的就是雨格諾或胡格諾教派、在十六世紀四十年代，胡格諾加爾文教派在法國傳播，這引發了信奉胡格諾派的南方新貴族和有分裂 ...",
+    "title" :"法國宗教戰爭的簡介法國宗教戰爭背景是什麼 - 壹讀",
+    },
+    ],
+######
 #Q_3_2 #:战争性质
 ######
 "Q_3_2": ["战争性质",
@@ -488,14 +655,14 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=f6NsAgAAQBAJ&pg=PT20&lpg=PT20&dq=%E6%88%98%E4%BA%89%E6%80%A7%E8%B4%A8&source=bl&ots=gw5leL0uon&sig=CMvjy9sF8Jvfbq3m0esnvfFpvv4&hl=zh-TW&sa=X&ved=0ahUKEwjmivakzq7UAhWMn5QKHS55BZcQ6AEIYTAI",
     "abstract" :"(一)“安国全军”——兵家的抉择兵家是先秦军事思想的主要代表,战争观是其整个学说体系中的重要组成部分。举凡战争观的基本范畴,如战争的起源、战争的性质、战争 ...",
-    "title" :"中国古代军事思想史:  - Google 圖書結果",
     "metadata" :"2013",
+    "title" :"中国古代军事思想史:  - Google 圖書結果",
     },
     {
     "url" :"https://books.google.com.hk/books?id=sQHJCQAAQBAJ&pg=PT242&lpg=PT242&dq=%E6%88%98%E4%BA%89%E6%80%A7%E8%B4%A8&source=bl&ots=Eu2IKb78JI&sig=DOABBIzK80TEnqegXc65K-royP8&hl=zh-TW&sa=X&ved=0ahUKEwjmivakzq7UAhWMn5QKHS55BZcQ6AEIZTAJ",
     "abstract" :"后格劳秀斯时代的战争与和平沿着威斯特伐利亚和约的路径,其性质又发生了一次重大的变化,即从民族国家之间的塑造世界格局的战争,转变为人民的战争。人民而 ...",
-    "title" :"政治宪法学纲要:  - Google 圖書結果",
     "metadata" :"高全喜 - 2015 - Constitutional law",
+    "title" :"政治宪法学纲要:  - Google 圖書結果",
     },
     ],
 ######
@@ -525,8 +692,8 @@ Q_dict = {
     {
     "url" :"http://bbs.tiexue.net/post2_6651610_1.html",
     "abstract" :"马克思主义毛泽东思想战争观认为，战争是社会现象，产生战争的根源，是人类社会生产资料私有制的产生，由此形成阶级、国家，和对抗性的政治 ...",
-    "title" :"战争的动因是什么？ – 铁血网",
     "metadata" :"2013年4月7日 - 2 篇文章 - 1 位作者",
+    "title" :"战争的动因是什么？ – 铁血网",
     },
     {
     "url" :"https://www.douban.com/note/544598606/",
@@ -551,8 +718,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=7KGshZdWrQcC&pg=PA175&lpg=PA175&dq=%E6%88%98%E4%BA%89%E5%8A%A8%E5%9B%A0&source=bl&ots=3WsFxomVzv&sig=CGuu0ZL6AU-MFIOgjRiBUdwdBq4&hl=zh-TW&sa=X&ved=0ahUKEwjP9_ibzq7UAhUBL5QKHZCtA2oQ6AEIWjAJ",
     "abstract" :"部战争研究成果的集中体现,论及范围十分广泛,主要包括:关于高技术局部战争的概念 ... 国际战略格局的多极化趋势是引发高技术局部战争的重要动因,国际经济的日益 ...",
-    "title" :"20世纪中国学术大典: 军事科学 - 第 175 頁 - Google 圖書結果",
     "metadata" :"2002 - Learning and scholarship",
+    "title" :"20世纪中国学术大典: 军事科学 - 第 175 頁 - Google 圖書結果",
     },
     ],
 ######
@@ -574,7 +741,6 @@ Q_dict = {
     "abstract" :"基督教、伊斯兰教、佛教并称为世界三大宗教。此三种宗教之所以能 ... 1096年～1291年，天主教以维护基督教为名，展开了8次宗教战争（十字军东征）。 16世纪以后， ...",
     "title" :"世界三大宗教_百度百科",
     },
-    
     {
     "url" :"https://www.gotquestions.org/T-Chinese/T-Chinese-religion-war.html",
     "abstract" :"法國的宗教戰爭——16世紀期間，在法國，天主教和新教胡格諾派教徒之間一連串的 ... 你們求也得不著，是因為你們妄求，要浪費在你們的宴樂中”(雅各書4:1-3)。",
@@ -583,8 +749,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=SyuVDAAAQBAJ&pg=PA377&lpg=PA377&dq=%E4%B8%89%E5%A4%A7+%E5%AE%97%E6%95%99%E6%88%98%E4%BA%89&source=bl&ots=5bPn7TZLuy&sig=Q2irNwG_Ok0Wjoqhvv67rJmBggg&hl=zh-TW&sa=X&ved=0ahUKEwii8qCWzq7UAhUQv5QKHfuTAO4Q6AEISTAG",
     "abstract" :"网文《为何三大宗教统治不了中国》似是而非地指出:“基督教不仅不能统治中国还遭受 ... 五十章基督教可以统治中国 产党目前在中国强拆教堂,就是这种宗教战争的最新 ...",
-    "title" :"The Christian China _____ - 第 377 頁 - Google 圖書結果",
     "metadata" :"Xuanjun Xie",
+    "title" :"The Christian China _____ - 第 377 頁 - Google 圖書結果",
     },
     ],
 ######
@@ -609,8 +775,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=6DbQAgAAQBAJ&pg=PT112&lpg=PT112&dq=%E8%A6%81%E4%B8%8D%E8%A6%81%E7%BB%99%E5%AD%A9%E5%AD%90%E8%AE%B2%E6%88%98%E4%BA%89%E5%8F%B2&source=bl&ots=vluOeIyty7&sig=yTNlJ0atOZRGgohgSIOpNYs3Rsc&hl=zh-TW&sa=X&ved=0ahUKEwiUz5j8yanUAhWBtZQKHQg8C1YQ6AEIQzAE",
     "abstract" :"逼着他们把孩子扔进水池里淹死 o 抛入水池中的孩子从水里冒出来想往岸上爬, ... 硬逼着孩子的父母给孩子注射毒药致死 o 日本历史研究会编的《太平洋战争史》中还 ...",
-    "metadata" :"李飚 主编 - 2014",
     "title" :"第二次世界大战史丛书·血海翻腾:  - Google 圖書結果",
+    "metadata" :"李飚 主编 - 2014",
     },
     {
     "url" :"https://read01.com/a6jA3A.html",
@@ -690,20 +856,20 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=MohTDQAAQBAJ&pg=PT197&lpg=PT197&dq=%E7%9F%9B%E7%9B%BE%E7%9A%84%E7%BB%88%E6%9E%81+%E6%88%96%E8%80%85%E5%8D%87%E7%BA%A7&source=bl&ots=8-JJg2U7WN&sig=LL_O5pkdAiLJ-iffu_kAOsnHp3M&hl=zh-TW&sa=X&ved=0ahUKEwjI5tLpyanUAhUDjpQKHXjLC8gQ6AEISzAH",
     "abstract" :"追求帕累托最优是任何一种经济行为或政府活动的终极目标,财政社会保障管理也不 ... 观决定了财政分配同样要首先保证经济增长,在此基础上再平衡各种社会矛盾。 ... 属于资源依赖型,粗放发展、重复建设、低水平重复,已经严重制约产业结构升级。",
-    "metadata" :"牛向东, 于一贫, 刘朝 - 2010 - Business & Economics",
     "title" :"财政风险与控制 - Google 圖書結果",
+    "metadata" :"牛向东, 于一贫, 刘朝 - 2010 - Business & Economics",
     },
     {
     "url" :"https://books.google.com.hk/books?id=cG4_zQPYaAwC&pg=PA328&lpg=PA328&dq=%E7%9F%9B%E7%9B%BE%E7%9A%84%E7%BB%88%E6%9E%81+%E6%88%96%E8%80%85%E5%8D%87%E7%BA%A7&source=bl&ots=1h1KIMMwQ6&sig=hygncJJwpQLMUB_igXDxGdBBsvY&hl=zh-TW&sa=X&ved=0ahUKEwjI5tLpyanUAhUDjpQKHXjLC8gQ6AEIUjAI",
     "abstract" :"如何减少大规模影响业务的设备升级和网络扩容,在网络建设初期就消除安全隐患已成为建设新网络必须面对的问题。 ... 所有这些矛盾,都要求或者对现 ... 基于这样的目标,新网络的网络建设指导思想是:采用主流成熟技术,综合考虑初期和终极发展容量 ...",
-    "metadata" :"朗讯科技(中国)有限公司 - 2003",
     "title" :"光传输技术 - 第 328 頁 - Google 圖書結果",
+    "metadata" :"朗讯科技(中国)有限公司 - 2003",
     },
     {
     "url" :"https://books.google.com.hk/books?id=5FIsAwAAQBAJ&pg=PA5&lpg=PA5&dq=%E7%9F%9B%E7%9B%BE%E7%9A%84%E7%BB%88%E6%9E%81+%E6%88%96%E8%80%85%E5%8D%87%E7%BA%A7&source=bl&ots=UTHUQExB9r&sig=ACRYQnE8ha9_KWqxGVpWozONmnc&hl=zh-TW&sa=X&ved=0ahUKEwjI5tLpyanUAhUDjpQKHXjLC8gQ6AEIVzAJ",
     "abstract" :"元老院一處的逮捕或者放逐——那時的標準程式——並不能消除對國家的威脅。 ... 處死羅馬公民的人,儘管西塞羅仍享有前 63 年元老院終極議決授予給他的豁免權。 ... 當龐貝和愷撒的矛盾日漸升級之時,西塞羅傾向支持龐貝但他努力避免與愷撒為敵。",
-    "metadata" :"對著窗外發呆 - 2012 - Travel",
     "title" :"全心投入做大事:  - 第 5 頁 - Google 圖書結果",
+    "metadata" :"對著窗外發呆 - 2012 - Travel",
     },
     ],
 ######
@@ -788,8 +954,8 @@ Q_dict = {
     {
     "url" :"https://forum.gamer.com.tw/C.php?bsn=60318&snA=248",
     "abstract" :"因為ddmmokjmd大大建議我重貼此處，希望各位巴友能為我解惑人類因該算是鬥爭性非常高的一種生物吧? 在人類的歷史上，不斷出現過各種戰爭， ...",
-    "title" :"【問題】戰爭的好處? @中華歷史相關遊戲哈啦板- 巴哈姆特",
     "metadata" :"2006年12月19日 - 20 篇文章 - 16 位作者",
+    "title" :"【問題】戰爭的好處? @中華歷史相關遊戲哈啦板- 巴哈姆特",
     },
     {
     "url" :"http://www.chinadmd.com/search.do?nkey=%E6%88%98%E4%BA%89%E7%9A%84%E5%A5%BD%E5%A4%84%E5%92%8C%E5%9D%8F%E5%A4%84",
@@ -1034,8 +1200,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=OcF8CwAAQBAJ&pg=PA123&lpg=PA123&dq=%E6%88%98%E4%BA%89%E7%9A%84%E8%B5%B7%E6%BA%90&source=bl&ots=OcaGPxjW1q&sig=0EgqdFLFkh416WU-m8h1Jur5WWc&hl=zh-TW&sa=X&ved=0ahUKEwjKqKLBh6fUAhUHbrwKHbILBIsQ6AEIWzAH",
     "abstract" :"... 的扩大化遥反恐战争进入第三阶段袁即所谓的野帝国冶阶段要要反恐与反大规模杀伤性武器扩散尧确保美国本土安全与地区和平混为一谈噎噎人类对战争的起源曾 ...",
-    "title" :"战魂: 从历史透析未来战争:  - 第 123 頁 - Google 圖書結果",
     "metadata" :"王义桅 - 2017 - Military history, Modern",
+    "title" :"战魂: 从历史透析未来战争:  - 第 123 頁 - Google 圖書結果",
     },
     {
     "url" :"https://book.douban.com/subject/26769553/",
@@ -1115,11 +1281,33 @@ Q_dict = {
     ],
 }
 keyword_list = [ 
-   " 法国 胡格诺战争",
-   " 天主教 8次宗教战争",
-   " 为何三大宗教统治不了中国",
+   "   拓扑",
+   "   联接",
+   "   本质",
+   "   计算复杂度:常，对，线，平，立，指，阶",
+   "   意义",
+   "   度量",
+   "   增长",
+   "   启始",
+   "   批判",
+   "   选择",
+   "   优化",
+   "   近同反",
+   "   合并",
+   "   生老病死",
+   "   并行",
+   "   故事",
+   "   奇点",
+   "   未来",
+   "   混沌",
+   "   分层模块化",
+   "   随机",
+   "   分类",
+   "   建模",
+   "   很感谢你能能来，不遗憾你离开",
+   "   哪些人",
 ]
-meta_data = {"status":"mc","Major": 3,"Minor": 3,"Prefix": "Q"}
+meta_data = {"status":"hc","Major": 4,"Minor": 3,"Prefix": "Q"}
 km_0_title = "战争"
 km_0_summary = "ummary_tp"
 km_1_tags = []
