@@ -2,6 +2,64 @@
 
 Q_dict = { 
 ######
+#Q_2_0 #:万亿市值意味着什么
+######
+"Q_2_0": ["万亿市值意味着什么",
+    {
+    "url" :"http://news.xinhuanet.com/fortune/2007-08/04/content_6471432.htm",
+    "abstract" :"2007年8月4日 - 2007年8月3日，中国A股市场总市值达到20.31万亿元，创历史新高。20万亿市值，究竟意味着什么？ 其一，对中国资本市场而言，20万亿意味着发展 ...",
+    "title" :"沪深股市20万亿市值意味着什么 - 新华网",
+    },
+    {
+    "url" :"http://news.xinhuanet.com/newscenter/2007-08/08/content_6490840.htm",
+    "abstract" :"2007年8月8日 - 近日，沪深股指连创新高，总市值亦快速增长。继8月3日突破20万亿元大关之后，沪深总市值继续强势增长。截至8月6日，沪深股市总值已达20．68 ...",
+    "title" :"沪深股市总市值强势增长20万亿元意味着什么? - 新华网",
+    },
+    {
+    "url" :"http://finance.sina.com.cn/stock/t/20070805/06443852403.shtml",
+    "abstract" :"2007年8月5日 - 荆楚网消息(楚天金报) 2007年8月3日，中国A股市场总市值超过20万亿元，创历史新高。20万亿市值，究竟意味着什么？ 其一，对中国资本市场而 ...",
+    "title" :"20万亿市值意味着什么_焦点透视_新浪财经_新浪网",
+    },
+    {
+    "url" :"http://www.sohu.com/a/126892270_534683",
+    "abstract" :"2017年2月21日 - 【房产】重提万亿市值，万科告诉你什么叫资本运作 .... 短租禁令，规定房屋出租30天以下将被视为非法，意味着Airbnb的短租模式在纽约州成为非法。",
+    "title" :"【房产】重提万亿市值，万科告诉你什么叫资本运作 - 搜狐",
+    },
+    {
+    "url" :"http://ido.3mt.com.cn/Article/200708/show797335c30p1.html",
+    "abstract" :"2007年8月6日 - 20万亿市值意味着什么？ http://www.chinareviewnews.com 2007-08-06 07:26:06 对中国资本市场而言，20万亿意味着发展迈上新台阶",
+    "title" :"中国：20万亿市值对于世界意味着什么？ 中国工商银行市值跃居全球第 ...",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=dj9UDQAAQBAJ&pg=PT315&lpg=PT315&dq=%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&source=bl&ots=ZkhQvxK_B1&sig=70bCdpIJq2k4pfIoHw-LwAEiRgQ&hl=zh-TW&sa=X&ved=0ahUKEwi_nLjf0bPUAhXJoJQKHVRdDyAQ6AEISDAF",
+    "abstract" :"8万亿市值蒸发对消费意味着什么朱啸波今年以来,股市一蹶不振,上证综指从5200多点一路下探到 3600点以下,跌幅高达30%以上,沪深两市市值很快蒸发掉8万亿元, ...",
+    "title" :"记者眼中的中国财政 - Google 圖書結果",
+    "metadata" :"中国财经报社编, 冯忠贵 - 2008 - Business & Economics",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=Q3hUDQAAQBAJ&pg=PT241&lpg=PT241&dq=%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&source=bl&ots=hZKlKfvXWY&sig=pI1FcX5MngPp7-S_9UE4ak0w_8A&hl=zh-TW&sa=X&ved=0ahUKEwi_nLjf0bPUAhXJoJQKHVRdDyAQ6AEITTAG",
+    "abstract" :"[13]谢卫群:“20万亿市值意味着什么怎样由大到强”,《人民日报》,2007年8月8日。[14]“我国必须在两个领域争夺国际大宗商品的定价权”,《第一财经日报》,2005年6月9日。",
+    "title" :"中国很受伤 - Google 圖書結果",
+    "metadata" :"金雪军, 王义中, 张军 - 2009 - Business & Economics",
+    },
+    {
+    "url" :"http://www.xcar.com.cn/bbs/viewthread.php?tid=5921820&page=1",
+    "abstract" :"人民日报：20万亿市值意味着什么怎样由大到强http://www.sina.com.cn 2007年08月08日06:44 人民网-人民日报《人民日报》 ( 2007-08-08 第06版)",
+    "title" :"人民日报：20万亿市值意味着什么怎样由大到强_谈股论金_股票论坛_期货论 ...",
+    "metadata" :"2007年8月8日 - 10 篇文章 - 10 位作者",
+    },
+    {
+    "url" :"https://zhuanlan.zhihu.com/p/21816375",
+    "abstract" :"2016年8月1日 - 2 万亿市值意味着什么？如果资本市场给你的P/S 估值是1 倍，那么你需要达到2 万亿销售额。 假设到2025 年，全世界GDP 达到100 万亿美元， ...",
+    "title" :"如何在1994年规划亚马逊实现2万亿市值？ - 知乎专栏",
+    },
+    {
+    "url" :"http://bbs.hangzhou.com.cn/thread-22666510-1-1.html",
+    "abstract" :"2016年1月13日 - 中国2015年的国防预算8890亿元，2016年股市开局到现在蒸发到10万亿元，相当于跌掉11年的国防预算。令人痛心。 10万亿股市市值蒸发意味着 ...",
+    "title" :"10万亿股市市值蒸发意味着什么？ - 杭网民声- 杭州网论坛- Powered by ...",
+    },
+    ],
+######
 #Q_1_1 #:还有些公司 股价 突破 1000$
 ######
 "Q_1_1": ["还有些公司 股价 突破 1000$",
@@ -153,9 +211,33 @@ Q_dict = {
     ],
 }
 keyword_list = [ 
-   "万亿市值意味着什么",
+   "   秩",
+   "   联想",
+   "   4因5路",
+   "   排列组合",
+   "   意义",
+   "   费米计算",
+   "   周期",
+   "   启始",
+   "   证伪",
+   "   战略",
+   "   优化",
+   "   近同反",
+   "   合并",
+   "   健康",
+   "   展示",
+   "   有趣",
+   "   边界",
+   "   历史",
+   "   混沌",
+   "   高维",
+   "   随机",
+   "   分类",
+   "   建模",
+   "   很感谢你能能来，不遗憾你离开",
+   "   为什么",
 ]
-meta_data = {"status":"mc","Major": 1,"Minor": 4,"Prefix": "Q"}
+meta_data = {"status":"hc","Major": 2,"Minor": 1,"Prefix": "Q"}
 km_0_title = "亚马逊的股价"
 km_0_summary = "亚马逊"
 km_1_tags = []
