@@ -405,21 +405,9 @@ Q_dict = {
     "title" :"元胞自动机在矿山地质灾害预测中的应用_免费论文全文下载 - 中国论文网",
     },
     {
-    "url" :"http://www.tseit.org.cn/fileup/PDF/1009-6744%20(2012)%2006-0085-08.pdf",
-    "abstract" :"MatLAB 软件的数学计算能力,开发出基于逻辑回归的元胞自动机土地预测模型. 基于实 ... 素和非经济因素,例如就业、交通、土地利用和增长. 管理政策的影响,预测土地 ...",
-    "title" :"[PDF] 基于元胞自动机的城市土地利用预测模型研究 - 交通运输系统工程与信息",
-    "metadata" :"由 孙健 著作 - 2012 - 被引用 2 次 - 相關文章",
-    },
-    {
     "url" :"http://wap.sciencenet.cn/blogview.aspx?id=440762",
     "abstract" :"2011年5月5日 - 另外，在表现上，元胞自动机模型还与一些理论方法存在着较大的相似性， ..... 演化模拟，而SD模型缺乏空间概念，更适于社会经济系统的模拟预测。",
     "title" :"[转载]网上找到的一个不错的元胞自动机学习资料2-博客-科学网手机版",
-    },
-    {
-    "url" :"http://www.paper.edu.cn/download/downPaper/200512-172",
-    "abstract" :"摘要本文阐述了元胞自动机(Cellular Automata)的基本原理和方法，总结了CA 的基本 .... (2)作为一个时空动仿模型进行自然、社会、经济等复杂系统的预测和模拟[2]。",
-    "title" :"[PDF] 元胞自动机在矿山地质灾害预测中的应用 - 中国科技论文在线",
-    "metadata" :"由 张禄华 著作 - 相關文章",
     },
     {
     "url" :"http://wenku.baidu.com/view/15353e731711cc7931b71628.html",
@@ -427,28 +415,10 @@ Q_dict = {
     "title" :"轨迹分析与元胞自动机在土地利用动态模拟中的应用_论文_百度文库",
     },
     {
-    "url" :"http://www.geog.com.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=36468",
-    "abstract" :"2015年3月3日 - 摘要：元胞自动机模型已经成为模拟土地利用变化的重要方法。传统土地 ... 用于模拟大连市经济技术开发区1998-2009年土地利用变化模拟。 ... 积矩阵数据为基础，计算土地利用转移概率矩阵，进而预测未来土地利用面积总量的变.",
-    "title" :"[PDF] 基于元胞自动机模型的土地利用变化模拟 - 地理学报",
-    "metadata" :"由 杨俊 著作 - 2015 - 被引用 10 次 - 相關文章",
-    },
-    {
     "url" :"http://www.tcsae.org/nygcxb/ch/reader/create_pdf.aspx?file_no=20120341",
     "abstract" :"耕地保护和经济发展的矛盾将会进一步增大，可为政府和土地管理部门制定政策提供一定的参考，从而采取更 ... 选择灰色模型作为数量预测模型，元胞自动机模型作为.",
     "title" :"[PDF] 元胞自动机模型的佛山市土地利用情景模拟分析 - 农业工程学报",
     "metadata" :"由 王丽萍 著作 - 2012 - 被引用 38 次 - 相關文章",
-    },
-    {
-    "url" :"https://books.google.com.hk/books?id=TXbhDgAAQBAJ&pg=PA167&lpg=PA167&dq=%E7%BB%8F%E6%B5%8E%E9%A2%84%E6%B5%8B+%E4%B8%8E%E5%85%83%E8%83%9E%E6%9C%BA&source=bl&ots=6ZGzaDSs6S&sig=B-7RHiqonLh8QVQkGfclOM5Aznc&hl=zh-TW&sa=X&ved=0ahUKEwjii4f0wZ_UAhVBupQKHXREA5cQ6AEIazAI",
-    "abstract" :"刘洪对经济系统的混沌理论及其在管理中应用研究的基础上,根据混沌现代系统理论, ... 用于这方面研究的主要工具是计算机,方法上有元胞自动机模型、耦合映像格子 ...",
-    "title" :"战略定量研究基础——预测与决策:  - 第 167 頁 - Google 圖書結果",
-    "metadata" :"胡光宇  编著.  - 2010 - Psychology",
-    },
-    {
-    "url" :"http://soils.issas.ac.cn/tr/ch/reader/create_pdf.aspx?file_no=20030603",
-    "abstract" :"摘要对土地利用变化过程的模拟和预测，需要地理信息系统(GIS)等相关技术的支撑。但目前GIS 不能 ... 关键词元胞自动机（CA）；模型；土地利用/覆被变化(LUCC)；时空模拟. 中图分类号 ... 自然因素和社会经济因素在不同时间、空间尺度上. 错综复杂， ...",
-    "title" :"[PDF] 试论元胞自动机模型与LUCC 时空模拟 - 中国科学院南京土壤研究所",
-    "metadata" :"由 汤君友 著作 - 2003 - 被引用 10 次 - 相關文章",
     },
     ],
 ######
@@ -489,12 +459,6 @@ Q_dict = {
     "url" :"https://book.douban.com/subject/1088245/",
     "abstract" :"计量经济模型与经济预测（4版），ISBN：9787111074588，作者：（美）罗伯特·S.平狄克（Robert S. Pindyck），（美）丹尼尔·L.鲁宾费尔德（Daniel L. Rubinfeld）著；钱小军 ...",
     "title" :"计量经济模型与经济预测(豆瓣) - 豆瓣读书",
-    },
-    {
-    "url" :"http://www.econ.ntu.edu.tw/ter/new/data/new/TER391/TER391-1.pdf",
-    "abstract" :"樣本內、 外表現, 皆優於主計處原有的一季前預測,亦明顯優於未納. 入主計處預測的擴散指標模型。 關鍵詞: 經濟成長率, 條件動差檢定, 擴散指標, 預測誤差, 預測更新.",
-    "title" :"[PDF] 經濟成長率預測之評估與更新 - 台大經濟系 - National Taiwan University",
-    "metadata" :"由 陳宜廷 著作 - 被引用 7 次 - 相關文章",
     },
     {
     "url" :"https://books.google.com.hk/books?id=wtMkDwAAQBAJ&pg=PA26&lpg=PA26&dq=%E7%BB%8F%E6%B5%8E%E9%A2%84%E6%B5%8B+%E6%A8%A1%E5%9E%8B&source=bl&ots=aXnY4MYR25&sig=j1YXFs57CbyjNDh5RdJBnf6Gf9s&hl=zh-TW&sa=X&ved=0ahUKEwjqy9v6wZ_UAhVDLpQKHeBCBAYQ6AEIaDAI",
@@ -600,33 +564,15 @@ Q_dict = {
     ],
 }
 keyword_list = [ 
-   "   网络",
-   "   联想",
-   "   本质",
-   "   排列组合",
-   "   意义",
-   "   费米计算",
-   "   周期",
-   "   balance shift",
-   "   批判",
-   "   策略",
-   "   20/80原则",
-   "   外延",
-   "   统一",
-   "   生老病死",
-   "   展示",
-   "   故事",
-   "   极限",
-   "   历史",
-   "   混沌",
-   "   分层模块化",
-   "   随机",
-   "   分解",
-   "   建模",
-   "   局部化",
-   "   哪些人",
+   " 未来会不会出现超级公司",
+   " 未来的国家权力会变什么样",
+   " 由区块链解决直接解决了冲突，国家还剩下哪些东东",
+   " 国家应该考虑的是百年后事情",
+   " 多少人，多长时间会形成一个新民族",
+   " 一个民族的产生需要多少年",
+   "量变引起质变，这个质变点的数量级会是多少呢",
 ]
-meta_data = {"status":"hc","Major": 4,"Minor": 2,"Prefix": "Q"}
+meta_data = {"status":"mc","Major": 4,"Minor": 2,"Prefix": "Q"}
 km_0_title = "未来经济"
 km_0_summary = "ummary_tp"
 km_1_tags = []
