@@ -58,8 +58,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=vapTDQAAQBAJ&pg=PA10&lpg=PA10&dq=%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%A8%A1%E5%BC%8F&source=bl&ots=KIXkrLw2jm&sig=pLJIRWPNM4z8ekE4x8roJdImXYI&hl=zh-TW&sa=X&ved=0ahUKEwiBmKD2wpvUAhVGGpQKHWJ6CNIQ6AEIZTAI",
     "abstract" :"图11 经济发展模式的演化示意图 相伴随的经济绩效和经济增长的表现不同。 ... 经济发展模式的选择常常是在我们既缺乏环境和未来的系统知识,又受到作为历史遗产 ...",
-    "title" :"中国经济的第二次转型 - 第 10 頁 - Google 圖書結果",
     "metadata" :"刘刚, 周桂元 - 2010 - Business & Economics",
+    "title" :"中国经济的第二次转型 - 第 10 頁 - Google 圖書結果",
     },
     {
     "url" :"http://www.bangkokbank.com/download/51Web8_Column_No04.pdf",
@@ -84,8 +84,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=8shTDQAAQBAJ&pg=PA34&lpg=PA34&dq=%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E7%9A%843.0%E6%A8%A1%E5%9E%8B&source=bl&ots=1vGgVt_dpF&sig=2y-2eFHtHFo2yVqD6tiQMK45fwQ&hl=zh-TW&sa=X&ved=0ahUKEwiqhPz6wpvUAhUFppQKHS3JDdUQ6AEIQzAG",
     "abstract" :"索洛的经济增长模型认为,当外生的技术以固定比率增长时,经济将在平衡增长路径上 ... 则: λ=8.0%3.0%1.4%=3.6%也就是说,在8%的经济增长率中,有3.6%是由技术进步 ... 通过上面公式计算出来的数字并不是科学技术和生产要素在经济增长中的实际 ...",
-    "title" :"中国经济增长质量研究 - 第 34 頁 - Google 圖書結果",
     "metadata" :"李变花, 林治滨 - 2008 - Business & Economics",
+    "title" :"中国经济增长质量研究 - 第 34 頁 - Google 圖書結果",
     },
     {
     "url" :"http://class-qry.acad.ncku.edu.tw/crm/course_map/course.php?dept=U5&cono=U551500",
@@ -145,8 +145,8 @@ Q_dict = {
     {
     "url" :"http://www.creative-more.com.tw/soft-ware/ezcatfiles/creative-more/download/attach/2/(1)-7%20%B9B%B0%CA%B0%B7%B1d%A4%A4%A4%DF%B5o%AEi%C1%CD%B6%D5%A4%C0%AAR.pdf",
     "abstract" :"運動健康中心發展趨勢分析. 品度股份有限公司發行. 94. 壹、產業趨勢變化與分析. 一、健身風潮，健康取向. 台灣健康俱樂部產業從十多年來每年成立1~2家，在1997 ...",
-    "title" :"[PDF] 運動健康中心發展趨勢分析 - 品度股份有限公司",
     "metadata" :"由 謝登源 著作 - 被引用 5 次 - 相關文章",
+    "title" :"[PDF] 運動健康中心發展趨勢分析 - 品度股份有限公司",
     },
     {
     "url" :"http://ieknet.iek.org.tw/BookView.do?rptidno=432001165",
@@ -226,14 +226,14 @@ Q_dict = {
     {
     "url" :"https://www.amazon.cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3-%E6%9D%B0%E7%91%9E%C2%B7%E5%8D%A1%E6%99%AE%E5%85%B0/dp/B01EL28XHE",
     "abstract" :"人工智能时代(湛庐文化机器人与人工智能书系), 品牌: 湛庐文化, 版本: 第1版, 浙江人民出版社, 编辑推荐： 人工智能时代，人类和智能机器Ӥ...",
-    "title" :"《人工智能时代(湛庐文化机器人与人工智能书系)》 杰瑞·卡普兰, 李盼书评 ...",
     "metadata" :"評分：3.7 - 13 則評論",
+    "title" :"《人工智能时代(湛庐文化机器人与人工智能书系)》 杰瑞·卡普兰, 李盼书评 ...",
     },
     {
     "url" :"https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01EKXEEZ4",
     "abstract" :"在《人工智能时代》一书中，智能时代领军人、硅谷连续创业者杰瑞·卡普兰指出：智能时代的到来，给人类社会带来了两大灾难性冲击：持续性失业与不断加剧的贫富差距 ...",
-    "title" :"《人工智能时代》 杰瑞•卡普兰(Jerry Kaplan), 李盼【摘要书评试读】图书",
     "metadata" :"評分：3.7 - 13 則評論",
+    "title" :"《人工智能时代》 杰瑞•卡普兰(Jerry Kaplan), 李盼【摘要书评试读】图书",
     },
     {
     "url" :"https://book.douban.com/subject/26776547/",
@@ -298,8 +298,8 @@ Q_dict = {
     {
     "url" :"https://www.youtube.com/watch?v=o3Tn8YXTxb0",
     "abstract" :"0:09 而8年之後，中國最貴的將包括乾淨的空氣和水等。 ... 這是媒體調查的購買力貶值資料，隨著物價高漲，10年後，想必現金會越來越不值錢，也 ...",
-    "title" :"馬雲：不要買房了，未來房子如蔥！八年後最便宜的是房子車子，而最貴的 ...",
     "metadata" :"2017年5月20日 - 上傳者：Anson Fun Fair Origami Craft Toys 手工 摺紙 玩具遊樂園",
+    "title" :"馬雲：不要買房了，未來房子如蔥！八年後最便宜的是房子車子，而最貴的 ...",
     },
     {
     "url" :"http://www.ntdtv.com/xtr/b5/2017/05/08/a1323603.html",
@@ -314,8 +314,8 @@ Q_dict = {
     {
     "url" :"http://bbs.tiexue.net/post2_12562982_1.html",
     "abstract" :"八年后最便宜的东西1房子今天我国人均保有的住宅面积是多少？ ... 缴纳房产税，谁会愿意留这么多房子在手里，大家都抛售房子的后果是什么？2汽车汽车基本上已经成为非常普通的消费品了， ... 2017/5/9 13:25:42 ... 回复：马云：不要买房了，未来房子如葱！八年后 这帖子十年前我看就看过了，房价依然是一路高歌.",
-    "title" :"马云：不要买房了，未来房子如葱！八年后最便宜的是 ... - 铁血社区 - 铁血网",
     "metadata" :"2017年5月6日 - 21 篇文章 - 19 位作者",
+    "title" :"马云：不要买房了，未来房子如葱！八年后最便宜的是 ... - 铁血社区 - 铁血网",
     },
     {
     "url" :"https://kknews.cc/house/lpzra9g.html",
@@ -380,13 +380,416 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=gQam5_zNNpAC&pg=PA4&lpg=PA4&dq=%E6%B1%A1%E6%9F%93%E7%9A%84%E6%B2%BB%E7%90%86%E6%97%B6%E9%97%B4%E8%A1%A8&source=bl&ots=ccpCSqPkHd&sig=3XzoTQJQy6JdbnfcQev3FUBbm_c&hl=zh-TW&sa=X&ved=0ahUKEwjCubK4w5vUAhUBKpQKHUjWDUEQ6AEIXzAI",
     "abstract" :"起初,空气污染问题集中在吸烟及烟囱所产生的令人厌烦的烟雾方面,这些烟雾可能会 ... 意识到需要采取措施以治理水污染问题的时间表与考虑解决即将耗尽的臭氧层 ...",
-    "title" :"商务伦理与会计职业道德:  - 第 4 頁 - Google 圖書結果",
     "metadata" :"Brooks, Leonard J.·布鲁克斯, 布鲁克斯 - 2004 - Accountants",
+    "title" :"商务伦理与会计职业道德:  - 第 4 頁 - Google 圖書結果",
     },
     {
     "url" :"http://www.shuihua.net/%E6%96%B0%E8%81%9E-%E6%99%82%E9%96%93%E8%A1%A8%E7%9A%84%2013%20%E4%B8%96%E7%B4%80%E5%8D%B0%E5%BA%A6%E6%95%99%E5%AE%97%E6%97%8F%E7%9A%88%E4%BE%9D%E4%BC%8A%E6%96%AF%E8%98%AD%E6%95%99%E5%A6%82%E4%BD%95%E6%B2%BB%E7%90%86%E6%B0%B4%E6%B1%A1%E6%9F%93-17.html",
     "abstract" :"時間表的13 世紀印度教宗族皈依伊斯蘭教如何治理水污染. 費利佩是西班牙變體名稱菲力浦，其中，來自希臘的形容詞腓力馬的朋友。費利佩還廣泛應用於說葡語的 ...",
     "title" :"時間表的13 世紀印度教宗族皈依伊斯蘭教如何治理水污染- 湖泊富營養 ...",
+    },
+    ],
+######
+#Q_5_1 #: 未来的国家权力会变什么样
+######
+"Q_5_1": [" 未来的国家权力会变什么样",
+    {
+    "url" :"http://www.appledaily.com.tw/realtimenews/article/new/20161019/970723/",
+    "abstract" :"2016年10月19日 - 中國領導人傳達給其人民和世界的是什麼樣的願景，而他們會是如何改變？ ... 等，更在在說明了並不是社會變得更加強大，而是國家變得更加強大。 ... 當然，我比較贊成藍普頓在結論中對於中國未來的判斷，以及做出這種判斷的基礎。",
+    "title" :"王丹：中國國家權力的強化| 即時新聞| 20161019 | 蘋果日報",
+    },
+    {
+    "url" :"http://www.sohu.com/a/141201135_120776",
+    "abstract" :"2017年5月16日 - 在美国学术界，国家构建理论并没有与美国国家权力的扩张相伴而生。 .... 关注现在和未来的改变和发展的研究方法提出质疑，认为这种研究所考察的 ...",
+    "title" :"美国到底是一个什么样的国家？ - 搜狐",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/35965312",
+    "abstract" :"以中国十亿级人口的体量，只要达到美日欧这样亿级人口体量国家的八成功力，就 ... 2，人大权力扩大，代表广大民众的声音开始逐渐登上舞台，民主这一概念在未来五 ...",
+    "title" :"中国的未来会什么样？ - 知乎",
+    },
+    {
+    "url" :"http://cj.sina.com.cn/article/detail/1871568515/195640",
+    "abstract" :"2017年3月22日 - 那么未来的世界是一个怎么样的世界，今天的孩子到那个时候在追求怎么样的生活？ ... 一辈子在一个公司，一个行业会变得越来越难，这个时候，如果我们还教他在大学 ... 因为在经济学上，有一个很重要的现象发现，3000美金是一个国家开始现代化的界限，意味 ..... 无论你是一家什么样的企业，总有一款危机适合你。",
+    "title" :"未来的世界，究竟是一个怎么样的世界？（深度）_财经头条",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=eXjSCQAAQBAJ&pg=PT170&lpg=PT170&dq=%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%9D%83%E5%8A%9B%E4%BC%9A%E5%8F%98%E4%BB%80%E4%B9%88%E6%A0%B7&source=bl&ots=lSoFqoNAxY&sig=JwtYBaESVLw-FSkM3zm-loDQj4s&hl=zh-TW&sa=X&ved=0ahUKEwjG_dv5mcDUAhVDEpQKHYAODP4Q6AEIQjAE",
+    "abstract" :"民主就其本意来说,是指国家形态、国家制度,是建设一个什么样的国家问题,是人民当家作主的国家,还是个人或集团专政的国家这样的问题。说到底,这是国家权力的 ...",
+    "title" :"改革共识与中国未来:  - Google 圖書結果",
+    "metadata" :"吴敬琏 等 - 2015",
+    },
+    {
+    "url" :"http://www.bbc.com/zhongwen/simp/china_watch/2015/03/150318_china_watch_shambaugh_china_cracking",
+    "abstract" :"2015年3月18日 - 至于中国崩溃，她笑着说，周围的年轻人在策划自己未来生活的时候，还没有人把政治 ... 对社会是不满又觉得无可奈何，生活也可说水深火热，有什么办法？ ... 中国现在十年一换届的权力交接对人情世态影响很大，说一千道一万：皇朝封建专制，权力就是一切。 ... 西方民主国家和东方专制集权环境不同手段不同习相远.",
+    "title" :"透视中国：中共统治会崩溃吗？ - BBC 中文网 - BBC.com",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=zIpTDQAAQBAJ&pg=PT423&lpg=PT423&dq=%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%9D%83%E5%8A%9B%E4%BC%9A%E5%8F%98%E4%BB%80%E4%B9%88%E6%A0%B7&source=bl&ots=-xbQe7uAem&sig=AfQJEWXpVkHlKk8WS5gU2l3015k&hl=zh-TW&sa=X&ved=0ahUKEwjG_dv5mcDUAhVDEpQKHYAODP4Q6AEIUDAG",
+    "abstract" :"坚持和完善人大制度成为未来政治体制改革的突破口,理由在于: 1. ... 矛盾似乎集中在党政分开应具备什么样的配套保障条件。 ... 的现代社会里,无可争辩地存在着两种权力:一是执政党的领导权力,即执政权力;一是人民当家作主的统治权力,即国家权力。",
+    "title" :"中国国家审计体制问题 - Google 圖書結果",
+    "metadata" :"杨肃昌, 肖泽忠, 王晨 - 2008 - Business & Economics",
+    },
+    {
+    "url" :"http://www2.tku.edu.tw/~tkjour/paper/50th/50th-7.fulltext.pdf",
+    "abstract" :"本次座談會主題，對我們國家未來外交上 .... 使得資訊的使用、傳播變得非常透明。 .... 進入二十一世紀的前二十年當中，我們常用的話是「地球村」，它會是一個什麼樣 ... 億會變成10 億人口；電訊科技的發展突飛猛進，會使世界變得更小，人類也會變得越.",
+    "title" :"[PDF] 《邁向二十一世紀後國際權力關係之可能演變與邁向二十一 ... - 淡江大學",
+    },
+    {
+    "url" :"https://www.ted.com/talks/pope_francis_why_the_only_future_worth_building_includes_everyone/transcript?language=zh-tw",
+    "abstract" :"未來的你」： 未來都是無數個「你」組成， 由彼此邂逅組成， 因為人生就在我們與他人的互動中流逝。 ... 而是能成為政治、 經濟和科學選擇的預設態度， 以及個體 ...",
+    "title" :"為什麼世界的未來需要每一個人攜手創造| TED Talk Subtitles and ...",
+    },
+    {
+    "url" :"http://www.ftchinese.com/story/001065137?full=y",
+    "abstract" :"2015年12月7日 - 中国又应为未来的发展培育什么样的思想资源？带着这些 ... 郑永年：首先，在任何国家，反腐败不可避免地是一个政治任务。不讲政治的话就 ... 如果不通过反腐败来反对寡头政治，中国很快就会变成叶利钦时代的俄罗斯，或者演变成乌克兰。寡头政治是很 ... 现在中纪委将反腐败权力集中起来，这是对的。但这些还是 ...",
+    "title" :"郑永年：中国未来30年的任务- FT中文网",
+    },
+    ],
+######
+#Q_5_0 #: 未来会不会出现超级公司
+######
+"Q_5_0": [" 未来会不会出现超级公司",
+    {
+    "url" :"http://www.ciweek.com/article/2016/0422/A20160422573662.shtml",
+    "abstract" :"2016年4月22日 - 第一，走出“C2C”模式中国互联网，将聚拢四方人才，丰富各路产业，不断创造奇迹。第二，在BAT级别的互联网平台将触角伸向行业每一个角落的 ...",
+    "title" :"未来会出现一个伟大的“超级互联网公司”，不放弃一个灵魂- 互联网周刊 ...",
+    },
+    {
+    "url" :"http://www.gegugu.com/2016/03/29/7163.html",
+    "abstract" :"2016年3月29日 - 第一，走出“C2C”模式中國互聯網，將聚攏四方人才，豐富各路產業，不斷創造奇跡。第二，在BAT級別的互聯網平臺將觸角伸向行業每一個角落的 ...",
+    "title" :"未來會出現一個偉大的“超級互聯網公司”，不放棄一個靈魂: 歌穀穀",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=-q2SDgAAQBAJ&pg=PT64&lpg=PT64&dq=%E6%9C%AA%E6%9D%A5%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%85%AC%E5%8F%B8&source=bl&ots=-PsOXbB-la&sig=-2Yhpe1pmhmflEKGq9BI5T6xrBM&hl=zh-TW&sa=X&ved=0ahUKEwiIxfjymcDUAhVHUrwKHc0OCIIQ6AEIMjAC",
+    "abstract" :"領先地位,IBM則只有去跟由SUN微係統公司和惠普通公司所占據的產品領域中,爭奪市場的份額,努力謹慎地和對手 ... 也許在IBM內部會出現阻礙使用這一概念的問題。 ... 盡管變革是非常的不容易,但它卻是應付不可預見之未來的惟一方法。 ... 在出現問題或麻煩時通常會認為這不會是牌子的原因,因為你始終相信自己有一個絕妙的名字。",
+    "title" :"超級營銷員必備法則:  - Google 圖書結果",
+    "metadata" :"石地 - 2017",
+    },
+    {
+    "url" :"http://www.sohu.com/a/107071558_421797",
+    "abstract" :"2016年7月21日 - 可以预计，未来五年内，中国将涌现出几个大的金融科技企业巨头，全产品线 .... 着一个721法则，即一个超级公司会占据行业市场的70%的份额，老二会占据20% ... 在笔者看来，金融科技行业中，不会出现这样的市场格局，原因有二：.",
+    "title" :"未来会诞生几个金融科技巨头？ - 搜狐",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=r4fVCQAAQBAJ&pg=PT27&lpg=PT27&dq=%E6%9C%AA%E6%9D%A5%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%85%AC%E5%8F%B8&source=bl&ots=0x5FD73WQn&sig=PScugpk7AvxIMeK60ShYfygHNPM&hl=zh-TW&sa=X&ved=0ahUKEwiIxfjymcDUAhVHUrwKHc0OCIIQ6AEIQDAE",
+    "abstract" :"因此,从全球性都市的未来发展,同样可以得到刚才《日蚀》那本书 ... 就在2012年中,美国《外交政策》杂志(Foreign Policy)和全球最具影响力的顾问公司麦肯锡旗下 ... 那么你同样可以预见在未来不到15年里,中国大陆的相对经济地位会出现多么大 ... 有些可能是大家不会想到的,但却会变成全球名列前茅、最具竞争力的城市,比如沈阳、重庆 ...",
+    "title" :"中国未来三十年Ⅲ——重塑梦想与现实之维:  - Google 圖書結果",
+    "metadata" :"赫德森 等 - 2015",
+    },
+    {
+    "url" :"http://www.sohu.com/a/104893705_441547",
+    "abstract" :"2016年7月12日 - 这些交通工具未来会出现你更期待那个？ ... 包括Terrafugia、Aeromobil 在内的很多公司都在进行飞行汽车的研究，丰田 ... Hyperloop：时速1200 公里的「超级高铁」 ... skyTran 就像是一个「空中的士」，它体积小巧不会占用太大的城市 ...",
+    "title" :"这些交通工具未来会出现你更期待那个？ - 搜狐",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=x2aYCwAAQBAJ&pg=PT89&lpg=PT89&dq=%E6%9C%AA%E6%9D%A5%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%85%AC%E5%8F%B8&source=bl&ots=KvxKI3shFg&sig=q8g31zO_1P6z0W-xQEflAEbYR44&hl=zh-TW&sa=X&ved=0ahUKEwiIxfjymcDUAhVHUrwKHc0OCIIQ6AEITjAG",
+    "abstract" :"其次,巴菲特建议投资者要集中投资于那些自己非常了解的公司。 ... 如果企业的业务复杂难懂,那么对于投资者来说,这样企业的未来发展就会难上加难了。 ... 投资者只有对这些有一个清晰的判断,才能确保自己在投资过程中不会出现重大失误,从而避免亏损的情况发生。 ... 在他看来投资那些超级明星企业给他提供了众多投资盈利的机会。",
+    "title" :"巴菲特最有价值的11种投资智慧:  - Google 圖書結果",
+    "metadata" :"志刚 - 2016",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=nOHUA-REpS4C&pg=PT149&lpg=PT149&dq=%E6%9C%AA%E6%9D%A5%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%85%AC%E5%8F%B8&source=bl&ots=MCj8XkoQvr&sig=2Ix8ckL-uM7p1nYmiAEsAYNrTqQ&hl=zh-TW&sa=X&ved=0ahUKEwiIxfjymcDUAhVHUrwKHc0OCIIQ6AEIUzAH",
+    "abstract" :"... 但是我们却从没一半的手推车上,而且一位顾客很可能选择一个不会哪哪响的手推车。 Raphs ,加利福尼亚的超级市场连锁店,就是 KleverKart 公司一个很有代表性的客户 ... 历史上曾出现过一个销售冰激凌的高峰, Klever - Kart 公司能将每家店每周的 ...",
+    "title" :"你的无线未来:  - Google 圖書結果",
+    "metadata" :"伊斯顿 - 2002 - Cell phones",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=aRn4aU13rbkC&pg=PA272&lpg=PA272&dq=%E6%9C%AA%E6%9D%A5%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%85%AC%E5%8F%B8&source=bl&ots=tLUq3QQ2gW&sig=ea539yd07VMCzqZ_XVw3pWAIA-s&hl=zh-TW&sa=X&ved=0ahUKEwiIxfjymcDUAhVHUrwKHc0OCIIQ6AEIWDAI",
+    "abstract" :"他还是一个超级富豪,可以为自己的竞选活动投人数百万美元的竞选资金。 ... 当这件事情宣布以后,布什的内阁成员名单中没有出现约翰·钱伯斯的名字。 ... 主要的大公司纷纷派它们的高级管理团队来拜访思科,全世界的领导人都渴望和他会晤,这些也 ... 思科的未来会是什么样呢? ... 但是,我们也许能说出哪些业务领域是思科不会涉足的。",
+    "title" :"思科风暴 - 第 272 頁 - Google 圖書結果",
+    "metadata" :"斯莱特, Robert Slater - 2003 - Computer industry",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=rGYbEDY1qP0C&pg=PA40&lpg=PA40&dq=%E6%9C%AA%E6%9D%A5%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E8%B6%85%E7%BA%A7%E5%85%AC%E5%8F%B8&source=bl&ots=uphJ2zMfGq&sig=PC3irbMM1c3x82SuTSV10ZU93s0&hl=zh-TW&sa=X&ved=0ahUKEwiIxfjymcDUAhVHUrwKHc0OCIIQ6AEIXjAJ",
+    "abstract" :"人们总是有超级丰富的想像力,总是根据他们对未来的担心或者依据其他公司发生的可怕故事而制造出自己公司可能出现的 ... 员工总是从别人的痛苦里推断自己的命运一难道你不知道安然事件之后,许多员工也在担忧他们的老板会不会弃他们而去。",
+    "title" :"复苏: 公司如何走出合并、收购、裁员的困境 - 第 40 頁 - Google 圖書結果",
+    "metadata" :"马克斯 - 2004 - Consolidation and merger of corporations",
+    },
+    ],
+######
+#Q_5_3 #: 国家应该考虑的是百年后事情
+######
+"Q_5_3": [" 国家应该考虑的是百年后事情",
+    {
+    "url" :"http://zg.people.com.cn/BIG5/33839/34943/34944/34947/2617694.html",
+    "abstract" :"世界上一百幾十個國家，那時我們恐怕還是在五十名以下吧，但是我們國家的力量 ... 像這樣的事情，我們要考慮到不要隨便引起動蕩甚至引起反復，這是從大局來看問題。 .... 國家裡允許一些特殊地區搞資本主義，不是搞一段時間，而是搞幾十年、成百年。 ... 我們說，這些管理香港事務的人應該是愛祖國、愛香港的香港人，普選就一定能 ...",
+    "title" :"會見香港特別行政區基本法起草委員會委員時的講話 - 人民領袖鄧小平",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=l7gdAwAAQBAJ&pg=PT20&lpg=PT20&dq=%E5%9B%BD%E5%AE%B6%E5%BA%94%E8%AF%A5%E8%80%83%E8%99%91%E7%9A%84%E6%98%AF%E7%99%BE%E5%B9%B4%E5%90%8E%E4%BA%8B%E6%83%85&source=bl&ots=q7sn9NzLHN&sig=k_25EyylsToNPO62UCUkfK6UIIk&hl=zh-TW&sa=X&ved=0ahUKEwi_l_KHmsDUAhWDerwKHfA1AS0Q6AEIKzAB",
+    "abstract" :"領導人應該覺得老百姓怎麼還是這樣愚昧。 ... 是流芳百世還是遺臭萬年,將來身後應該是什麼樣的歷史定位,這個歷史定位就看你站在歷史哪一邊,是反潮流而行還是逆潮流而行,中國近百年無數仁人志士, ... 所以我們每個人要慎重地考慮一下。 ... 功利主義思維方式是我設立一個目標,為這個目標,任何事情都可以不擇手段,或者任何正當性, ...",
+    "title" :"《明鏡月刊》第50期: 王岐山清理門戶 中紀委窩裡開打 - Google 圖書結果",
+    "metadata" :"《明鏡月刊》編輯部 - 2014 - Political Science",
+    },
+    {
+    "url" :"http://cpc.people.com.cn/GB/64184/64185/66612/4488735.html",
+    "abstract" :"今天没有别的，同大家见见面，快两年时间没有见面了，应该对你们道道辛苦嘛！ ... 像这样的事情，我们要考虑到不要随便引起动荡甚至引起反复，这是从大局来看问题。 ... 国家里允许一些特殊地区搞资本主义，不是搞一段时间，而是搞几十年、成百年。 ... 我们说，这些管理香港事务的人应该是爱祖国、爱香港的香港人，普选就一定能选 ...",
+    "title" :"邓小平文选第三卷--党和国家主要领导人选集、文选、专集--中国共产党 ...",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=8hsTBAAAQBAJ&pg=PT415&lpg=PT415&dq=%E5%9B%BD%E5%AE%B6%E5%BA%94%E8%AF%A5%E8%80%83%E8%99%91%E7%9A%84%E6%98%AF%E7%99%BE%E5%B9%B4%E5%90%8E%E4%BA%8B%E6%83%85&source=bl&ots=tXUFMtbZUq&sig=7wSEbyEW8lAnXu5naloGtHZAciE&hl=zh-TW&sa=X&ved=0ahUKEwi_l_KHmsDUAhWDerwKHfA1AS0Q6AEIODAD",
+    "abstract" :"見爺爺考慮,艾裏娜婭又道:“我會帶上一些人,一方面打探人族的情報,另一方面看是否能 ... 狂刀]賜予的神器,孫女應該會很安全才對,孩子長大了也該是讓她自由翱翔的時候了。 ... 上次獸人族入侵人類的國家已經是百年前的事情了,當然那次獸人族受到了 ...",
+    "title" :"暗夜血狐: 到底是誰終結了這場曠日持久的戰爭？他或者他們怎樣在一周做到了？ 他們就是“暗夜雪狐”。而這一周的事件就在本書中！",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=s1i3AwAAQBAJ&pg=PT29&lpg=PT29&dq=%E5%9B%BD%E5%AE%B6%E5%BA%94%E8%AF%A5%E8%80%83%E8%99%91%E7%9A%84%E6%98%AF%E7%99%BE%E5%B9%B4%E5%90%8E%E4%BA%8B%E6%83%85&source=bl&ots=_QDZ2Gezym&sig=bIH1BMyFMQRXj5VJXNkxl0bJe5M&hl=zh-TW&sa=X&ved=0ahUKEwi_l_KHmsDUAhWDerwKHfA1AS0Q6AEIOjAE",
+    "abstract" :"他是殺手,殺手界的NO.1,卻決定金盆洗手從良,跑去美女雲集的陳氏集團,做一名為 ... 但考慮明天是星期六,可能需要與客戶洽談融資問題,所以,今天下午是最好的選擇。 ... 了她和陳璐的頂頭上司,難道真如這個國度的憲法所說,無產階級才是國家的主人? ... 點高興的事情,“咱們一起上學,帶著林羽這頭禽獸,牽著旺財,一起去欺女霸男,那該是 ...",
+    "title" :"殺手NO.1: ... - Google 圖書結果",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=8xv2AwAAQBAJ&pg=PT111&lpg=PT111&dq=%E5%9B%BD%E5%AE%B6%E5%BA%94%E8%AF%A5%E8%80%83%E8%99%91%E7%9A%84%E6%98%AF%E7%99%BE%E5%B9%B4%E5%90%8E%E4%BA%8B%E6%83%85&source=bl&ots=6Cn0GtIDPn&sig=OqWIrjBJaiCiyJSJC5QXmJNhBNw&hl=zh-TW&sa=X&ved=0ahUKEwi_l_KHmsDUAhWDerwKHfA1AS0Q6AEIPDAF",
+    "abstract" :"課間操時間,楊宇沒有出去做操,而是偷偷的躲在了五樓的拐角處,摸出一根煙抽起來, ... 在考慮一個問題,那獨孤家族有全國前十的大財團支持,想對付他們肯定不會很容易, ... 如果運用到國內,足可以讓自己國家領先其他國家好幾十年甚至上百年的時間,不過 ... 楊宇越想越興奮,只要自己能生產出這種目前最先進的處理器,應該能夠很快在 ...",
+    "title" :"重生之外星科技: 在一次英雄救美的實踐活動中，他身負重傷，即將光榮就義。 ...",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=aL_rAgAAQBAJ&pg=PT292&lpg=PT292&dq=%E5%9B%BD%E5%AE%B6%E5%BA%94%E8%AF%A5%E8%80%83%E8%99%91%E7%9A%84%E6%98%AF%E7%99%BE%E5%B9%B4%E5%90%8E%E4%BA%8B%E6%83%85&source=bl&ots=TH5VuuH-0d&sig=7D99RdLuGWTJyArmGXTaGWrH3TU&hl=zh-TW&sa=X&ved=0ahUKEwi_l_KHmsDUAhWDerwKHfA1AS0Q6AEIPjAG",
+    "abstract" :"聽到麗莎的話後,木修再次搖了搖頭,接著更沉聲說道,“公主殿下,您只是看到了小的一 ... 而且,公主殿下你也應該知道,這幾年我們隆西帝國和炎龍皇朝的關係非常緊張和特殊, ... 出朝野之內,所以徐天嘯現在正是連自顧都嫌不暇,又怎麼能插手到別的方面的事情呢? ... 而且,他如果要將徐家的人驅逐出朝野,他可考慮過炎龍軍方的意見沒有?",
+    "title" :"孤魔星:  - Google 圖書結果",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=iC9isgeYmHwC&pg=PA124&lpg=PA124&dq=%E5%9B%BD%E5%AE%B6%E5%BA%94%E8%AF%A5%E8%80%83%E8%99%91%E7%9A%84%E6%98%AF%E7%99%BE%E5%B9%B4%E5%90%8E%E4%BA%8B%E6%83%85&source=bl&ots=HTmKme_C35&sig=gRc5g6d7bv40tzXvOvLHa2UPhC4&hl=zh-TW&sa=X&ved=0ahUKEwi_l_KHmsDUAhWDerwKHfA1AS0Q6AEIQDAH",
+    "abstract" :"人类发展了这么多年,社会进步这么大,即使中国的国情和文化与其他国家不同,但由 ... 田国强:我觉得整个方向应该是好的,没有非常大的失误。 ... 当然,有些具体方面还应该更快一些,有些地方应该更旗帜鲜明一点,有些事情可以做得更好一点。 ... 如果说比较大的失误,我认为改革对于中国长远发展的战略问题考虑不够,让人不是非常乐观。",
+    "title" :"理性的激情: 国际经济学殿堂的中国建筑师 - 第 124 頁 - Google 圖書結果",
+    "metadata" :"肖瑞, 李利明 - 2004 - China",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=hJCrAgAAQBAJ&pg=PT114&lpg=PT114&dq=%E5%9B%BD%E5%AE%B6%E5%BA%94%E8%AF%A5%E8%80%83%E8%99%91%E7%9A%84%E6%98%AF%E7%99%BE%E5%B9%B4%E5%90%8E%E4%BA%8B%E6%83%85&source=bl&ots=2TeGcdy1nS&sig=w46o_hrOk5-MqzVKcl8x1-5Rapc&hl=zh-TW&sa=X&ved=0ahUKEwi_l_KHmsDUAhWDerwKHfA1AS0Q6AEIRjAI",
+    "abstract" :"现在已成为高丽博物馆的成均馆,入口处立着几株上百年的榉树,与历史一起度过悠久漫长的岁月。访问完 ... 我想是因为过去可能有一些不透明的事情介入的关系吧。 ... 政党应该是要和相同理念、路线的人一起组成,卢武铉候选人与我的理念、路线、国家观 则截然不同。 ... 当时考虑执政党和我的理念、路线不同,拒绝了和执政党的合作。",
+    "title" :"Frustration Trains Me and Hope Stimulates Me (Mandarin Edition)",
+    "metadata" :"Geun-hye Park - 2014 - Fiction",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=K-MrAwAAQBAJ&pg=PA30&lpg=PA30&dq=%E5%9B%BD%E5%AE%B6%E5%BA%94%E8%AF%A5%E8%80%83%E8%99%91%E7%9A%84%E6%98%AF%E7%99%BE%E5%B9%B4%E5%90%8E%E4%BA%8B%E6%83%85&source=bl&ots=tOGItwrpyX&sig=DDQ6mEkGm3zeaUnp9j3VeMVYJH0&hl=zh-TW&sa=X&ved=0ahUKEwi_l_KHmsDUAhWDerwKHfA1AS0Q6AEISzAJ",
+    "abstract" :"加坡一樣小,事情就好辦多了。 ... 我很多年已經沒用“學習”這個字眼來面對國家的行動了,但我最近覺得我不應該如此, ... 的號召,我相信中國跨越這兩百年的差距,即是從1840年到2050年這兩百年,是很有把握的。 ... 為了自己的生存而考慮,至少每個家庭、個人都要考慮一下如何使自己成為一個學習型的、不斷進步的人和家庭,這很重要。",
+    "title" :"五十年後 - 第 30 頁 - Google 圖書結果",
+    "metadata" :"葉國華 - 2008 - Social Science",
+    },
+    ],
+######
+#Q_5_2 #: 由区块链解决直接解决了冲突，国家还剩下哪些东东
+######
+"Q_5_2": [" 由区块链解决直接解决了冲突，国家还剩下哪些东东",
+    {
+    "url" :"http://www.chinacloud.cn/show.aspx?id=25907&cid=12",
+    "abstract" :"2017年6月2日 - 区块链是分布式数字存储、点对点传输、共识机制、加密算法等技术的集成应用。 ... 一是在不同机构或个人之间缺乏互信并缺少中介的情况下，实现数据的直接交换。 ... 目前，爱沙尼亚、格鲁吉亚等国家政府正尝试采用区块链技术对重要资产 ... 音乐、视频等)的交易平台“Monograph”，采用区块链技术解决数字艺术品的 ...",
+    "title" :"区块链技术在物联网中应用的思路探讨 - 中国云计算",
+    },
+    {
+    "url" :"http://article.yeeyan.org/view/592613/508920",
+    "abstract" :"2016年12月9日 - 我们知道大部分的新项目和区块链一点关系都没有。下面是它如何发挥 .... 而且已经有一个众所周知的解决这个问题的方法：信任的中介。也就是说是 ...",
+    "title" :"译言-避免无意义的区块链项目",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E5%86%B7%E6%88%98",
+    "abstract" :"冷戰（英语：Cold War）指的是第二次世界大战之后，以美國及英國為首的资本主义阵营、與以蘇聯 ... 直接的對抗。美蘇兩方在許多第三世界的國家進行了一系列政治和軍事的衝突，包括了拉丁美洲、非洲、中東、和東南亞地帶。 .... 在盟軍佔領下的德國，蘇聯、美國、英國、和法國各自設置了佔領區塊，成為四國共治的局面。 隨著聯合國 ...",
+    "title" :"冷战- 维基百科，自由的百科全书",
+    },
+    {
+    "url" :"http://chainb.com/?P=Cont&id=3588",
+    "abstract" :"2017年2月21日 - 最近开放音乐倡议联盟希望利用区块链技术来解决这些争端，主要是通过让唱片 ... Epstein说，有许多公司致力于为音乐制作提供区块链解决方案，包括dotblockchain ... 另一个问题是“元数据本身的动态和冲突性质”，Epstein说。",
+    "title" :"区块链能否让音乐再次成功？ ChainB.com",
+    },
+    {
+    "url" :"https://www.facebook.com/startuplatte/posts/973441266133853",
+    "abstract" :"深入了解區塊鏈對音樂產業的影響】 區塊鏈不只應用於金融在音樂產業方面也重新塑造音樂的銷售、發行及版權模式『一個產業革新的成功與否，技術往往只占10%， 剩下90%都是人的因素。 ... 對於區塊鏈解決音樂產業的問題，各位有什麼看法？ ... 與大眾直接互動，但在銷售、發行、版權等方面，卻與過去唱片工業興盛時期沒什麼太…",
+    "title" :"【  深入了解區塊鏈對音樂產業的影響】 區塊鏈不只應用於金融... - 創新拿 ...",
+    },
+    {
+    "url" :"http://ls.edb.hkedcity.net/file/about/related_publications/modern_china_c1.pdf",
+    "abstract" :"毋須局限於內地，香港以至其他華人地區的相關例子，都是可以採用的。至於有 ..... 動對國家整體發展的影響；而就綜合國力而言，則探究改革開放在多大程度上影. 響了國家的綜合國力。 ▫ .... 了解當中哪些屬於制度（例如戶籍）、經濟發展等方面的因素，哪 ..... 推進戶籍制度改革，固然有助解決三農問題；然而青壯年農民進城工作，令農.",
+    "title" :"[PDF] Untitled",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/21021759",
+    "abstract" :"亦有部分风投资金直接购买了比特币，例如在美国FBI对暗网黑市缴获比特币的拍卖 .... 但比特币解决了这个问题，你给了别人一个比特币，你就没有这个比特币了，如果 ..... 3.2.3、不可欺诈的合同和经济在真实世界的资产和货币都映射到比特币区块链中 ..... 某百亿富豪将一亿资金存储在比特币中，即使因比特币暴跌而只剩下一千万，那 ...",
+    "title" :"比特币是骗局吗？ - 知乎",
+    },
+    {
+    "url" :"http://www.21jrr.com/news/times/2017/0328/220524.html",
+    "abstract" :"2017年3月28日 - 3月26日下午，中国区块链应用普及工程--区块链+应用普及全国巡讲 ... 世界范围有哪些新技术、解决方案在尝试，水平如何？ ... 杨东说，区块链技术虽然好，但它也存在着风险，就是跟现有的法律法规和监管存在着冲突，这是最大的问题， ... 次新股1季度暴涨盛宴过后还剩下什么？4月份行情又该如何把握，哪些公司、 ...",
+    "title" :"中国区块链应用普及工程启动新闻发布会在京召开_天下金融网",
+    },
+    {
+    "url" :"http://www.cfachina.org/yjycb/cbw/zgqh/201611/P020161109587015446921.pdf",
+    "abstract" :"术的前世今生以及证券期货行业关于区块链的探索和思考，希望借此带您畅游于. 区块链这一 ... 19 区块链：解决场外衍生品市场痛点的一剂良药文/ 裴英剑刘建民周伟明. 24 从区块链 .... 9 月22 日国家发改委下发特急会议通知，召集部分省 ... 者将可成为CFE 交易特权持有者(TPHs)，并直接进入CFE .... 便利的同时，又会存在哪些风险？",
+    "title" :"[PDF] 当衍生品遇上区块链： 一场金融与科技的碰撞 - 中国期货业协会",
+    },
+    {
+    "url" :"http://www.nifd.cn/Interview/InterviewList?pageIndex=1",
+    "abstract" :"银行零售转型面临哪些挑战？ ... 在李扬看来，中国改革开放近40年发展积累了大量财富，为解决不良资产带来的金融风险提供了“家底”保障。 ..... 通过加码宽松货币政策做大分母降杠杆的路走不通，那就只剩下缩减分子的唯一道路了。 .... 社科院杨涛：区块链当前最大风险是“捧杀” 时间：2016-08-04 来源：一条财经“区块链”已经过了早期 ...",
+    "title" :"1 - 国家金融与发展实验室",
+    },
+    ],
+######
+#Q_5_5 #: 一个民族的产生需要多少年
+######
+"Q_5_5": [" 一个民族的产生需要多少年",
+    {
+    "url" :"https://books.google.com.hk/books?id=Zrk_CwAAQBAJ&pg=PA97&lpg=PA97&dq=%E4%B8%80%E4%B8%AA%E6%B0%91%E6%97%8F%E7%9A%84%E4%BA%A7%E7%94%9F%E9%9C%80%E8%A6%81%E5%A4%9A%E5%B0%91%E5%B9%B4&source=bl&ots=VhDJmnXZ0q&sig=Xd7p2BDjGR0ZJ3jwOYfA5GAX2Ks&hl=zh-TW&sa=X&ved=0ahUKEwjGlMCUmsDUAhXGy7wKHZ66BMsQ6AEIJDAA",
+    "abstract" :"但是,向前的动向却是不可阻遏的,所以,即使连伟大的先知也无从预知:还需要多少撞击、撕裂、磨合,中国才能形成一个思想的场!一个富于生命的民族广场!为了一种新的 ...",
+    "title" :"Dreaming of China（The two-volume）梦见中国（两卷本）",
+    "metadata" :"Xuanjun Xie",
+    },
+    {
+    "url" :"http://baike.baidu.com/item/%E6%B0%91%E6%97%8F",
+    "abstract" :"由于历史的原因，一个国家可以有不同民族，一个民族可以生活在不同的国家里。一个国家也可以有多个民族注：民族的概念，是近代根据人类进化史及种族研究所得来的 ... 人类最早的社会集团是原始群，随着生产力的发展和生产的需要，才结成稳定的 ...",
+    "title" :"民族（经长期历史发展而形成的稳定共同体）_百度百科",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E5%9B%BD%E5%AE%B6",
+    "abstract" :"国家或国，有時稱為邦，从广义的角度，国家是指拥有共同的语言、文化、种族、血统、领土、政权或者历史的社会群体。从狭义的角度，国家是一定范围内的人群所形成的共同体形式。 一般国家行政管理当局是国家的象徵，它是一種擁有治理一個社會的權力的国家 ... 另一個被譯為國家的英語單字nation，原是民族的意義，因為民族國家（ ...",
+    "title" :"国家- 维基百科，自由的百科全书",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E6%B0%91%E6%97%8F%E5%9C%8B%E5%AE%B6",
+    "abstract" :"本條目需要補充更多來源。（2014年10月28 ... 民族國家（英語：Nation state），一種國家的形式與意識型態，不只是一個政治及地理的單一實體，在文化與族群上也是一個完整共同體。 .... 其結果可能是重建一個民族認同，或者是產生一或多個新的國家。",
+    "title" :"民族國家- 維基百科，自由的百科全書 - Wikipedia",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=1yXTBwAAQBAJ&pg=PA35&lpg=PA35&dq=%E4%B8%80%E4%B8%AA%E6%B0%91%E6%97%8F%E7%9A%84%E4%BA%A7%E7%94%9F%E9%9C%80%E8%A6%81%E5%A4%9A%E5%B0%91%E5%B9%B4&source=bl&ots=Nigmwt5FRj&sig=6IL3HNei-aVs1KHdDCyeKGJGnyU&hl=zh-TW&sa=X&ved=0ahUKEwjGlMCUmsDUAhXGy7wKHZ66BMsQ6AEIOzAE",
+    "abstract" :"时代呢却永远在前进;每隔五十年,人世间的事便会换一个样子,一种 1800 年还完美无缺 ... 对于一个民族来说,好的制度只可能从自己的本原,从广大民众的需要中产生, ...",
+    "title" :"歌德谈话录 - 第 35 頁 - Google 圖書結果",
+    "metadata" :"(德)艾克曼, 杨武能, Esphere Media（美国艾思传媒） - 2007",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E6%B8%85%E6%9C%9D",
+    "abstract" :"清朝（1616年2月17日、1636年5月15日或1644年6月5日－1912年2月12日），正式國号為大清國（满语：ᡩᠠᡳ᠌ᠴᡳᠩ ᡤᡠᡵᡠᠨ，穆麟德：daicing gurun，太清：daiqing gurun），對外自稱大清帝國，又使用中华大清国、中国等名稱，是中国历史上由滿人建立的一個帝國、也是最后一个專制王朝，统治者为建州女真的爱新觉罗氏。 ..... 為此又制定嚴禁奴僕逃亡的逃人法，激化京畿地區的民族矛盾。",
+    "title" :"清朝- 维基百科，自由的百科全书",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=OXIxAwAAQBAJ&pg=PT113&lpg=PT113&dq=%E4%B8%80%E4%B8%AA%E6%B0%91%E6%97%8F%E7%9A%84%E4%BA%A7%E7%94%9F%E9%9C%80%E8%A6%81%E5%A4%9A%E5%B0%91%E5%B9%B4&source=bl&ots=EELzGcoUuS&sig=3M2kv95U71apRHQcjny4G7jXcbU&hl=zh-TW&sa=X&ved=0ahUKEwjGlMCUmsDUAhXGy7wKHZ66BMsQ6AEIRjAG",
+    "abstract" :"非法。1949年菲格雷斯•費雷爾把政權移交給當選的民族聯盟党領袖 O.烏拉特• ... 政治 1821年12月制訂的憲法規定總統為國家元首和政府首腦,由普選產生, ... 議長每年改選一次。1950年,哥斯大黎加憲法規定解散軍隊,沒有軍隊是這個國家的一個特點。",
+    "title" :"快樂需要放縱:  - Google 圖書結果",
+    "metadata" :"涼秋 - 2006 - Travel",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F",
+    "abstract" :"中華民族，是一個政治及國族概念，亦是中國近代民族主義建立國族的重要概念，該詞最早在晚清由 .... 中華民族概念的共同使用和民族整體性的強調，對於現代中華民族觀念認同所產生重大影響。 ..... 漢人趙秉鈞、滿人志鈞、蒙人熙凌阿、回人王寬。",
+    "title" :"中华民族- 维基百科，自由的百科全书",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=2zeWBAAAQBAJ&pg=PT15&lpg=PT15&dq=%E4%B8%80%E4%B8%AA%E6%B0%91%E6%97%8F%E7%9A%84%E4%BA%A7%E7%94%9F%E9%9C%80%E8%A6%81%E5%A4%9A%E5%B0%91%E5%B9%B4&source=bl&ots=dGeVOC7KRD&sig=2oWntrYMCf1_bLCwXV1P9q-VoBE&hl=zh-TW&sa=X&ved=0ahUKEwjGlMCUmsDUAhXGy7wKHZ66BMsQ6AEITzAI",
+    "abstract" :"也许,几句坦诚的话语,便能打开一扇紧闭的心门,改变一个人的人生。 ... 疑神疑鬼地瞎猜疑,往往会产生错觉。 ... 的能量,足以销蚀人的勇气和友善,更会使一个国家、一个民族丧失最后的团队精神。 ... 师父,我努力学习的话,需要多少年才能成为一名剑师?",
+    "title" :"再苦也要笑一笑全集Ⅰ:  - Google 圖書結果",
+    "metadata" :"2014",
+    },
+    {
+    "url" :"https://books.google.com.hk/books?id=iFONDgAAQBAJ&pg=PT113&lpg=PT113&dq=%E4%B8%80%E4%B8%AA%E6%B0%91%E6%97%8F%E7%9A%84%E4%BA%A7%E7%94%9F%E9%9C%80%E8%A6%81%E5%A4%9A%E5%B0%91%E5%B9%B4&source=bl&ots=zQirl_4pOs&sig=rKYRLnKKjUbo6C1mb-oeFBItQoY&hl=zh-TW&sa=X&ved=0ahUKEwjGlMCUmsDUAhXGy7wKHZ66BMsQ6AEIUzAJ",
+    "abstract" :"安倍在民族主義驅使下,以祭拜靖國神社亡靈、恢復主權紀念日來為日後的修憲大業鋪路,但是 ... 換句話說,在亞洲可以有一個孤立的日本,但是日本卻無法脫離亞洲。 ... 找回復甦的力道,同時也讓安倍產生一種錯覺,那就是日本經濟的復甦可以不需要亞洲。",
+    "title" :"上一堂最好玩的日本學: 政大超人氣通識課「從漫畫看日本」",
+    "metadata" :"蔡增家 - 2015 - History",
+    },
+    ],
+######
+#Q_5_4 #: 多少人，多长时间会形成一个新民族
+######
+"Q_5_4": [" 多少人，多长时间会形成一个新民族",
+    {
+    "url" :"https://books.google.com.hk/books?id=xnXCCwAAQBAJ&pg=PT268&lpg=PT268&dq=%E5%A4%9A%E5%B0%91%E4%BA%BA%EF%BC%8C%E5%A4%9A%E9%95%BF%E6%97%B6%E9%97%B4%E4%BC%9A%E5%BD%A2%E6%88%90%E4%B8%80%E4%B8%AA%E6%96%B0%E6%B0%91%E6%97%8F&source=bl&ots=qzozE_H3F1&sig=85aVauRYDNwKOOKJwbdoPO4KVJw&hl=zh-TW&sa=X&ved=0ahUKEwjK66KOmsDUAhUCy7wKHfPOAGIQ6AEIJDAA",
+    "abstract" :"在性格方面,西班牙人与意大利的人相比较,智力、雅兴和敏锐显得少一些。 ... 西哥特人的身影,可以从他那忍耐性和固执上看出来,并通过与伊斯兰教阿拉伯人很长时间的战争 ... 这些和其他种族的相互融合,使西班牙种族逐步形成了,他作为了一个新民族。",
+    "title" :"观相学（读酷权威版） - Google 圖書結果",
+    "metadata" :"韦尔斯 - 2015 - Biography & Autobiography",
+    },
+    {
+    "url" :"https://kknews.cc/zh-hk/history/8x554.html",
+    "abstract" :"2016年3月30日 - 雖然猶太民族於3000年前形成後，在上千年的歲月里，一直作為一個符合 ... 大共同要素支撐的民族，用不了多長時間，其成員就會被其他民族吸納， ...",
+    "title" :"這個民族被歐洲人壓制了兩千年,但是堅決不屈服- 每日頭條",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E5%9C%B0%E7%90%83%E6%AD%B7%E5%8F%B2",
+    "abstract" :"地球歷史，在地球由原始太陽星雲的部份物質構成後計起，科學家估計大約有46億到50億年之間。 ... 地球誕生前15至30分鐘（等於大約46億年前），一個鄰近的恒星可能形成了 .... 而所有這些反應持續了很長時間，時多時少，直至一個新分子機緣巧合地出現：複製子（replicator）。 ..... 我們對其由早期生命形式進化而來的過程知道多少?)",
+    "title" :"地球歷史- 维基百科，自由的百科全书",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/zh-hk/%E6%AC%A7%E6%B4%B2%E5%8E%86%E5%8F%B2",
+    "abstract" :"從新石器時代開始，意大利卡莫尼卡河谷就開始有卡慕尼文明，留下歐洲最多的 .... 查里曼的王朝是一個新的西歐日耳曼羅馬帝國——神聖羅馬帝國開始的標誌。 ... 西羅馬帝國滅亡導致西歐政治體制崩潰，但卻形成一個統一的基督教統治結構。 ..... 15世紀末以來，以地理大發現、宗教改革、民族國家的崛起為標誌，歐洲進入近代時期。",
+    "title" :"歐洲歷史- 維基百科，自由的百科全書 - Wikipedia",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/30211276",
+    "abstract" :"约3000年前，雅利安人入侵印度次大陆时为保证少数民族能稳定统治多数土著而 .... 这样就保证了每一个人的种姓是公平的，你这辈子是低种姓只能说明你上辈子造了 ... 他们吃肉喝酒，欺负起普通印度人一点不比婆罗门仁慈多少。 .... 我认为种姓制度可以持续如此长时间的原因之一是“人类的行为会和自身的基因之间形成相互反馈。”",
+    "title" :"印度种姓制度为什么能持续那么长时间？ - 知乎",
+    },
+    {
+    "url" :"http://www.cuhk.edu.hk/ics/21c/media/articles/c157-201609009.pdf",
+    "abstract" :"以我們今天是要從一個在中國歷史上相當特殊也相當重要的一個民族來對民. 族問題進行 .... 學者，可是在南方，這個話題會有多少人關心？前些年我在台灣開一次 ... 個問題，就是關於中華民族的形成——在統一多民族國家的建立與形成過程. 中，滿族人究竟起 .... 思，人數這麼少，統治中國這麼長時間，這要怎麼解釋呢？然後，有人說滿.",
+    "title" :"[PDF] 新清史 - CUHK",
+    },
+    {
+    "url" :"http://www.cuhk.edu.hk/ics/21c/media/online/0504078.pdf",
+    "abstract" :"2005年10月31日 - 一個不斷變化的「民族─文明─共同體」，還是從來就是一個邊界清楚、認同明確、傳統一 ... 深化，中國研究確實在很長時間裏忽略地方差異性而強調了整體同一性， ..... 確實會形成新的論域。1998年，鄭欽仁在《當前中國史研究的反思》中引述 ..... 也許，很多人會想到古代中國的「天下觀念」與「朝貢體制」，覺得古代中國 ...",
+    "title" :"[PDF] 重建關於「中國」的歷史論述 - CUHK",
+    },
+    {
+    "url" :"http://www.bbc.com/zhongwen/simp/press_review/2013/09/130922_press_ft_ccp_collapse",
+    "abstract" :"2013年9月22日 - 在不到5年的时间里，中共将超过苏共和墨西哥的革命制度党，成为有史 ... 现代化政治理论认为，随着一个国家的经济逐渐富裕，中产阶级人数增多，社会就更可能会开始向 ... 只需看看有多少中共干部都已经把子女后代和财产送往国外就可以 .... 中国有两千多年的王朝传统，这个传统形成了民族性格，正如目前不少 ...",
+    "title" :"英媒：共产党还能在中国幸存多久？ - BBC 中文网",
+    },
+    {
+    "url" :"https://medium.com/@LiuZhongjing/%E5%B8%9D%E5%9C%8B-%E9%82%A6%E5%9C%8B%E8%88%87%E6%B0%91%E6%97%8F%E5%9C%8B%E5%AE%B6%E7%9A%84%E6%83%B3%E8%B1%A1-%E4%B8%8A-6df788c1c5bf",
+    "abstract" :"2016年11月11日 - 帝國將各種異質的共同體通過上層精英階級組合，形成一個超越地方性和 ..... 如果帝國也獲得了民族國家的權力，那麼它就會形成一種令人在時間上、在 .... 同樣的道理，印度分離的各個小邦，為了避免巴基斯坦和中國的威脅，多多少少寧願維持 ..... 升級的同化是沒有多少人反對的，但是降級的同化就有很多人反對了。",
+    "title" :"帝國、邦國與民族國家的想象（上） – William Z. Liu | 劉仲敬– Medium",
+    },
+    {
+    "url" :"https://medium.com/@LiuZhongjing/%E5%BE%B7%E6%84%8F%E5%BF%97%E6%86%B2%E5%88%B6%E7%B0%A1%E5%8F%B2-%E5%BE%9E%E7%AC%AC%E4%B8%80%E5%B8%9D%E5%9C%8B%E5%88%B0%E7%AC%AC%E4%B8%89%E5%B8%9D%E5%9C%8B-%E4%B8%80-37a342a2ad5d",
+    "abstract" :"2017年5月7日 - 我們對神聖羅馬帝國的瞭解受法國這一支民族發明的影響最大，而現代德國這一 ... 它做出的裁決經常是非常遲緩，在時過境遷十幾年甚至更長時間以後，才能夠 .... 科隆有一個歷史紀念物叫做一萬一千聖女墓，是不是真有這麼多人那是很難說 ... 城市，它們根據從皇帝所取得的特許狀，由各行會形成的市議會實行統治。",
+    "title" :"德意志憲制簡史: 從第一帝國到第三帝國（一） – William Z. Liu | 劉仲敬 ...",
+    },
+    ],
+######
+#Q_5_6 #:量变引起质变，这个质变点的数量级会是多少呢
+######
+"Q_5_6": ["量变引起质变，这个质变点的数量级会是多少呢",
+    {
+    "url" :"https://kknews.cc/zh-hk/career/942jq8.html",
+    "abstract" :"2016年9月28日 - 量變才能引起質變，銷售冠軍都是拜訪客戶的冠軍，任何脫離數量級的 ... 家客戶，想玩好數量級就要有吃苦精神，這是對身體和精神的雙重考驗。",
+    "title" :"銷售高手不為人知的5大做事習慣- 每日頭條",
+    },
+    {
+    "url" :"http://www.sohu.com/a/146039687_99896290",
+    "abstract" :"2017年6月4日 - 数量级只要一到位，最终都是量变引起质变！ 70天以前，我的生活是回来基本上是玩游戏，玩这个网络游戏玩的比较疯，有时候经常玩到一点多，被 ...",
+    "title" :"70天的努力，终于有了结果，泪水止不住的流了下来2017-06-04 蓝小雨 ...",
+    },
+    {
+    "url" :"http://www.ebrun.com/20170414/226196.shtml",
+    "abstract" :"2017年4月14日 - 亿邦动力网于2017年3月29日请来了，量品iOrderShirts 创始人兼董事 ... 这个是量品从去年1月份到目前每个月我们实际购买的件数的一个数据，在这儿也给大家分享一下 .... 我们企业在这一分钟，利润是多少，亏损多少，流水是什么样的情况。 ... 但是你一旦突破1000件这个数量级，就会发生无数多的一个错误和问题 ...",
+    "title" :"服装产业的质变秘诀- 鞋服- 亿邦动力网",
+    },
+    {
+    "url" :"http://zdzsc.zju.edu.cn/index.php?c=Index&a=detail&catid=111&id=1373",
+    "abstract" :"2017年4月19日 - 在我的理解来讲是，当土壤中因为缺少某一种物质而使污染物释放出来，成为污染源。 ... 在这个过程中，我们的核心成员中有6位获得国家杰青基金资助，并且都是研究 ... 其中碳与硅耦合的过程非常重要，会使其从量变引起质变，这是由很多微观的机理控制的。 .... 或者您认为往土壤当中添加生物碳最佳的频率是多少？",
+    "title" :"向自然学习土壤污染防治 - 浙江大学本科招生网",
+    },
+    {
+    "url" :"https://zh.wikipedia.org/wiki/%E6%95%B0%E9%87%8F%E7%BA%A7",
+    "abstract" :"數量級是指數量的尺度或大小的级别，每个级别之间保持固定的比例。通常采用的比例 ..... 和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。 维基媒体基金会是在美国佛罗里达州登记的501(c)(3)免税、非营利、慈善机构。",
+    "title" :"数量级- 维基百科，自由的百科全书",
+    },
+    {
+    "url" :"http://www.jianshu.com/p/f1b96d3d0a0f",
+    "abstract" :"2016年11月9日 - 你是否也可以借鉴这个办法火起来呢？ 你希望自己火 ... 如果你火了，随便说一句话，一个广告费都不知道多少钱！ ... 做事也是一样，量变会引起质变的，想想你今年能否有一件事可以拿出来炫耀的！就是做 ... 但数量级是基础所在！",
+    "title" :"电话销售技巧和话术：不知疲倦，反复执行，不断提升- 简书",
+    },
+    {
+    "url" :"https://book.douban.com/review/7577912/",
+    "abstract" :"2015年8月23日 - ... 有一条哲学是非常经典的，就是量变会引起新的质变，而在新的一级质上，又会 ... 而更多的像是乘了好几个数量级的传播，从2的平方，到4的平方，到16的 ... 又让多少人开始竞相模仿这么多年，这是个人影响力所带来的引爆，这个点 ...",
+    "title" :"流行是怎么产生的(评论: 引爆点) - 豆瓣读书",
+    },
+    {
+    "url" :"https://www.douban.com/note/531577762/",
+    "abstract" :"2015年12月28日 - 不累积到一个数量级是看不出效果的 .... 到了半个月的时候才会警醒自己：这都过去半个月了，我还没看完一本书，这个月的计划 ... 但真正能坚持去做的，能最终实现梦想的，为数不多少之又少。 ..... 量变引起质变，前提是选对大方向。",
+    "title" :"不累积到一个数量级是看不出效果的 - 豆瓣",
+    },
+    {
+    "url" :"https://read01.com/6M350j.html",
+    "abstract" :"2017年3月2日 - 董明珠：把我的這一套銷售技巧掌握，保證你業績翻倍！ ... 但請注意，冒充客戶給同行打電話，數量級是100個起。 ... 沒有強調要合作中央空調項目，話術落腳點是我要給他介紹客戶，今後大家一起賺錢。 ... 都用了，收益很好；再比如，這是行業發展趨勢，能幫助您公司節約多少成本；再比如， ... 堆積的量變會引起質變！",
+    "title" :"董明珠：把我的這一套銷售技巧掌握，保證你業績翻倍！ - 壹讀",
+    },
+    {
+    "url" :"https://www.zhihu.com/question/32314109",
+    "abstract" :"轨道空间站这种地图的设定，首先肯定是有引力的，其次，不会是完全真空。 ..... 在星际争霸的背景之下，三个种族对能量利用的数量级远远超过这个时代量变引起质变 ...",
+    "title" :"星际争霸系列中的虫族到底是如何在外太空飞行的？ - 知乎",
     },
     ],
 ######
@@ -396,8 +799,8 @@ Q_dict = {
     {
     "url" :"http://www.cnki.com.cn/Article/CJFDTotal-JSYJ201701009.htm",
     "abstract" :"城市交通网元胞自动机流量预测阻塞—转移. ... 5, 宋伟;李美彦;胡晓琴;;基于元胞自动机的人员疏散微观仿真[J];交通科技与经济;2011年03期. 6, 李才伟,胡瑞安;自组织 ...",
-    "title" :"城市交通网元胞自动机全局流量预测方法--《计算机应用研究》2017年01期",
     "metadata" :"由 张凤琴 著作 - 2017",
+    "title" :"城市交通网元胞自动机全局流量预测方法--《计算机应用研究》2017年01期",
     },
     {
     "url" :"http://www.xzbu.com/7/view-7924789.htm",
@@ -417,8 +820,8 @@ Q_dict = {
     {
     "url" :"http://www.tcsae.org/nygcxb/ch/reader/create_pdf.aspx?file_no=20120341",
     "abstract" :"耕地保护和经济发展的矛盾将会进一步增大，可为政府和土地管理部门制定政策提供一定的参考，从而采取更 ... 选择灰色模型作为数量预测模型，元胞自动机模型作为.",
-    "title" :"[PDF] 元胞自动机模型的佛山市土地利用情景模拟分析 - 农业工程学报",
     "metadata" :"由 王丽萍 著作 - 2012 - 被引用 38 次 - 相關文章",
+    "title" :"[PDF] 元胞自动机模型的佛山市土地利用情景模拟分析 - 农业工程学报",
     },
     ],
 ######
@@ -463,8 +866,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=wtMkDwAAQBAJ&pg=PA26&lpg=PA26&dq=%E7%BB%8F%E6%B5%8E%E9%A2%84%E6%B5%8B+%E6%A8%A1%E5%9E%8B&source=bl&ots=aXnY4MYR25&sig=j1YXFs57CbyjNDh5RdJBnf6Gf9s&hl=zh-TW&sa=X&ved=0ahUKEwjqy9v6wZ_UAhVDLpQKHeBCBAYQ6AEIaDAI",
     "abstract" :"经济预测不应该成为计量经济学模型的主要应用领域。诚然,计量经济学模型作为一类经济数学模型,是从用于经济预测,特别是短期预测而发展起来的。在20世纪50 ...",
-    "title" :"计量经济学模型方法论:  - 第 26 頁 - Google 圖書結果",
     "metadata" :"李子奈等著 - 2011 - Business & Economics",
+    "title" :"计量经济学模型方法论:  - 第 26 頁 - Google 圖書結果",
     },
     {
     "url" :"http://www.ftchinese.com/story/001044742?full=y",
@@ -494,8 +897,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=RD7ZCQAAQBAJ&pg=PT63&lpg=PT63&dq=%E4%BB%80%E4%B9%88%E6%98%AF%E8%8C%83%E5%BC%8F%E9%9D%A9%E5%91%BD&source=bl&ots=GtZ_b4keYn&sig=zI5zvZOSD3W9rst5rL2eUJ7U0nE&hl=zh-TW&sa=X&ved=0ahUKEwjjg8SZ4J3UAhVFjpQKHSSzDBYQ6AEIXTAJ",
     "abstract" :"削,其内涵被扩展后,对马克思的现代社会发展理论的意义是什么。这是一个必须考察,而且 ... 他们认为,传统的发展范式已经不适应社会发展现实,需要转换为新的发展范式。三位新发展理论的研究 ... 范式革命”是一种形而上学的革命。一种新范式的出现 ...",
-    "metadata" :"刘新刚 - 2015",
     "title" :"马克思现代社会发展理论的价值维度:  - Google 圖書結果",
+    "metadata" :"刘新刚 - 2015",
     },
     ],
 ######
@@ -520,8 +923,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=TXbhDgAAQBAJ&pg=PA31&lpg=PA31&dq=%E6%9C%AA%E6%9D%A5%E7%BB%8F%E6%B5%8E+%E7%9A%84%E5%8F%91%E5%B1%95%E6%A8%A1%E5%9E%8B&source=bl&ots=6ZGydERq9P&sig=Tz6NbkQPZJ8MiNi8rl-j0Qq6DUg&hl=zh-TW&sa=X&ved=0ahUKEwiyiouLs4vUAhUCnZQKHclRDDoQ6AEIODAC",
     "abstract" :"它是制定国民经济和企业生产经营发展的十年计划、远景计划,规定经济长期发展 ... 全面的调查统计资料和经济信息,运用统计方法和数学模型,对经济现象未来发展的 ...",
-    "metadata" :"胡光宇  编著.  - 2010 - Psychology",
     "title" :"战略定量研究基础——预测与决策:  - 第 31 頁 - Google 圖書結果",
+    "metadata" :"胡光宇  编著.  - 2010 - Psychology",
     },
     {
     "url" :"http://finance.sina.com.cn/roll/2017-01-19/doc-ifxzutkf1947589.shtml",
@@ -531,8 +934,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=YQbODgAAQBAJ&pg=PT153&lpg=PT153&dq=%E6%9C%AA%E6%9D%A5%E7%BB%8F%E6%B5%8E+%E7%9A%84%E5%8F%91%E5%B1%95%E6%A8%A1%E5%9E%8B&source=bl&ots=sDNI1IO90W&sig=aIYXrlTkypX8uneM3CatxmXPhg8&hl=zh-TW&sa=X&ved=0ahUKEwiyiouLs4vUAhUCnZQKHclRDDoQ6AEIYTAJ",
     "abstract" :"CGE模型的优点在于它能根据不同的政策和对策来分析未来的经济活动。CGE模型在世界各地应用广泛,众多构模小组使用CGE模型对经济活动和政策实施进行模拟, ...",
-    "metadata" :"/刘德顺等主编.",
     "title" :"清洁发展机制在中国：采取积极和可持续的方式:  - Google 圖書結果",
+    "metadata" :"/刘德顺等主编.",
     },
     ],
 ######
@@ -547,8 +950,8 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=af7VCwAAQBAJ&pg=PT20&lpg=PT20&dq=%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80+%E7%AA%81%E7%A0%B4%E8%B7%AF%E7%BA%BF&source=bl&ots=PNfbYqIR98&sig=5vbpRdFdKQq-LcGmetTij2biSo8&hl=zh-TW&sa=X&ved=0ahUKEwjytbibs4vUAhXTq5QKHW6LDC8Q6AEIMTAC",
     "abstract" :"... 以及教育技术等国家重点优先领域的发展和突破,形成一个金字塔形的战略。经济危机之后,英国一直秉持利用科技进步推动经济发展的思路,紧紧围绕促进经济发展 ... 发展战略》出台,提出了涵盖通讯、传感、探测和太空利用等领域的技术路线图。俄罗斯进一步明确了未来科技发展的优先方向,政府采取一系列措施加大了对科技创新的 ...",
-    "metadata" :"雷良海, 吕小军 - 1900 - Business & Economics",
     "title" :"财政科技支出 - Google 圖書結果",
+    "metadata" :"雷良海, 吕小军 - 1900 - Business & Economics",
     },
     {
     "url" :"https://kknews.cc/zh-hk/tech/8yzkjg.html",
@@ -558,21 +961,39 @@ Q_dict = {
     {
     "url" :"https://books.google.com.hk/books?id=G6UvDAAAQBAJ&pg=PA274&lpg=PA274&dq=%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80+%E7%AA%81%E7%A0%B4%E8%B7%AF%E7%BA%BF&source=bl&ots=eNlAFyfI28&sig=uMOX04KG2hs6lss2FI_i5oriCpk&hl=zh-TW&sa=X&ved=0ahUKEwjytbibs4vUAhXTq5QKHW6LDC8Q6AEIWDAJ",
     "abstract" :"這些把意識上傳到電腦的方法,所需要的科技要在很久的未來才有可能實現。不過至少有 ... 不過最近十年,一個新的理論慢慢為人接受,統一了許多不同路線的老化研究。",
-    "metadata" :"加來道雄 - 2015 - Science",
     "title" :"2050科幻大成真: 超能力、心智控制、人造記憶、遺忘藥丸、奈米機器人，即將改變我們的世界",
+    "metadata" :"加來道雄 - 2015 - Science",
     },
     ],
 }
 keyword_list = [ 
-   " 未来会不会出现超级公司",
-   " 未来的国家权力会变什么样",
-   " 由区块链解决直接解决了冲突，国家还剩下哪些东东",
-   " 国家应该考虑的是百年后事情",
-   " 多少人，多长时间会形成一个新民族",
-   " 一个民族的产生需要多少年",
-   "量变引起质变，这个质变点的数量级会是多少呢",
+   "   秩",
+   "   联接",
+   "   本质",
+   "   排列组合",
+   "   复利",
+   "   概率",
+   "   演化",
+   "   balance shift",
+   "   证伪",
+   "   弹性",
+   "   trade off",
+   "   近同反",
+   "   合并",
+   "   健康",
+   "   展示",
+   "   有用",
+   "   极限",
+   "   未来",
+   "   不确定",
+   "   分层模块化",
+   "   不动点",
+   "   分块",
+   "   建模",
+   "   很感谢你能能来，不遗憾你离开",
+   "   是什么",
 ]
-meta_data = {"status":"mc","Major": 4,"Minor": 2,"Prefix": "Q"}
+meta_data = {"status":"hc","Major": 5,"Minor": 7,"Prefix": "Q"}
 km_0_title = "未来经济"
 km_0_summary = "ummary_tp"
 km_1_tags = []
